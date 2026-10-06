@@ -2,26 +2,29 @@
 Interactive Power BI dashboard for sales and profit analysis and business profit optimization.
 
 📊 Project Overview
-The Profit Optimization Dashboard is an interactive Power BI dashboard designed to analyze sales and profitability performance.
-The dashboard provides insights into sales, profit, orders, customers, and profit margins, helping identify profitable areas and opportunities to improve overall business performance.
+
+The Profit Optimization Dashboard is an interactive Power BI project designed to analyze sales performance, profitability, orders, customers, and profit margins.
+
+The dashboard helps identify profitable products, categories, and business segments while highlighting areas where profit can be improved.
 
 🎯 Objectives
+
 Analyze overall sales and profit performance
-Track key business KPIs
-Analyze orders and customers
-Identify profitable and less-profitable areas
+Track total sales, profit, orders, and customers
+Identify high-profit and low-profit products
 Analyze profit margins
-Understand sales and profit trends
-Support data-driven business decisions
+Compare sales and profit across different categories
+Identify opportunities for profit optimization
+Provide interactive insights through Power BI
 
 🛠️ Tools & Technologies
 Power BI
+SQL
 Microsoft Excel
-Power Query
-DAX
 Data Cleaning
 Data Analysis
 Data Visualization
+DAX
 
 📌 Key KPIs
 Total Sales
@@ -31,31 +34,42 @@ Total Customers
 Profit Margin
 
 📈 Dashboard Features
-Interactive KPI Cards
-Sales Analysis
-Profit Analysis
-Orders Analysis
+KPI Cards
+Sales and Profit Analysis
+Category-wise Performance
+Product-wise Profitability
 Customer Analysis
 Profit Margin Analysis
-Category/Product Performance
-Interactive Slicers and Filters
+Interactive Filters and Slicers
 Business Insights
 
 💡 Key Insights
-The dashboard helps identify:
-High-profit and low-profit areas
-Sales and profit performance
-Customer contribution
-Profit margin trends
-Areas with opportunities for profit improvement
+
+The dashboard can be used to identify:
+
+Products generating higher profits
+Categories with stronger profitability
+Areas with low profit margins
+Sales trends and performance
+Customers contributing significantly to revenue
+Opportunities to improve overall profitability
+
+📷 Dashboard Preview
+
+Add your Power BI dashboard screenshot here.
 
 📁 Project Files
-Profit_Optimization_Dashboard.pbix – Power BI dashboard
-Dashboard_Screenshot.png – Dashboard preview
-Dataset.xlsx – Dataset used for analysis
+.pbix – Power BI dashboard
+.csv / .xlsx – Dataset
+.sql – SQL queries
+.pdf – Dashboard/report documentation
 
 👨‍💻 Author
+
 Rajesh Nagella
+
 B.Tech – Computer Science and Engineering
+
+Skills: Power BI | SQL | Python | Excel | Data Analysis
 
 Skills: Power BI | Excel | Python | Data Analysis
