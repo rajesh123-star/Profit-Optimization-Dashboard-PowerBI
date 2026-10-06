@@ -7,6 +7,7 @@ The Profit Optimization Dashboard is an interactive Power BI dashboard designed 
 
 The dashboard provides insights into sales, profit, orders, customers, and profit margins, helping identify profitable areas and opportunities to improve overall business performance.
 
+
 🎯 Objectives
 Analyze overall sales and profit performance
 Track key business KPIs
@@ -23,12 +24,14 @@ DAX
 Data Cleaning
 Data Analysis
 Data Visualization
+
 📌 Key KPIs
 Total Sales
 Total Profit
 Total Orders
 Total Customers
 Profit Margin
+
 📈 Dashboard Features
 Interactive KPI Cards
 Sales Analysis
@@ -39,6 +42,7 @@ Profit Margin Analysis
 Category/Product Performance
 Interactive Slicers and Filters
 Business Insights
+
 💡 Key Insights
 
 The dashboard helps identify:
@@ -48,10 +52,12 @@ Sales and profit performance
 Customer contribution
 Profit margin trends
 Areas with opportunities for profit improvement
+
 📁 Project Files
 Profit_Optimization_Dashboard.pbix – Power BI dashboard
 Dashboard_Screenshot.png – Dashboard preview
 Dataset.xlsx – Dataset used for analysis
+
 👨‍💻 Author
 
 Rajesh Nagella
