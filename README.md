@@ -1,5 +1,6 @@
 # Profit-Optimization-Dashboard-PowerBI
 Interactive Power BI dashboard for sales and profit analysis and business profit optimization.
+
 📊 Project Overview
 
 The Profit Optimization Dashboard is an interactive Power BI dashboard designed to analyze sales and profitability performance.
