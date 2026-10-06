@@ -1,0 +1,1501 @@
+﻿Order ID,Order Date,Year,Month,Month Name,Year-Month,Region,Category,Sub-Category,Customer,Quantity,Discount,Discount Band,Sales,Profit
+ORD-0651,2024-01-01 00:00:00,2024,1,Jan,2024-01,West,Technology,Accessories,Customer 098,2,0.1,1-10%,150.43,27.56
+ORD-0793,2024-01-01 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Art,Customer 217,4,0.05,1-10%,119.95,23.45
+ORD-0075,2024-01-01 00:00:00,2024,1,Jan,2024-01,South,Technology,Phones,Customer 288,3,0.05,1-10%,1581.32,435.58
+ORD-0675,2024-01-01 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Storage,Customer 071,5,0.1,1-10%,384.42,82.59
+ORD-1380,2024-01-01 00:00:00,2024,1,Jan,2024-01,East,Technology,Accessories,Customer 128,1,0.2,11-20%,65.21,11.7
+ORD-1419,2024-01-02 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Binders,Customer 276,1,0.2,11-20%,37.93,7.14
+ORD-1013,2024-01-02 00:00:00,2024,1,Jan,2024-01,South,Furniture,Chairs,Customer 273,1,0,No Discount,173.73,22.32
+ORD-0831,2024-01-02 00:00:00,2024,1,Jan,2024-01,East,Office Supplies,Storage,Customer 020,7,0.15,11-20%,438.32,123.15
+ORD-0087,2024-01-03 00:00:00,2024,1,Jan,2024-01,East,Technology,Laptops,Customer 274,7,0.3,21-30%,4960.4,343.59
+ORD-0207,2024-01-03 00:00:00,2024,1,Jan,2024-01,South,Office Supplies,Paper,Customer 117,5,0.3,21-30%,88.33,14.32
+ORD-0439,2024-01-03 00:00:00,2024,1,Jan,2024-01,North,Furniture,Bookcases,Customer 133,6,0,No Discount,1259.79,276.35
+ORD-0756,2024-01-04 00:00:00,2024,1,Jan,2024-01,West,Technology,Phones,Customer 219,2,0.05,1-10%,1073.68,195.83
+ORD-1289,2024-01-04 00:00:00,2024,1,Jan,2024-01,South,Office Supplies,Binders,Customer 174,4,0.1,1-10%,172.25,47.6
+ORD-1440,2024-01-06 00:00:00,2024,1,Jan,2024-01,North,Technology,Laptops,Customer 099,1,0.05,1-10%,697.34,164.09
+ORD-0232,2024-01-07 00:00:00,2024,1,Jan,2024-01,West,Office Supplies,Storage,Customer 130,4,0.2,11-20%,233.28,31.07
+ORD-0124,2024-01-07 00:00:00,2024,1,Jan,2024-01,East,Technology,Accessories,Customer 036,2,0,No Discount,153.71,26.7
+ORD-0452,2024-01-07 00:00:00,2024,1,Jan,2024-01,East,Furniture,Chairs,Customer 017,2,0.15,11-20%,293.65,11.76
+ORD-1134,2024-01-08 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Paper,Customer 183,1,0.2,11-20%,15.4,2.21
+ORD-1335,2024-01-08 00:00:00,2024,1,Jan,2024-01,South,Technology,Laptops,Customer 027,1,0.1,1-10%,771.21,152.64
+ORD-0518,2024-01-10 00:00:00,2024,1,Jan,2024-01,West,Office Supplies,Art,Customer 113,3,0.3,21-30%,85.16,17.12
+ORD-1136,2024-01-10 00:00:00,2024,1,Jan,2024-01,West,Office Supplies,Paper,Customer 218,7,0.3,21-30%,116.07,16.47
+ORD-1170,2024-01-11 00:00:00,2024,1,Jan,2024-01,North,Technology,Phones,Customer 206,5,0,No Discount,3838.96,1169.38
+ORD-0902,2024-01-11 00:00:00,2024,1,Jan,2024-01,South,Furniture,Bookcases,Customer 141,1,0,No Discount,253.84,50.26
+ORD-1117,2024-01-12 00:00:00,2024,1,Jan,2024-01,West,Technology,Phones,Customer 196,7,0.2,11-20%,3453.7,507.98
+ORD-1115,2024-01-12 00:00:00,2024,1,Jan,2024-01,South,Technology,Accessories,Customer 271,7,0.4,31-40%,334.2,11.94
+ORD-0567,2024-01-12 00:00:00,2024,1,Jan,2024-01,South,Technology,Phones,Customer 226,1,0.1,1-10%,442.75,64.83
+ORD-0915,2024-01-12 00:00:00,2024,1,Jan,2024-01,South,Furniture,Bookcases,Customer 057,4,0.2,11-20%,845.47,69.74
+ORD-0761,2024-01-13 00:00:00,2024,1,Jan,2024-01,East,Office Supplies,Storage,Customer 057,1,0,No Discount,82.76,22.71
+ORD-0368,2024-01-13 00:00:00,2024,1,Jan,2024-01,North,Furniture,Bookcases,Customer 137,2,0.15,11-20%,358.25,49.53
+ORD-1283,2024-01-13 00:00:00,2024,1,Jan,2024-01,South,Office Supplies,Art,Customer 146,6,0.2,11-20%,185.13,36.83
+ORD-0348,2024-01-13 00:00:00,2024,1,Jan,2024-01,East,Technology,Laptops,Customer 022,7,0.15,11-20%,6496.64,780.74
+ORD-1238,2024-01-13 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Art,Customer 025,3,0,No Discount,124.01,39.37
+ORD-0678,2024-01-13 00:00:00,2024,1,Jan,2024-01,East,Furniture,Tables,Customer 203,7,0.05,1-10%,2034.76,168.11
+ORD-1389,2024-01-14 00:00:00,2024,1,Jan,2024-01,South,Furniture,Chairs,Customer 183,1,0.4,31-40%,102.46,-2.01
+ORD-0978,2024-01-14 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Art,Customer 105,1,0,No Discount,34.08,10.77
+ORD-0478,2024-01-14 00:00:00,2024,1,Jan,2024-01,South,Office Supplies,Art,Customer 182,3,0.4,31-40%,73.48,8.14
+ORD-1222,2024-01-14 00:00:00,2024,1,Jan,2024-01,South,Office Supplies,Art,Customer 199,5,0.15,11-20%,123.12,29.65
+ORD-1435,2024-01-14 00:00:00,2024,1,Jan,2024-01,South,Technology,Phones,Customer 094,6,0.2,11-20%,2787.43,435.79
+ORD-0783,2024-01-14 00:00:00,2024,1,Jan,2024-01,East,Technology,Accessories,Customer 216,5,0.1,1-10%,374.55,81.83
+ORD-1390,2024-01-14 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Paper,Customer 083,3,0.1,1-10%,79.84,13.53
+ORD-0088,2024-01-15 00:00:00,2024,1,Jan,2024-01,East,Furniture,Bookcases,Customer 273,1,0.2,11-20%,148.04,14.65
+ORD-0843,2024-01-16 00:00:00,2024,1,Jan,2024-01,West,Technology,Laptops,Customer 228,6,0.1,1-10%,4731.95,1278.44
+ORD-1315,2024-01-16 00:00:00,2024,1,Jan,2024-01,East,Technology,Phones,Customer 230,6,0.2,11-20%,2528.76,312.6
+ORD-0033,2024-01-17 00:00:00,2024,1,Jan,2024-01,West,Furniture,Chairs,Customer 099,4,0.4,31-40%,530.05,41.39
+ORD-0138,2024-01-17 00:00:00,2024,1,Jan,2024-01,East,Technology,Laptops,Customer 080,2,0.2,11-20%,1455.34,163.2
+ORD-0705,2024-01-18 00:00:00,2024,1,Jan,2024-01,East,Technology,Phones,Customer 283,4,0,No Discount,3038.71,618.61
+ORD-1405,2024-01-18 00:00:00,2024,1,Jan,2024-01,North,Technology,Laptops,Customer 002,6,0.3,21-30%,4645.85,308.83
+ORD-1050,2024-01-19 00:00:00,2024,1,Jan,2024-01,South,Technology,Accessories,Customer 192,4,0.15,11-20%,252.16,55.98
+ORD-1307,2024-01-20 00:00:00,2024,1,Jan,2024-01,North,Technology,Accessories,Customer 269,1,0,No Discount,81.24,24.01
+ORD-1462,2024-01-21 00:00:00,2024,1,Jan,2024-01,West,Technology,Accessories,Customer 166,1,0,No Discount,110.68,27.99
+ORD-0630,2024-01-21 00:00:00,2024,1,Jan,2024-01,South,Furniture,Chairs,Customer 287,2,0,No Discount,419.68,48.19
+ORD-0284,2024-01-22 00:00:00,2024,1,Jan,2024-01,South,Furniture,Chairs,Customer 125,1,0.2,11-20%,141.29,10.97
+ORD-0358,2024-01-23 00:00:00,2024,1,Jan,2024-01,East,Technology,Phones,Customer 148,6,0.1,1-10%,4074.11,866.37
+ORD-1428,2024-01-23 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Art,Customer 134,4,0.15,11-20%,97.8,21.58
+ORD-0330,2024-01-23 00:00:00,2024,1,Jan,2024-01,East,Furniture,Chairs,Customer 100,3,0.15,11-20%,429.43,52.24
+ORD-0365,2024-01-23 00:00:00,2024,1,Jan,2024-01,East,Office Supplies,Paper,Customer 011,5,0.2,11-20%,108.32,28.73
+ORD-0649,2024-01-24 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Storage,Customer 079,4,0,No Discount,305.24,98.93
+ORD-0532,2024-01-26 00:00:00,2024,1,Jan,2024-01,South,Office Supplies,Binders,Customer 242,7,0.1,1-10%,270.42,50.72
+ORD-0716,2024-01-26 00:00:00,2024,1,Jan,2024-01,West,Furniture,Bookcases,Customer 237,5,0,No Discount,1004.39,156.28
+ORD-0583,2024-01-26 00:00:00,2024,1,Jan,2024-01,East,Office Supplies,Art,Customer 211,7,0.15,11-20%,212.56,33.91
+ORD-0085,2024-01-26 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Binders,Customer 207,4,0.2,11-20%,161.87,25.23
+ORD-0313,2024-01-26 00:00:00,2024,1,Jan,2024-01,East,Office Supplies,Binders,Customer 276,4,0.1,1-10%,170.67,43.25
+ORD-1360,2024-01-27 00:00:00,2024,1,Jan,2024-01,North,Office Supplies,Art,Customer 032,1,0,No Discount,30.67,8.36
+ORD-0370,2024-01-28 00:00:00,2024,1,Jan,2024-01,East,Office Supplies,Paper,Customer 065,6,0.15,11-20%,120.81,29.88
+ORD-0017,2024-01-28 00:00:00,2024,1,Jan,2024-01,South,Technology,Phones,Customer 231,4,0.05,1-10%,2954.81,673.72
+ORD-1473,2024-01-28 00:00:00,2024,1,Jan,2024-01,West,Furniture,Chairs,Customer 078,4,0.3,21-30%,613.15,33.52
+ORD-0133,2024-01-29 00:00:00,2024,1,Jan,2024-01,South,Technology,Laptops,Customer 187,5,0.3,21-30%,3051.08,589.38
+ORD-0556,2024-01-30 00:00:00,2024,1,Jan,2024-01,North,Furniture,Tables,Customer 221,5,0.1,1-10%,1658.05,148.42
+ORD-0526,2024-01-30 00:00:00,2024,1,Jan,2024-01,West,Office Supplies,Art,Customer 220,3,0.15,11-20%,71.55,12.28
+ORD-1037,2024-01-31 00:00:00,2024,1,Jan,2024-01,West,Furniture,Bookcases,Customer 074,1,0.15,11-20%,205.59,32.29
+ORD-0407,2024-02-01 00:00:00,2024,2,Feb,2024-02,South,Furniture,Tables,Customer 010,3,0.05,1-10%,920.02,101.33
+ORD-0185,2024-02-04 00:00:00,2024,2,Feb,2024-02,East,Office Supplies,Paper,Customer 213,5,0,No Discount,95.67,22.58
+ORD-0038,2024-02-05 00:00:00,2024,2,Feb,2024-02,North,Technology,Laptops,Customer 142,5,0.05,1-10%,3357.89,698.61
+ORD-1049,2024-02-06 00:00:00,2024,2,Feb,2024-02,South,Office Supplies,Art,Customer 032,7,0.2,11-20%,196.03,50.02
+ORD-0848,2024-02-06 00:00:00,2024,2,Feb,2024-02,South,Furniture,Tables,Customer 182,2,0.15,11-20%,531.37,22.76
+ORD-1447,2024-02-07 00:00:00,2024,2,Feb,2024-02,South,Furniture,Tables,Customer 005,5,0.1,1-10%,1683.83,117.03
+ORD-1439,2024-02-07 00:00:00,2024,2,Feb,2024-02,South,Office Supplies,Binders,Customer 124,2,0.2,11-20%,67.19,14.39
+ORD-1396,2024-02-08 00:00:00,2024,2,Feb,2024-02,East,Furniture,Chairs,Customer 179,4,0.15,11-20%,732.18,118.16
+ORD-0146,2024-02-08 00:00:00,2024,2,Feb,2024-02,East,Furniture,Bookcases,Customer 245,6,0.1,1-10%,1346.71,149.85
+ORD-1181,2024-02-08 00:00:00,2024,2,Feb,2024-02,South,Furniture,Bookcases,Customer 099,5,0,No Discount,1052.68,165.98
+ORD-0715,2024-02-09 00:00:00,2024,2,Feb,2024-02,East,Technology,Laptops,Customer 198,4,0.2,11-20%,2593.39,326.16
+ORD-0866,2024-02-10 00:00:00,2024,2,Feb,2024-02,South,Furniture,Bookcases,Customer 039,5,0.2,11-20%,976.85,31.32
+ORD-0320,2024-02-10 00:00:00,2024,2,Feb,2024-02,East,Furniture,Bookcases,Customer 127,7,0.15,11-20%,1441.38,254.4
+ORD-1034,2024-02-10 00:00:00,2024,2,Feb,2024-02,South,Technology,Phones,Customer 247,2,0.05,1-10%,1299.22,356.62
+ORD-0510,2024-02-11 00:00:00,2024,2,Feb,2024-02,West,Office Supplies,Storage,Customer 221,6,0,No Discount,496.43,144.57
+ORD-0733,2024-02-11 00:00:00,2024,2,Feb,2024-02,West,Furniture,Tables,Customer 128,1,0,No Discount,382.58,59.09
+ORD-1272,2024-02-11 00:00:00,2024,2,Feb,2024-02,North,Furniture,Bookcases,Customer 135,1,0.15,11-20%,172.84,9.68
+ORD-0231,2024-02-11 00:00:00,2024,2,Feb,2024-02,North,Furniture,Bookcases,Customer 158,6,0.2,11-20%,992.97,141.91
+ORD-0575,2024-02-12 00:00:00,2024,2,Feb,2024-02,East,Technology,Accessories,Customer 110,1,0,No Discount,82.02,20.31
+ORD-0462,2024-02-13 00:00:00,2024,2,Feb,2024-02,West,Technology,Laptops,Customer 215,5,0.1,1-10%,4379.03,803.88
+ORD-0259,2024-02-13 00:00:00,2024,2,Feb,2024-02,West,Furniture,Bookcases,Customer 003,5,0.1,1-10%,1117.8,177.82
+ORD-1444,2024-02-13 00:00:00,2024,2,Feb,2024-02,South,Furniture,Chairs,Customer 210,1,0,No Discount,152.61,34.52
+ORD-0754,2024-02-14 00:00:00,2024,2,Feb,2024-02,South,Technology,Accessories,Customer 178,2,0.05,1-10%,162.06,40.3
+ORD-1225,2024-02-14 00:00:00,2024,2,Feb,2024-02,West,Technology,Laptops,Customer 184,5,0.1,1-10%,3568.28,653.09
+ORD-0671,2024-02-14 00:00:00,2024,2,Feb,2024-02,East,Furniture,Tables,Customer 044,1,0,No Discount,283.84,63.52
+ORD-1230,2024-02-15 00:00:00,2024,2,Feb,2024-02,South,Furniture,Tables,Customer 003,6,0.3,21-30%,1494.27,151.78
+ORD-0912,2024-02-15 00:00:00,2024,2,Feb,2024-02,North,Technology,Phones,Customer 275,6,0.3,21-30%,2416.98,282.47
+ORD-1229,2024-02-15 00:00:00,2024,2,Feb,2024-02,South,Office Supplies,Art,Customer 094,7,0.1,1-10%,232.4,41.75
+ORD-0778,2024-02-16 00:00:00,2024,2,Feb,2024-02,East,Technology,Phones,Customer 155,7,0.4,31-40%,3389.38,336.08
+ORD-0807,2024-02-16 00:00:00,2024,2,Feb,2024-02,West,Technology,Laptops,Customer 106,2,0.05,1-10%,1544.04,339.9
+ORD-1414,2024-02-16 00:00:00,2024,2,Feb,2024-02,West,Office Supplies,Storage,Customer 065,4,0,No Discount,307.66,69.61
+ORD-0960,2024-02-16 00:00:00,2024,2,Feb,2024-02,West,Office Supplies,Art,Customer 139,6,0.3,21-30%,113.81,14.16
+ORD-1433,2024-02-18 00:00:00,2024,2,Feb,2024-02,North,Technology,Accessories,Customer 090,6,0.4,31-40%,247.64,14.35
+ORD-0776,2024-02-18 00:00:00,2024,2,Feb,2024-02,North,Technology,Accessories,Customer 218,7,0.4,31-40%,351.55,34.07
+ORD-1298,2024-02-20 00:00:00,2024,2,Feb,2024-02,West,Furniture,Tables,Customer 156,3,0.1,1-10%,1026.61,85.45
+ORD-0974,2024-02-21 00:00:00,2024,2,Feb,2024-02,North,Technology,Phones,Customer 141,1,0.15,11-20%,640.01,161.18
+ORD-0586,2024-02-21 00:00:00,2024,2,Feb,2024-02,East,Office Supplies,Art,Customer 154,6,0.3,21-30%,115.74,25.7
+ORD-0022,2024-02-22 00:00:00,2024,2,Feb,2024-02,South,Office Supplies,Paper,Customer 203,4,0.1,1-10%,92.38,22.91
+ORD-0849,2024-02-22 00:00:00,2024,2,Feb,2024-02,South,Office Supplies,Storage,Customer 100,4,0,No Discount,399.91,124.9
+ORD-0430,2024-02-23 00:00:00,2024,2,Feb,2024-02,East,Technology,Accessories,Customer 271,2,0,No Discount,202.35,60.31
+ORD-0986,2024-02-23 00:00:00,2024,2,Feb,2024-02,South,Office Supplies,Storage,Customer 010,4,0.1,1-10%,285.99,73.78
+ORD-1366,2024-02-25 00:00:00,2024,2,Feb,2024-02,West,Furniture,Chairs,Customer 100,7,0.3,21-30%,733.19,91.19
+ORD-0659,2024-02-25 00:00:00,2024,2,Feb,2024-02,West,Technology,Accessories,Customer 229,1,0.1,1-10%,93.25,17.04
+ORD-0758,2024-02-25 00:00:00,2024,2,Feb,2024-02,East,Office Supplies,Storage,Customer 141,4,0.1,1-10%,229.17,61.77
+ORD-0879,2024-02-25 00:00:00,2024,2,Feb,2024-02,North,Office Supplies,Art,Customer 180,6,0.1,1-10%,168.8,33.7
+ORD-0797,2024-02-28 00:00:00,2024,2,Feb,2024-02,South,Technology,Accessories,Customer 002,1,0.4,31-40%,59.04,3.78
+ORD-0645,2024-02-28 00:00:00,2024,2,Feb,2024-02,South,Office Supplies,Art,Customer 196,7,0,No Discount,270.12,82.08
+ORD-1496,2024-02-28 00:00:00,2024,2,Feb,2024-02,West,Office Supplies,Binders,Customer 064,5,0.3,21-30%,158.22,24.63
+ORD-0127,2024-02-28 00:00:00,2024,2,Feb,2024-02,West,Technology,Accessories,Customer 209,6,0.1,1-10%,408.75,82.92
+ORD-1010,2024-02-29 00:00:00,2024,2,Feb,2024-02,South,Technology,Accessories,Customer 059,5,0.2,11-20%,379.08,68.18
+ORD-1035,2024-03-01 00:00:00,2024,3,Mar,2024-03,West,Furniture,Chairs,Customer 142,6,0.05,1-10%,1015.46,125.83
+ORD-1265,2024-03-02 00:00:00,2024,3,Mar,2024-03,East,Technology,Phones,Customer 258,4,0.4,31-40%,1901.46,286.55
+ORD-1336,2024-03-02 00:00:00,2024,3,Mar,2024-03,North,Office Supplies,Binders,Customer 277,6,0.3,21-30%,210.01,25.55
+ORD-0460,2024-03-02 00:00:00,2024,3,Mar,2024-03,East,Office Supplies,Paper,Customer 207,1,0.1,1-10%,23.98,4.28
+ORD-1458,2024-03-03 00:00:00,2024,3,Mar,2024-03,West,Office Supplies,Binders,Customer 073,7,0,No Discount,323.83,79.59
+ORD-0480,2024-03-04 00:00:00,2024,3,Mar,2024-03,North,Technology,Laptops,Customer 214,7,0.15,11-20%,4496.48,972.23
+ORD-1495,2024-03-04 00:00:00,2024,3,Mar,2024-03,South,Technology,Laptops,Customer 298,5,0.3,21-30%,3475.66,577.45
+ORD-0312,2024-03-05 00:00:00,2024,3,Mar,2024-03,West,Office Supplies,Art,Customer 174,5,0.2,11-20%,110.75,28.52
+ORD-0621,2024-03-05 00:00:00,2024,3,Mar,2024-03,North,Office Supplies,Binders,Customer 158,6,0.1,1-10%,263.56,61.34
+ORD-0969,2024-03-06 00:00:00,2024,3,Mar,2024-03,East,Office Supplies,Binders,Customer 133,6,0.15,11-20%,279.4,73.87
+ORD-1032,2024-03-07 00:00:00,2024,3,Mar,2024-03,East,Technology,Phones,Customer 241,5,0.3,21-30%,1712.44,119.74
+ORD-0608,2024-03-07 00:00:00,2024,3,Mar,2024-03,East,Office Supplies,Binders,Customer 045,7,0.05,1-10%,295.42,54.22
+ORD-1267,2024-03-08 00:00:00,2024,3,Mar,2024-03,North,Office Supplies,Binders,Customer 097,5,0.2,11-20%,196.13,32.42
+ORD-0381,2024-03-08 00:00:00,2024,3,Mar,2024-03,West,Office Supplies,Art,Customer 175,7,0,No Discount,262.5,82.26
+ORD-1030,2024-03-08 00:00:00,2024,3,Mar,2024-03,North,Furniture,Bookcases,Customer 079,2,0.15,11-20%,308.27,35.48
+ORD-0829,2024-03-09 00:00:00,2024,3,Mar,2024-03,South,Furniture,Bookcases,Customer 216,1,0.4,31-40%,111.07,3.27
+ORD-0222,2024-03-10 00:00:00,2024,3,Mar,2024-03,East,Technology,Phones,Customer 005,1,0.15,11-20%,536.59,125.54
+ORD-1082,2024-03-10 00:00:00,2024,3,Mar,2024-03,West,Furniture,Bookcases,Customer 144,6,0,No Discount,1144.16,145.18
+ORD-0279,2024-03-10 00:00:00,2024,3,Mar,2024-03,East,Technology,Laptops,Customer 143,7,0.05,1-10%,6680.6,1531.63
+ORD-1498,2024-03-10 00:00:00,2024,3,Mar,2024-03,North,Technology,Accessories,Customer 012,3,0.4,31-40%,201.39,8.54
+ORD-1369,2024-03-11 00:00:00,2024,3,Mar,2024-03,West,Furniture,Tables,Customer 047,1,0.4,31-40%,149.35,4.53
+ORD-1345,2024-03-11 00:00:00,2024,3,Mar,2024-03,East,Office Supplies,Paper,Customer 276,4,0.1,1-10%,90.37,15.22
+ORD-1364,2024-03-11 00:00:00,2024,3,Mar,2024-03,East,Technology,Phones,Customer 079,4,0,No Discount,2602.23,542.45
+ORD-1398,2024-03-12 00:00:00,2024,3,Mar,2024-03,South,Technology,Phones,Customer 269,3,0,No Discount,2099.98,557.27
+ORD-0084,2024-03-13 00:00:00,2024,3,Mar,2024-03,South,Furniture,Tables,Customer 107,2,0.2,11-20%,544.74,17.13
+ORD-1452,2024-03-13 00:00:00,2024,3,Mar,2024-03,South,Furniture,Chairs,Customer 232,7,0.15,11-20%,1175.98,199.21
+ORD-0429,2024-03-13 00:00:00,2024,3,Mar,2024-03,West,Office Supplies,Paper,Customer 166,5,0.15,11-20%,118.97,21.12
+ORD-0785,2024-03-13 00:00:00,2024,3,Mar,2024-03,North,Office Supplies,Paper,Customer 153,5,0.15,11-20%,83.8,18.38
+ORD-0867,2024-03-14 00:00:00,2024,3,Mar,2024-03,West,Technology,Laptops,Customer 123,7,0.1,1-10%,4358.02,1148.18
+ORD-0476,2024-03-14 00:00:00,2024,3,Mar,2024-03,South,Office Supplies,Storage,Customer 139,5,0.1,1-10%,311.2,77.35
+ORD-0626,2024-03-15 00:00:00,2024,3,Mar,2024-03,South,Office Supplies,Binders,Customer 225,6,0,No Discount,219.86,61.64
+ORD-0444,2024-03-16 00:00:00,2024,3,Mar,2024-03,North,Office Supplies,Storage,Customer 285,7,0.1,1-10%,482.46,80.5
+ORD-0961,2024-03-16 00:00:00,2024,3,Mar,2024-03,West,Technology,Phones,Customer 039,1,0.2,11-20%,555.92,80.54
+ORD-1376,2024-03-17 00:00:00,2024,3,Mar,2024-03,North,Office Supplies,Art,Customer 245,5,0,No Discount,163.89,36.19
+ORD-1064,2024-03-17 00:00:00,2024,3,Mar,2024-03,North,Office Supplies,Storage,Customer 154,5,0.1,1-10%,445.37,134.99
+ORD-0734,2024-03-18 00:00:00,2024,3,Mar,2024-03,West,Technology,Phones,Customer 058,5,0.2,11-20%,2052.98,218.82
+ORD-1223,2024-03-18 00:00:00,2024,3,Mar,2024-03,South,Furniture,Bookcases,Customer 007,4,0.15,11-20%,826.28,98.8
+ORD-0427,2024-03-19 00:00:00,2024,3,Mar,2024-03,South,Technology,Phones,Customer 278,3,0.2,11-20%,1858.74,238.6
+ORD-0918,2024-03-19 00:00:00,2024,3,Mar,2024-03,North,Office Supplies,Binders,Customer 246,2,0.05,1-10%,77.19,19.76
+ORD-0591,2024-03-19 00:00:00,2024,3,Mar,2024-03,North,Technology,Phones,Customer 047,6,0.3,21-30%,2613.74,311.61
+ORD-0890,2024-03-19 00:00:00,2024,3,Mar,2024-03,North,Technology,Laptops,Customer 103,1,0.1,1-10%,966.3,235.28
+ORD-0660,2024-03-19 00:00:00,2024,3,Mar,2024-03,South,Office Supplies,Binders,Customer 196,2,0.3,21-30%,47.56,9.7
+ORD-0239,2024-03-20 00:00:00,2024,3,Mar,2024-03,East,Technology,Laptops,Customer 101,4,0.15,11-20%,3263.78,488.08
+ORD-1139,2024-03-20 00:00:00,2024,3,Mar,2024-03,West,Office Supplies,Storage,Customer 282,5,0.3,21-30%,312.42,45.73
+ORD-1395,2024-03-21 00:00:00,2024,3,Mar,2024-03,North,Furniture,Tables,Customer 043,4,0,No Discount,1151.74,204.14
+ORD-0409,2024-03-21 00:00:00,2024,3,Mar,2024-03,East,Furniture,Chairs,Customer 198,1,0.1,1-10%,134.38,10.78
+ORD-0748,2024-03-22 00:00:00,2024,3,Mar,2024-03,East,Office Supplies,Storage,Customer 038,4,0.1,1-10%,349.32,89.91
+ORD-1321,2024-03-22 00:00:00,2024,3,Mar,2024-03,East,Office Supplies,Art,Customer 029,7,0.3,21-30%,147.38,19.01
+ORD-1372,2024-03-23 00:00:00,2024,3,Mar,2024-03,South,Office Supplies,Paper,Customer 281,6,0.05,1-10%,149.56,29.16
+ORD-0699,2024-03-25 00:00:00,2024,3,Mar,2024-03,South,Technology,Accessories,Customer 012,6,0.3,21-30%,393.63,32.43
+ORD-0141,2024-03-26 00:00:00,2024,3,Mar,2024-03,South,Office Supplies,Storage,Customer 176,2,0.1,1-10%,116.68,31.19
+ORD-0491,2024-03-26 00:00:00,2024,3,Mar,2024-03,South,Technology,Phones,Customer 278,4,0,No Discount,2395.44,697.2
+ORD-1239,2024-03-27 00:00:00,2024,3,Mar,2024-03,East,Office Supplies,Paper,Customer 141,6,0,No Discount,121.76,41.06
+ORD-1043,2024-03-27 00:00:00,2024,3,Mar,2024-03,South,Technology,Laptops,Customer 234,2,0.3,21-30%,1124.7,110.77
+ORD-1252,2024-03-27 00:00:00,2024,3,Mar,2024-03,West,Technology,Laptops,Customer 196,4,0.1,1-10%,3268.58,616.04
+ORD-1203,2024-03-27 00:00:00,2024,3,Mar,2024-03,East,Technology,Phones,Customer 175,7,0,No Discount,3557.21,714.83
+ORD-0336,2024-03-27 00:00:00,2024,3,Mar,2024-03,East,Office Supplies,Binders,Customer 077,6,0.15,11-20%,266.99,76.16
+ORD-0713,2024-03-28 00:00:00,2024,3,Mar,2024-03,South,Office Supplies,Paper,Customer 032,4,0,No Discount,104.09,31.98
+ORD-1016,2024-03-28 00:00:00,2024,3,Mar,2024-03,West,Office Supplies,Binders,Customer 061,1,0.05,1-10%,43.44,10.86
+ORD-0494,2024-03-29 00:00:00,2024,3,Mar,2024-03,North,Technology,Accessories,Customer 271,2,0.2,11-20%,163.95,36.18
+ORD-1047,2024-03-29 00:00:00,2024,3,Mar,2024-03,North,Technology,Accessories,Customer 154,6,0.4,31-40%,340.81,15.25
+ORD-0342,2024-03-31 00:00:00,2024,3,Mar,2024-03,West,Office Supplies,Storage,Customer 246,5,0.15,11-20%,315.09,66.7
+ORD-0523,2024-03-31 00:00:00,2024,3,Mar,2024-03,East,Technology,Laptops,Customer 192,2,0,No Discount,2135.72,519.49
+ORD-0765,2024-03-31 00:00:00,2024,3,Mar,2024-03,South,Office Supplies,Storage,Customer 089,6,0.2,11-20%,443.13,105.24
+ORD-1006,2024-03-31 00:00:00,2024,3,Mar,2024-03,North,Furniture,Bookcases,Customer 157,7,0.3,21-30%,896.3,88.5
+ORD-0769,2024-04-01 00:00:00,2024,4,Apr,2024-04,East,Technology,Phones,Customer 128,5,0,No Discount,3643.74,947.5
+ORD-0177,2024-04-01 00:00:00,2024,4,Apr,2024-04,South,Technology,Accessories,Customer 002,4,0.1,1-10%,368.68,98.35
+ORD-0006,2024-04-01 00:00:00,2024,4,Apr,2024-04,West,Technology,Accessories,Customer 035,7,0.2,11-20%,531.72,115.2
+ORD-1481,2024-04-01 00:00:00,2024,4,Apr,2024-04,West,Technology,Laptops,Customer 281,3,0.2,11-20%,2232.88,520.48
+ORD-0039,2024-04-01 00:00:00,2024,4,Apr,2024-04,East,Office Supplies,Storage,Customer 153,2,0,No Discount,166.26,34.09
+ORD-0613,2024-04-01 00:00:00,2024,4,Apr,2024-04,North,Office Supplies,Storage,Customer 220,3,0.1,1-10%,244.72,54.55
+ORD-1151,2024-04-01 00:00:00,2024,4,Apr,2024-04,West,Furniture,Tables,Customer 168,5,0.15,11-20%,1588.74,244.23
+ORD-0454,2024-04-02 00:00:00,2024,4,Apr,2024-04,West,Technology,Phones,Customer 118,1,0.3,21-30%,387.53,32.1
+ORD-1135,2024-04-02 00:00:00,2024,4,Apr,2024-04,East,Technology,Laptops,Customer 017,5,0.1,1-10%,5044.25,1050.7
+ORD-0046,2024-04-03 00:00:00,2024,4,Apr,2024-04,East,Furniture,Chairs,Customer 039,6,0.4,31-40%,542.81,-25.84
+ORD-0653,2024-04-03 00:00:00,2024,4,Apr,2024-04,West,Furniture,Chairs,Customer 272,5,0.1,1-10%,773.84,131.14
+ORD-0856,2024-04-04 00:00:00,2024,4,Apr,2024-04,East,Technology,Phones,Customer 012,2,0.3,21-30%,687.05,129.54
+ORD-1132,2024-04-04 00:00:00,2024,4,Apr,2024-04,North,Office Supplies,Paper,Customer 183,1,0.15,11-20%,19.94,3.95
+ORD-0747,2024-04-05 00:00:00,2024,4,Apr,2024-04,East,Technology,Laptops,Customer 027,6,0.05,1-10%,5162.99,1397.99
+ORD-0992,2024-04-05 00:00:00,2024,4,Apr,2024-04,East,Office Supplies,Storage,Customer 083,6,0.15,11-20%,321.74,61.25
+ORD-0044,2024-04-05 00:00:00,2024,4,Apr,2024-04,East,Technology,Phones,Customer 272,6,0,No Discount,3281.59,987.25
+ORD-0657,2024-04-06 00:00:00,2024,4,Apr,2024-04,East,Office Supplies,Binders,Customer 171,1,0,No Discount,45.28,11.27
+ORD-0134,2024-04-07 00:00:00,2024,4,Apr,2024-04,South,Technology,Laptops,Customer 289,7,0.2,11-20%,6140.81,1243.88
+ORD-1200,2024-04-07 00:00:00,2024,4,Apr,2024-04,North,Technology,Phones,Customer 149,5,0.3,21-30%,2375.77,290.04
+ORD-1131,2024-04-08 00:00:00,2024,4,Apr,2024-04,West,Technology,Laptops,Customer 059,2,0.3,21-30%,1024.5,163.82
+ORD-0369,2024-04-09 00:00:00,2024,4,Apr,2024-04,South,Office Supplies,Storage,Customer 264,5,0.2,11-20%,245.75,45.53
+ORD-0248,2024-04-10 00:00:00,2024,4,Apr,2024-04,East,Office Supplies,Binders,Customer 152,5,0,No Discount,252.7,73.85
+ORD-0723,2024-04-10 00:00:00,2024,4,Apr,2024-04,West,Furniture,Tables,Customer 063,3,0.15,11-20%,959.01,135.43
+ORD-1206,2024-04-10 00:00:00,2024,4,Apr,2024-04,South,Furniture,Tables,Customer 130,7,0.05,1-10%,2051.41,337.79
+ORD-1269,2024-04-11 00:00:00,2024,4,Apr,2024-04,West,Technology,Phones,Customer 258,3,0.1,1-10%,1762.16,253.43
+ORD-0819,2024-04-13 00:00:00,2024,4,Apr,2024-04,East,Office Supplies,Art,Customer 183,2,0.3,21-30%,47.99,5.78
+ORD-0957,2024-04-13 00:00:00,2024,4,Apr,2024-04,East,Furniture,Tables,Customer 253,2,0.2,11-20%,519.52,45.42
+ORD-0325,2024-04-14 00:00:00,2024,4,Apr,2024-04,South,Furniture,Bookcases,Customer 210,2,0.1,1-10%,414.54,23.39
+ORD-0073,2024-04-14 00:00:00,2024,4,Apr,2024-04,South,Furniture,Chairs,Customer 197,3,0,No Discount,408.69,41.09
+ORD-0658,2024-04-15 00:00:00,2024,4,Apr,2024-04,West,Office Supplies,Binders,Customer 290,1,0.2,11-20%,43.52,6.32
+ORD-1497,2024-04-15 00:00:00,2024,4,Apr,2024-04,North,Office Supplies,Storage,Customer 261,1,0.2,11-20%,56.08,7.44
+ORD-0179,2024-04-15 00:00:00,2024,4,Apr,2024-04,East,Office Supplies,Paper,Customer 123,7,0.2,11-20%,171.61,25.29
+ORD-0001,2024-04-16 00:00:00,2024,4,Apr,2024-04,East,Furniture,Chairs,Customer 088,5,0.15,11-20%,744.28,38.33
+ORD-0712,2024-04-17 00:00:00,2024,4,Apr,2024-04,East,Furniture,Tables,Customer 127,4,0.15,11-20%,1284.2,173.1
+ORD-0563,2024-04-17 00:00:00,2024,4,Apr,2024-04,South,Office Supplies,Paper,Customer 195,3,0,No Discount,92.97,27.36
+ORD-0337,2024-04-18 00:00:00,2024,4,Apr,2024-04,West,Furniture,Tables,Customer 162,6,0.15,11-20%,1349.78,155.25
+ORD-0504,2024-04-18 00:00:00,2024,4,Apr,2024-04,East,Technology,Accessories,Customer 187,7,0.05,1-10%,510.98,94.96
+ORD-1302,2024-04-19 00:00:00,2024,4,Apr,2024-04,East,Furniture,Bookcases,Customer 155,3,0.3,21-30%,415.33,-5.54
+ORD-0090,2024-04-20 00:00:00,2024,4,Apr,2024-04,West,Furniture,Bookcases,Customer 083,6,0.15,11-20%,1259.69,123.36
+ORD-0582,2024-04-20 00:00:00,2024,4,Apr,2024-04,West,Office Supplies,Art,Customer 200,5,0.2,11-20%,121.28,19.6
+ORD-0081,2024-04-20 00:00:00,2024,4,Apr,2024-04,West,Technology,Laptops,Customer 008,1,0.1,1-10%,844.33,161.3
+ORD-0181,2024-04-20 00:00:00,2024,4,Apr,2024-04,South,Office Supplies,Art,Customer 022,3,0.15,11-20%,96.43,21.69
+ORD-1416,2024-04-21 00:00:00,2024,4,Apr,2024-04,South,Technology,Laptops,Customer 239,5,0.4,31-40%,3000.92,360.83
+ORD-1253,2024-04-21 00:00:00,2024,4,Apr,2024-04,East,Office Supplies,Paper,Customer 019,5,0,No Discount,111.34,26.08
+ORD-1165,2024-04-21 00:00:00,2024,4,Apr,2024-04,North,Office Supplies,Storage,Customer 191,3,0.15,11-20%,189.5,35.26
+ORD-0665,2024-04-21 00:00:00,2024,4,Apr,2024-04,South,Technology,Laptops,Customer 207,2,0.05,1-10%,1537.35,303.4
+ORD-0021,2024-04-22 00:00:00,2024,4,Apr,2024-04,East,Technology,Phones,Customer 225,2,0.15,11-20%,857.19,134.16
+ORD-0020,2024-04-22 00:00:00,2024,4,Apr,2024-04,West,Furniture,Chairs,Customer 113,6,0.4,31-40%,797.83,-11.77
+ORD-0474,2024-04-23 00:00:00,2024,4,Apr,2024-04,South,Technology,Laptops,Customer 235,1,0.2,11-20%,554.02,120.33
+ORD-0616,2024-04-23 00:00:00,2024,4,Apr,2024-04,North,Office Supplies,Storage,Customer 026,7,0.1,1-10%,575.17,174.82
+ORD-1175,2024-04-24 00:00:00,2024,4,Apr,2024-04,West,Technology,Laptops,Customer 192,6,0,No Discount,4110.88,730.94
+ORD-0588,2024-04-25 00:00:00,2024,4,Apr,2024-04,South,Office Supplies,Paper,Customer 122,6,0.15,11-20%,154.95,37.52
+ORD-0347,2024-04-25 00:00:00,2024,4,Apr,2024-04,West,Technology,Phones,Customer 147,5,0.1,1-10%,3432.44,892.55
+ORD-0269,2024-04-26 00:00:00,2024,4,Apr,2024-04,South,Furniture,Tables,Customer 183,7,0.3,21-30%,1583.91,59.06
+ORD-0065,2024-04-26 00:00:00,2024,4,Apr,2024-04,West,Furniture,Chairs,Customer 149,6,0.2,11-20%,1070.45,104.73
+ORD-0911,2024-04-27 00:00:00,2024,4,Apr,2024-04,North,Furniture,Chairs,Customer 161,5,0.1,1-10%,910.24,120.12
+ORD-0993,2024-04-27 00:00:00,2024,4,Apr,2024-04,North,Technology,Laptops,Customer 271,2,0.05,1-10%,1985.96,446.97
+ORD-1319,2024-04-27 00:00:00,2024,4,Apr,2024-04,East,Technology,Laptops,Customer 012,5,0.15,11-20%,3050.53,764.39
+ORD-0482,2024-04-27 00:00:00,2024,4,Apr,2024-04,West,Office Supplies,Art,Customer 094,4,0.4,31-40%,85.51,10.98
+ORD-0094,2024-04-27 00:00:00,2024,4,Apr,2024-04,South,Office Supplies,Storage,Customer 194,1,0.15,11-20%,75.58,19.83
+ORD-1480,2024-04-27 00:00:00,2024,4,Apr,2024-04,West,Technology,Accessories,Customer 081,1,0.1,1-10%,79.45,13.58
+ORD-0196,2024-04-28 00:00:00,2024,4,Apr,2024-04,North,Office Supplies,Binders,Customer 179,3,0.1,1-10%,147.86,30.94
+ORD-0374,2024-04-28 00:00:00,2024,4,Apr,2024-04,South,Technology,Accessories,Customer 283,4,0.05,1-10%,294.09,50.26
+ORD-0154,2024-04-29 00:00:00,2024,4,Apr,2024-04,South,Office Supplies,Storage,Customer 098,5,0.15,11-20%,355.8,81.38
+ORD-1337,2024-04-30 00:00:00,2024,4,Apr,2024-04,West,Technology,Laptops,Customer 176,5,0.1,1-10%,4176.85,1033.42
+ORD-1228,2024-04-30 00:00:00,2024,4,Apr,2024-04,South,Office Supplies,Paper,Customer 145,5,0,No Discount,126.6,34.12
+ORD-1154,2024-05-01 00:00:00,2024,5,May,2024-05,East,Technology,Accessories,Customer 063,4,0.05,1-10%,404.75,104.04
+ORD-0183,2024-05-01 00:00:00,2024,5,May,2024-05,East,Technology,Phones,Customer 119,3,0.4,31-40%,1074.58,59.64
+ORD-0417,2024-05-03 00:00:00,2024,5,May,2024-05,West,Office Supplies,Art,Customer 283,1,0.15,11-20%,26.59,5.06
+ORD-1271,2024-05-03 00:00:00,2024,5,May,2024-05,North,Office Supplies,Binders,Customer 206,5,0.15,11-20%,153.79,42.78
+ORD-0554,2024-05-03 00:00:00,2024,5,May,2024-05,West,Office Supplies,Binders,Customer 275,5,0.1,1-10%,185.73,40.91
+ORD-0335,2024-05-04 00:00:00,2024,5,May,2024-05,East,Furniture,Tables,Customer 037,7,0.15,11-20%,1551.81,239.7
+ORD-0676,2024-05-05 00:00:00,2024,5,May,2024-05,West,Office Supplies,Paper,Customer 170,4,0,No Discount,84.83,19.79
+ORD-1101,2024-05-06 00:00:00,2024,5,May,2024-05,East,Technology,Laptops,Customer 151,5,0.15,11-20%,3555.99,654.48
+ORD-0619,2024-05-06 00:00:00,2024,5,May,2024-05,South,Office Supplies,Storage,Customer 150,3,0.1,1-10%,234.98,59.12
+ORD-1107,2024-05-06 00:00:00,2024,5,May,2024-05,South,Office Supplies,Storage,Customer 269,5,0.05,1-10%,415.78,88.67
+ORD-0352,2024-05-07 00:00:00,2024,5,May,2024-05,West,Technology,Phones,Customer 104,1,0.2,11-20%,609.94,113.39
+ORD-0536,2024-05-07 00:00:00,2024,5,May,2024-05,South,Office Supplies,Paper,Customer 296,6,0.05,1-10%,122.33,27.26
+ORD-0246,2024-05-08 00:00:00,2024,5,May,2024-05,North,Technology,Phones,Customer 232,2,0.1,1-10%,1026.48,259.41
+ORD-0947,2024-05-09 00:00:00,2024,5,May,2024-05,South,Office Supplies,Paper,Customer 245,6,0.05,1-10%,122.09,33.84
+ORD-0680,2024-05-09 00:00:00,2024,5,May,2024-05,North,Furniture,Chairs,Customer 273,1,0.05,1-10%,197.7,23.82
+ORD-1370,2024-05-09 00:00:00,2024,5,May,2024-05,South,Office Supplies,Binders,Customer 262,7,0.1,1-10%,234.59,66.59
+ORD-0580,2024-05-10 00:00:00,2024,5,May,2024-05,North,Technology,Laptops,Customer 109,4,0,No Discount,3741.29,999.22
+ORD-1041,2024-05-11 00:00:00,2024,5,May,2024-05,West,Technology,Laptops,Customer 122,2,0.4,31-40%,959.17,135.18
+ORD-0062,2024-05-11 00:00:00,2024,5,May,2024-05,North,Office Supplies,Binders,Customer 182,4,0.1,1-10%,128.26,35.12
+ORD-0955,2024-05-11 00:00:00,2024,5,May,2024-05,East,Technology,Accessories,Customer 045,3,0.3,21-30%,142.21,27.89
+ORD-1314,2024-05-11 00:00:00,2024,5,May,2024-05,North,Office Supplies,Art,Customer 004,4,0.1,1-10%,110.8,29.38
+ORD-0265,2024-05-11 00:00:00,2024,5,May,2024-05,South,Office Supplies,Binders,Customer 227,7,0.1,1-10%,314.98,91.05
+ORD-1105,2024-05-12 00:00:00,2024,5,May,2024-05,North,Office Supplies,Art,Customer 154,7,0.05,1-10%,178.38,43.05
+ORD-0208,2024-05-12 00:00:00,2024,5,May,2024-05,West,Office Supplies,Binders,Customer 043,2,0.15,11-20%,66.79,14.31
+ORD-1242,2024-05-12 00:00:00,2024,5,May,2024-05,South,Technology,Laptops,Customer 280,7,0.4,31-40%,3887.5,267.95
+ORD-1204,2024-05-14 00:00:00,2024,5,May,2024-05,East,Furniture,Tables,Customer 156,7,0.1,1-10%,1656.84,255.8
+ORD-0632,2024-05-16 00:00:00,2024,5,May,2024-05,North,Office Supplies,Binders,Customer 069,2,0.3,21-30%,47.88,5.58
+ORD-0443,2024-05-16 00:00:00,2024,5,May,2024-05,North,Technology,Phones,Customer 118,6,0.15,11-20%,3320.19,480.24
+ORD-1297,2024-05-16 00:00:00,2024,5,May,2024-05,North,Office Supplies,Storage,Customer 129,3,0,No Discount,299.81,91.54
+ORD-1073,2024-05-16 00:00:00,2024,5,May,2024-05,West,Technology,Laptops,Customer 090,2,0.1,1-10%,1923.43,411.5
+ORD-0928,2024-05-17 00:00:00,2024,5,May,2024-05,East,Furniture,Bookcases,Customer 288,3,0.2,11-20%,505.63,30.18
+ORD-1008,2024-05-18 00:00:00,2024,5,May,2024-05,North,Office Supplies,Binders,Customer 056,3,0.05,1-10%,139.15,25.4
+ORD-0340,2024-05-18 00:00:00,2024,5,May,2024-05,East,Office Supplies,Binders,Customer 104,4,0.1,1-10%,202,58.23
+ORD-1015,2024-05-18 00:00:00,2024,5,May,2024-05,North,Office Supplies,Storage,Customer 080,7,0,No Discount,607.18,204.11
+ORD-0512,2024-05-18 00:00:00,2024,5,May,2024-05,East,Office Supplies,Storage,Customer 156,1,0.1,1-10%,64.58,11.03
+ORD-0438,2024-05-18 00:00:00,2024,5,May,2024-05,West,Office Supplies,Paper,Customer 061,2,0,No Discount,45.03,12.17
+ORD-0920,2024-05-20 00:00:00,2024,5,May,2024-05,North,Furniture,Bookcases,Customer 287,2,0.4,31-40%,207.15,2.88
+ORD-0806,2024-05-20 00:00:00,2024,5,May,2024-05,East,Office Supplies,Binders,Customer 246,7,0.4,31-40%,219.32,21.8
+ORD-1172,2024-05-21 00:00:00,2024,5,May,2024-05,North,Technology,Accessories,Customer 177,6,0.05,1-10%,456.18,126.82
+ORD-0507,2024-05-22 00:00:00,2024,5,May,2024-05,West,Furniture,Bookcases,Customer 180,1,0.1,1-10%,225.08,16.27
+ORD-0561,2024-05-23 00:00:00,2024,5,May,2024-05,West,Furniture,Chairs,Customer 004,6,0,No Discount,1042,134.47
+ORD-1352,2024-05-23 00:00:00,2024,5,May,2024-05,South,Office Supplies,Binders,Customer 229,4,0.1,1-10%,143.23,40.52
+ORD-1089,2024-05-23 00:00:00,2024,5,May,2024-05,East,Office Supplies,Art,Customer 233,2,0,No Discount,52.98,12.84
+ORD-0493,2024-05-24 00:00:00,2024,5,May,2024-05,East,Technology,Accessories,Customer 106,1,0.1,1-10%,73.16,18.3
+ORD-0191,2024-05-24 00:00:00,2024,5,May,2024-05,East,Furniture,Tables,Customer 261,3,0.1,1-10%,820.39,143.66
+ORD-0731,2024-05-24 00:00:00,2024,5,May,2024-05,North,Technology,Phones,Customer 206,2,0.3,21-30%,978.63,147.88
+ORD-0103,2024-05-24 00:00:00,2024,5,May,2024-05,North,Furniture,Chairs,Customer 104,1,0.1,1-10%,164.58,10.59
+ORD-0072,2024-05-25 00:00:00,2024,5,May,2024-05,North,Furniture,Tables,Customer 283,7,0,No Discount,2345.43,336.16
+ORD-1067,2024-05-26 00:00:00,2024,5,May,2024-05,West,Office Supplies,Paper,Customer 115,3,0.15,11-20%,77.65,18.82
+ORD-0615,2024-05-27 00:00:00,2024,5,May,2024-05,North,Furniture,Chairs,Customer 175,6,0.15,11-20%,783.87,93.89
+ORD-1142,2024-05-28 00:00:00,2024,5,May,2024-05,West,Furniture,Bookcases,Customer 288,7,0.2,11-20%,1287.7,43.23
+ORD-0931,2024-05-29 00:00:00,2024,5,May,2024-05,North,Furniture,Chairs,Customer 211,2,0.3,21-30%,296.99,12.8
+ORD-0040,2024-05-29 00:00:00,2024,5,May,2024-05,North,Technology,Accessories,Customer 271,2,0.3,21-30%,110.27,7.77
+ORD-0818,2024-05-29 00:00:00,2024,5,May,2024-05,South,Technology,Accessories,Customer 278,6,0.4,31-40%,329.35,39
+ORD-0026,2024-05-30 00:00:00,2024,5,May,2024-05,South,Furniture,Chairs,Customer 112,7,0.3,21-30%,775.25,60
+ORD-0432,2024-05-30 00:00:00,2024,5,May,2024-05,North,Technology,Laptops,Customer 069,7,0.2,11-20%,3814.64,514.11
+ORD-1397,2024-05-31 00:00:00,2024,5,May,2024-05,West,Office Supplies,Binders,Customer 146,4,0.1,1-10%,157.76,43.15
+ORD-1362,2024-05-31 00:00:00,2024,5,May,2024-05,South,Technology,Phones,Customer 135,4,0.1,1-10%,2112.26,412.07
+ORD-0130,2024-06-01 00:00:00,2024,6,Jun,2024-06,North,Technology,Phones,Customer 027,6,0.3,21-30%,2329.27,154.99
+ORD-0908,2024-06-01 00:00:00,2024,6,Jun,2024-06,East,Furniture,Tables,Customer 092,1,0.15,11-20%,272.38,15.72
+ORD-0696,2024-06-02 00:00:00,2024,6,Jun,2024-06,North,Technology,Accessories,Customer 106,5,0.2,11-20%,420.58,83.53
+ORD-1493,2024-06-02 00:00:00,2024,6,Jun,2024-06,South,Furniture,Chairs,Customer 293,2,0.15,11-20%,301.79,40.82
+ORD-0388,2024-06-02 00:00:00,2024,6,Jun,2024-06,East,Office Supplies,Storage,Customer 273,6,0.05,1-10%,522.71,161.83
+ORD-0871,2024-06-03 00:00:00,2024,6,Jun,2024-06,West,Office Supplies,Storage,Customer 197,1,0.2,11-20%,54.64,11.45
+ORD-0917,2024-06-03 00:00:00,2024,6,Jun,2024-06,East,Office Supplies,Storage,Customer 022,2,0.15,11-20%,105.88,25.59
+ORD-0485,2024-06-03 00:00:00,2024,6,Jun,2024-06,East,Furniture,Bookcases,Customer 179,5,0.2,11-20%,1049.22,39.38
+ORD-0505,2024-06-04 00:00:00,2024,6,Jun,2024-06,North,Furniture,Chairs,Customer 286,1,0.2,11-20%,152.3,19.26
+ORD-0467,2024-06-04 00:00:00,2024,6,Jun,2024-06,North,Technology,Accessories,Customer 278,5,0.2,11-20%,309.37,56.72
+ORD-0168,2024-06-05 00:00:00,2024,6,Jun,2024-06,East,Furniture,Bookcases,Customer 022,3,0.05,1-10%,496.08,83.23
+ORD-0010,2024-06-05 00:00:00,2024,6,Jun,2024-06,North,Furniture,Chairs,Customer 129,7,0,No Discount,954.85,142.54
+ORD-1011,2024-06-06 00:00:00,2024,6,Jun,2024-06,East,Office Supplies,Binders,Customer 065,1,0.15,11-20%,34.11,9.56
+ORD-0987,2024-06-06 00:00:00,2024,6,Jun,2024-06,West,Office Supplies,Storage,Customer 101,5,0.3,21-30%,267.13,32.53
+ORD-1162,2024-06-06 00:00:00,2024,6,Jun,2024-06,South,Office Supplies,Storage,Customer 072,2,0,No Discount,138.15,38.76
+ORD-0538,2024-06-07 00:00:00,2024,6,Jun,2024-06,East,Technology,Laptops,Customer 103,1,0.1,1-10%,946.28,134.4
+ORD-0268,2024-06-07 00:00:00,2024,6,Jun,2024-06,South,Furniture,Tables,Customer 152,4,0.3,21-30%,895.22,-3.77
+ORD-0377,2024-06-08 00:00:00,2024,6,Jun,2024-06,North,Office Supplies,Storage,Customer 045,3,0.3,21-30%,176.92,24.02
+ORD-0049,2024-06-08 00:00:00,2024,6,Jun,2024-06,West,Office Supplies,Art,Customer 033,3,0.2,11-20%,91.44,19.23
+ORD-1418,2024-06-09 00:00:00,2024,6,Jun,2024-06,North,Office Supplies,Paper,Customer 173,5,0,No Discount,136.18,41.06
+ORD-0035,2024-06-09 00:00:00,2024,6,Jun,2024-06,West,Technology,Phones,Customer 058,3,0,No Discount,2005.38,603.74
+ORD-0763,2024-06-10 00:00:00,2024,6,Jun,2024-06,West,Furniture,Tables,Customer 066,3,0,No Discount,831.77,132.15
+ORD-1317,2024-06-11 00:00:00,2024,6,Jun,2024-06,North,Technology,Phones,Customer 016,6,0.15,11-20%,2495.58,358.33
+ORD-0927,2024-06-11 00:00:00,2024,6,Jun,2024-06,East,Office Supplies,Storage,Customer 042,3,0.15,11-20%,207.02,42.15
+ORD-1436,2024-06-12 00:00:00,2024,6,Jun,2024-06,South,Office Supplies,Binders,Customer 270,1,0.1,1-10%,40.26,11.87
+ORD-0401,2024-06-12 00:00:00,2024,6,Jun,2024-06,North,Office Supplies,Storage,Customer 290,2,0.2,11-20%,118.57,29.1
+ORD-0709,2024-06-12 00:00:00,2024,6,Jun,2024-06,South,Office Supplies,Paper,Customer 210,1,0.15,11-20%,23.38,4.38
+ORD-0590,2024-06-12 00:00:00,2024,6,Jun,2024-06,East,Office Supplies,Binders,Customer 208,6,0,No Discount,291.34,98.97
+ORD-0341,2024-06-13 00:00:00,2024,6,Jun,2024-06,East,Furniture,Tables,Customer 164,7,0.1,1-10%,1551.78,188.66
+ORD-0555,2024-06-13 00:00:00,2024,6,Jun,2024-06,West,Technology,Phones,Customer 164,3,0.3,21-30%,1397.36,234.4
+ORD-1361,2024-06-14 00:00:00,2024,6,Jun,2024-06,West,Technology,Accessories,Customer 164,4,0.3,21-30%,270.31,33.27
+ORD-0220,2024-06-15 00:00:00,2024,6,Jun,2024-06,North,Furniture,Tables,Customer 019,1,0.2,11-20%,318.88,12.11
+ORD-0005,2024-06-15 00:00:00,2024,6,Jun,2024-06,North,Office Supplies,Storage,Customer 265,2,0.4,31-40%,118.35,20.5
+ORD-0410,2024-06-15 00:00:00,2024,6,Jun,2024-06,South,Office Supplies,Storage,Customer 073,5,0.3,21-30%,248.37,51.66
+ORD-0131,2024-06-16 00:00:00,2024,6,Jun,2024-06,East,Office Supplies,Paper,Customer 173,2,0.15,11-20%,46.01,7.92
+ORD-1476,2024-06-17 00:00:00,2024,6,Jun,2024-06,East,Furniture,Bookcases,Customer 200,4,0.05,1-10%,866.04,171.22
+ORD-0252,2024-06-17 00:00:00,2024,6,Jun,2024-06,North,Furniture,Tables,Customer 149,1,0.15,11-20%,209.71,36.3
+ORD-0854,2024-06-19 00:00:00,2024,6,Jun,2024-06,South,Technology,Phones,Customer 151,7,0,No Discount,5314.58,1018.65
+ORD-1214,2024-06-20 00:00:00,2024,6,Jun,2024-06,South,Office Supplies,Storage,Customer 054,5,0.05,1-10%,432.69,129.37
+ORD-0602,2024-06-20 00:00:00,2024,6,Jun,2024-06,North,Furniture,Bookcases,Customer 186,6,0,No Discount,1114.93,172.04
+ORD-1338,2024-06-21 00:00:00,2024,6,Jun,2024-06,West,Office Supplies,Storage,Customer 045,3,0.3,21-30%,183.82,25.05
+ORD-0762,2024-06-21 00:00:00,2024,6,Jun,2024-06,West,Office Supplies,Art,Customer 117,3,0.1,1-10%,86.65,21.32
+ORD-0823,2024-06-21 00:00:00,2024,6,Jun,2024-06,North,Technology,Accessories,Customer 029,3,0.15,11-20%,286.42,65.75
+ORD-1095,2024-06-21 00:00:00,2024,6,Jun,2024-06,East,Furniture,Bookcases,Customer 021,6,0.15,11-20%,1344.44,235.38
+ORD-0095,2024-06-21 00:00:00,2024,6,Jun,2024-06,East,Furniture,Tables,Customer 212,4,0.05,1-10%,1500.54,258.14
+ORD-0830,2024-06-22 00:00:00,2024,6,Jun,2024-06,South,Office Supplies,Storage,Customer 130,5,0.4,31-40%,244.38,31.86
+ORD-1420,2024-06-23 00:00:00,2024,6,Jun,2024-06,West,Furniture,Chairs,Customer 253,3,0.1,1-10%,599.89,40.04
+ORD-0375,2024-06-23 00:00:00,2024,6,Jun,2024-06,East,Furniture,Tables,Customer 224,6,0.1,1-10%,1453.02,168.51
+ORD-0449,2024-06-23 00:00:00,2024,6,Jun,2024-06,North,Furniture,Chairs,Customer 175,1,0.1,1-10%,165.31,25.21
+ORD-1083,2024-06-23 00:00:00,2024,6,Jun,2024-06,North,Office Supplies,Binders,Customer 018,4,0.1,1-10%,201.75,40.28
+ORD-1033,2024-06-24 00:00:00,2024,6,Jun,2024-06,North,Technology,Laptops,Customer 229,3,0.3,21-30%,2136.27,189.17
+ORD-1411,2024-06-25 00:00:00,2024,6,Jun,2024-06,East,Furniture,Tables,Customer 025,4,0.1,1-10%,1120.6,198.7
+ORD-0069,2024-06-26 00:00:00,2024,6,Jun,2024-06,West,Furniture,Tables,Customer 145,4,0,No Discount,1583.61,361.17
+ORD-1350,2024-06-26 00:00:00,2024,6,Jun,2024-06,North,Furniture,Tables,Customer 281,5,0,No Discount,1787.12,179.25
+ORD-0791,2024-06-26 00:00:00,2024,6,Jun,2024-06,North,Technology,Laptops,Customer 049,7,0.3,21-30%,4316.96,437.11
+ORD-1182,2024-06-27 00:00:00,2024,6,Jun,2024-06,North,Furniture,Chairs,Customer 026,4,0.1,1-10%,536.79,61.57
+ORD-0115,2024-06-27 00:00:00,2024,6,Jun,2024-06,West,Furniture,Bookcases,Customer 161,6,0,No Discount,1318.92,196.06
+ORD-1402,2024-06-28 00:00:00,2024,6,Jun,2024-06,East,Technology,Phones,Customer 210,1,0.1,1-10%,516.41,91.59
+ORD-1293,2024-06-28 00:00:00,2024,6,Jun,2024-06,North,Office Supplies,Binders,Customer 027,5,0.15,11-20%,218.58,61.23
+ORD-1188,2024-06-29 00:00:00,2024,6,Jun,2024-06,North,Technology,Laptops,Customer 260,1,0.3,21-30%,625.36,88.1
+ORD-1312,2024-06-29 00:00:00,2024,6,Jun,2024-06,South,Office Supplies,Paper,Customer 150,6,0.1,1-10%,131.53,33.23
+ORD-1415,2024-06-29 00:00:00,2024,6,Jun,2024-06,East,Technology,Phones,Customer 299,5,0.2,11-20%,2211.9,293.71
+ORD-1018,2024-06-29 00:00:00,2024,6,Jun,2024-06,North,Furniture,Bookcases,Customer 247,5,0.1,1-10%,858.36,53.19
+ORD-0564,2024-06-30 00:00:00,2024,6,Jun,2024-06,East,Furniture,Tables,Customer 084,2,0.2,11-20%,385.38,7.78
+ORD-0846,2024-06-30 00:00:00,2024,6,Jun,2024-06,South,Office Supplies,Paper,Customer 285,7,0.1,1-10%,175.04,36.7
+ORD-1028,2024-07-01 00:00:00,2024,7,Jul,2024-07,West,Office Supplies,Paper,Customer 257,1,0.15,11-20%,20.44,4.29
+ORD-0244,2024-07-01 00:00:00,2024,7,Jul,2024-07,West,Office Supplies,Binders,Customer 252,5,0.15,11-20%,157.79,30.45
+ORD-0520,2024-07-01 00:00:00,2024,7,Jul,2024-07,West,Office Supplies,Storage,Customer 149,1,0.1,1-10%,80.27,23.81
+ORD-0640,2024-07-01 00:00:00,2024,7,Jul,2024-07,East,Office Supplies,Storage,Customer 144,6,0.05,1-10%,560.03,131.74
+ORD-1407,2024-07-02 00:00:00,2024,7,Jul,2024-07,South,Furniture,Bookcases,Customer 084,1,0.1,1-10%,160.71,19.78
+ORD-0513,2024-07-02 00:00:00,2024,7,Jul,2024-07,East,Furniture,Tables,Customer 244,6,0.05,1-10%,1933.09,302.43
+ORD-0740,2024-07-02 00:00:00,2024,7,Jul,2024-07,South,Technology,Phones,Customer 087,7,0.2,11-20%,3445.09,469.29
+ORD-0515,2024-07-04 00:00:00,2024,7,Jul,2024-07,East,Furniture,Tables,Customer 210,4,0.1,1-10%,909.47,106.4
+ORD-0188,2024-07-04 00:00:00,2024,7,Jul,2024-07,East,Office Supplies,Storage,Customer 021,6,0.1,1-10%,406.91,93.68
+ORD-1455,2024-07-04 00:00:00,2024,7,Jul,2024-07,East,Technology,Phones,Customer 051,2,0.2,11-20%,1057.47,126.65
+ORD-0497,2024-07-05 00:00:00,2024,7,Jul,2024-07,West,Technology,Laptops,Customer 229,1,0.15,11-20%,919.26,222.54
+ORD-0390,2024-07-05 00:00:00,2024,7,Jul,2024-07,North,Office Supplies,Storage,Customer 137,4,0.15,11-20%,308.94,67.15
+ORD-0770,2024-07-05 00:00:00,2024,7,Jul,2024-07,North,Furniture,Bookcases,Customer 224,6,0.1,1-10%,1378.76,262.97
+ORD-0024,2024-07-05 00:00:00,2024,7,Jul,2024-07,West,Office Supplies,Binders,Customer 147,6,0.2,11-20%,254.7,44.73
+ORD-0498,2024-07-06 00:00:00,2024,7,Jul,2024-07,North,Furniture,Chairs,Customer 072,2,0.3,21-30%,239.75,28.97
+ORD-0941,2024-07-06 00:00:00,2024,7,Jul,2024-07,East,Furniture,Chairs,Customer 110,5,0.1,1-10%,922.73,172.34
+ORD-0863,2024-07-08 00:00:00,2024,7,Jul,2024-07,East,Office Supplies,Art,Customer 132,7,0,No Discount,260.71,56.57
+ORD-0499,2024-07-09 00:00:00,2024,7,Jul,2024-07,South,Furniture,Bookcases,Customer 131,6,0.3,21-30%,769.37,80.47
+ORD-0634,2024-07-09 00:00:00,2024,7,Jul,2024-07,West,Technology,Laptops,Customer 298,6,0,No Discount,4421.6,752.25
+ORD-0301,2024-07-09 00:00:00,2024,7,Jul,2024-07,West,Office Supplies,Storage,Customer 191,3,0.2,11-20%,193.21,33.38
+ORD-0894,2024-07-10 00:00:00,2024,7,Jul,2024-07,South,Furniture,Tables,Customer 162,3,0.15,11-20%,692.87,39.95
+ORD-0695,2024-07-10 00:00:00,2024,7,Jul,2024-07,East,Office Supplies,Storage,Customer 271,3,0,No Discount,264.79,72.8
+ORD-0693,2024-07-10 00:00:00,2024,7,Jul,2024-07,North,Office Supplies,Paper,Customer 222,4,0,No Discount,91.39,28.72
+ORD-0200,2024-07-11 00:00:00,2024,7,Jul,2024-07,South,Office Supplies,Storage,Customer 145,7,0.4,31-40%,314.88,19.67
+ORD-1499,2024-07-12 00:00:00,2024,7,Jul,2024-07,East,Technology,Accessories,Customer 278,4,0.15,11-20%,345.4,46.29
+ORD-0983,2024-07-12 00:00:00,2024,7,Jul,2024-07,North,Furniture,Bookcases,Customer 214,4,0,No Discount,919.66,150.25
+ORD-0061,2024-07-12 00:00:00,2024,7,Jul,2024-07,South,Furniture,Bookcases,Customer 145,5,0.15,11-20%,810.28,96.33
+ORD-0082,2024-07-13 00:00:00,2024,7,Jul,2024-07,East,Technology,Phones,Customer 277,3,0.2,11-20%,1304.41,165.56
+ORD-1460,2024-07-14 00:00:00,2024,7,Jul,2024-07,South,Furniture,Bookcases,Customer 190,3,0,No Discount,767.79,162.05
+ORD-1059,2024-07-15 00:00:00,2024,7,Jul,2024-07,East,Furniture,Tables,Customer 054,6,0.3,21-30%,1627.62,-0.6
+ORD-0380,2024-07-17 00:00:00,2024,7,Jul,2024-07,West,Technology,Accessories,Customer 267,2,0.3,21-30%,147.87,16.14
+ORD-0012,2024-07-19 00:00:00,2024,7,Jul,2024-07,East,Office Supplies,Art,Customer 216,4,0.1,1-10%,98.5,20.54
+ORD-1470,2024-07-19 00:00:00,2024,7,Jul,2024-07,North,Furniture,Tables,Customer 258,6,0,No Discount,1761.33,203.86
+ORD-0008,2024-07-20 00:00:00,2024,7,Jul,2024-07,South,Office Supplies,Art,Customer 215,6,0.3,21-30%,163.7,23.04
+ORD-0332,2024-07-20 00:00:00,2024,7,Jul,2024-07,North,Office Supplies,Storage,Customer 126,4,0.1,1-10%,216.97,47.52
+ORD-1384,2024-07-20 00:00:00,2024,7,Jul,2024-07,South,Furniture,Bookcases,Customer 134,5,0.2,11-20%,1008.36,158.19
+ORD-0842,2024-07-20 00:00:00,2024,7,Jul,2024-07,West,Furniture,Chairs,Customer 222,5,0,No Discount,1025.29,116.76
+ORD-0433,2024-07-21 00:00:00,2024,7,Jul,2024-07,West,Technology,Accessories,Customer 016,5,0.1,1-10%,347.36,75.93
+ORD-0308,2024-07-21 00:00:00,2024,7,Jul,2024-07,South,Furniture,Chairs,Customer 196,5,0.05,1-10%,769.47,135.85
+ORD-0691,2024-07-23 00:00:00,2024,7,Jul,2024-07,East,Technology,Laptops,Customer 276,7,0.1,1-10%,4644.77,1107.05
+ORD-0876,2024-07-23 00:00:00,2024,7,Jul,2024-07,North,Furniture,Chairs,Customer 115,5,0.1,1-10%,641.67,96.83
+ORD-0465,2024-07-25 00:00:00,2024,7,Jul,2024-07,East,Office Supplies,Art,Customer 279,1,0.15,11-20%,24.3,5.09
+ORD-0584,2024-07-25 00:00:00,2024,7,Jul,2024-07,West,Office Supplies,Storage,Customer 011,7,0,No Discount,433.47,104.64
+ORD-0980,2024-07-25 00:00:00,2024,7,Jul,2024-07,West,Furniture,Chairs,Customer 111,2,0.05,1-10%,331.16,53.39
+ORD-0468,2024-07-25 00:00:00,2024,7,Jul,2024-07,East,Technology,Phones,Customer 204,4,0.1,1-10%,2905.47,712.24
+ORD-1129,2024-07-26 00:00:00,2024,7,Jul,2024-07,South,Office Supplies,Storage,Customer 113,2,0.1,1-10%,137,23.3
+ORD-0028,2024-07-26 00:00:00,2024,7,Jul,2024-07,West,Technology,Laptops,Customer 116,3,0.3,21-30%,1799.76,340.67
+ORD-0529,2024-07-26 00:00:00,2024,7,Jul,2024-07,North,Technology,Laptops,Customer 145,6,0.2,11-20%,3948.87,510.46
+ORD-1359,2024-07-27 00:00:00,2024,7,Jul,2024-07,West,Technology,Laptops,Customer 050,5,0.1,1-10%,4446.17,1184.03
+ORD-0224,2024-07-27 00:00:00,2024,7,Jul,2024-07,South,Office Supplies,Paper,Customer 300,3,0.2,11-20%,58.96,8.16
+ORD-0985,2024-07-28 00:00:00,2024,7,Jul,2024-07,North,Furniture,Tables,Customer 053,7,0.05,1-10%,2542.69,187.61
+ORD-0746,2024-07-29 00:00:00,2024,7,Jul,2024-07,East,Office Supplies,Paper,Customer 129,5,0.2,11-20%,86.91,14.03
+ORD-0835,2024-07-30 00:00:00,2024,7,Jul,2024-07,South,Office Supplies,Art,Customer 039,4,0.2,11-20%,98.6,16.92
+ORD-0899,2024-07-31 00:00:00,2024,7,Jul,2024-07,West,Technology,Accessories,Customer 262,3,0.15,11-20%,213.41,37.2
+ORD-1492,2024-07-31 00:00:00,2024,7,Jul,2024-07,South,Furniture,Chairs,Customer 081,5,0.4,31-40%,604.73,-8.88
+ORD-1017,2024-08-01 00:00:00,2024,8,Aug,2024-08,East,Technology,Laptops,Customer 032,2,0.2,11-20%,1250.16,142.14
+ORD-0755,2024-08-01 00:00:00,2024,8,Aug,2024-08,East,Furniture,Bookcases,Customer 176,6,0.4,31-40%,622.78,-13.78
+ORD-0859,2024-08-01 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Storage,Customer 156,6,0,No Discount,580.95,123.81
+ORD-0589,2024-08-02 00:00:00,2024,8,Aug,2024-08,North,Furniture,Tables,Customer 026,5,0,No Discount,1667.63,376.39
+ORD-0825,2024-08-02 00:00:00,2024,8,Aug,2024-08,West,Furniture,Tables,Customer 195,2,0.2,11-20%,595.31,24.13
+ORD-1353,2024-08-02 00:00:00,2024,8,Aug,2024-08,West,Office Supplies,Paper,Customer 072,3,0,No Discount,67.94,19.66
+ORD-1326,2024-08-02 00:00:00,2024,8,Aug,2024-08,North,Technology,Laptops,Customer 047,7,0,No Discount,6206.28,1884.37
+ORD-0345,2024-08-03 00:00:00,2024,8,Aug,2024-08,North,Furniture,Bookcases,Customer 242,7,0.1,1-10%,1393.81,172.73
+ORD-0817,2024-08-03 00:00:00,2024,8,Aug,2024-08,South,Office Supplies,Paper,Customer 247,2,0.15,11-20%,42.34,7.38
+ORD-1484,2024-08-04 00:00:00,2024,8,Aug,2024-08,West,Technology,Laptops,Customer 199,4,0.05,1-10%,3322.66,583.81
+ORD-0878,2024-08-04 00:00:00,2024,8,Aug,2024-08,North,Office Supplies,Binders,Customer 206,3,0.1,1-10%,107.36,24.05
+ORD-1044,2024-08-05 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Art,Customer 226,1,0.15,11-20%,36.58,10.16
+ORD-0989,2024-08-05 00:00:00,2024,8,Aug,2024-08,South,Furniture,Bookcases,Customer 242,6,0.2,11-20%,828.85,72.13
+ORD-0667,2024-08-06 00:00:00,2024,8,Aug,2024-08,North,Technology,Laptops,Customer 168,5,0.3,21-30%,2628.38,485.07
+ORD-0737,2024-08-06 00:00:00,2024,8,Aug,2024-08,South,Office Supplies,Storage,Customer 182,5,0.4,31-40%,186.87,35.57
+ORD-0784,2024-08-07 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Binders,Customer 283,7,0.2,11-20%,301.53,68.3
+ORD-0736,2024-08-08 00:00:00,2024,8,Aug,2024-08,South,Office Supplies,Binders,Customer 262,3,0.15,11-20%,113.43,22.91
+ORD-0869,2024-08-08 00:00:00,2024,8,Aug,2024-08,East,Technology,Accessories,Customer 225,3,0.1,1-10%,295.05,42.54
+ORD-0267,2024-08-08 00:00:00,2024,8,Aug,2024-08,West,Furniture,Bookcases,Customer 254,6,0.2,11-20%,846.98,43.67
+ORD-1296,2024-08-08 00:00:00,2024,8,Aug,2024-08,North,Technology,Phones,Customer 132,4,0.4,31-40%,1412.27,133.51
+ORD-0458,2024-08-08 00:00:00,2024,8,Aug,2024-08,West,Office Supplies,Art,Customer 206,3,0,No Discount,102.19,21.44
+ORD-1465,2024-08-10 00:00:00,2024,8,Aug,2024-08,West,Office Supplies,Binders,Customer 294,2,0,No Discount,110.62,23.53
+ORD-0486,2024-08-10 00:00:00,2024,8,Aug,2024-08,North,Technology,Accessories,Customer 276,7,0.15,11-20%,653.52,147.78
+ORD-0385,2024-08-10 00:00:00,2024,8,Aug,2024-08,North,Furniture,Tables,Customer 235,6,0.15,11-20%,1928.99,202.33
+ORD-1220,2024-08-11 00:00:00,2024,8,Aug,2024-08,South,Technology,Accessories,Customer 210,4,0.1,1-10%,246.75,50.6
+ORD-1346,2024-08-11 00:00:00,2024,8,Aug,2024-08,South,Technology,Laptops,Customer 035,6,0.05,1-10%,3873.33,739.69
+ORD-0162,2024-08-11 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Art,Customer 223,5,0.15,11-20%,184.54,43.54
+ORD-0768,2024-08-12 00:00:00,2024,8,Aug,2024-08,East,Furniture,Tables,Customer 169,6,0.15,11-20%,1622.65,179.93
+ORD-0820,2024-08-13 00:00:00,2024,8,Aug,2024-08,West,Technology,Laptops,Customer 120,3,0.3,21-30%,1535.84,181.98
+ORD-0156,2024-08-13 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Storage,Customer 090,4,0.1,1-10%,253.4,67.48
+ORD-0371,2024-08-14 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Art,Customer 044,5,0,No Discount,141.01,38.39
+ORD-0739,2024-08-14 00:00:00,2024,8,Aug,2024-08,North,Furniture,Tables,Customer 055,1,0.1,1-10%,321.12,33.75
+ORD-0166,2024-08-14 00:00:00,2024,8,Aug,2024-08,West,Office Supplies,Art,Customer 134,4,0.2,11-20%,85.38,11.36
+ORD-0278,2024-08-15 00:00:00,2024,8,Aug,2024-08,North,Technology,Phones,Customer 196,3,0,No Discount,2346.28,444.61
+ORD-1080,2024-08-15 00:00:00,2024,8,Aug,2024-08,South,Furniture,Tables,Customer 151,1,0.15,11-20%,243.01,19.1
+ORD-0798,2024-08-16 00:00:00,2024,8,Aug,2024-08,East,Technology,Laptops,Customer 247,2,0.1,1-10%,1725.81,336.91
+ORD-1116,2024-08-16 00:00:00,2024,8,Aug,2024-08,South,Technology,Phones,Customer 249,7,0.05,1-10%,4261.14,1073.97
+ORD-0066,2024-08-16 00:00:00,2024,8,Aug,2024-08,East,Technology,Phones,Customer 233,4,0.15,11-20%,2728.58,520.43
+ORD-0137,2024-08-16 00:00:00,2024,8,Aug,2024-08,South,Technology,Laptops,Customer 275,4,0.2,11-20%,2551.89,466.06
+ORD-0471,2024-08-17 00:00:00,2024,8,Aug,2024-08,North,Office Supplies,Art,Customer 256,2,0.3,21-30%,42.85,7.53
+ORD-0777,2024-08-17 00:00:00,2024,8,Aug,2024-08,South,Office Supplies,Binders,Customer 123,7,0.05,1-10%,271.67,54.34
+ORD-0223,2024-08-17 00:00:00,2024,8,Aug,2024-08,West,Technology,Phones,Customer 130,2,0.2,11-20%,900.03,147.57
+ORD-1055,2024-08-18 00:00:00,2024,8,Aug,2024-08,North,Office Supplies,Binders,Customer 235,7,0.15,11-20%,245.85,43.53
+ORD-0847,2024-08-19 00:00:00,2024,8,Aug,2024-08,South,Technology,Phones,Customer 025,4,0,No Discount,2204.77,666.12
+ORD-0357,2024-08-20 00:00:00,2024,8,Aug,2024-08,North,Furniture,Bookcases,Customer 281,6,0.4,31-40%,832.98,0.08
+ORD-0688,2024-08-20 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Art,Customer 026,6,0.15,11-20%,152.09,28.65
+ORD-1232,2024-08-21 00:00:00,2024,8,Aug,2024-08,East,Technology,Laptops,Customer 289,7,0.1,1-10%,4860.04,1054.23
+ORD-1216,2024-08-22 00:00:00,2024,8,Aug,2024-08,North,Office Supplies,Storage,Customer 047,6,0,No Discount,366.31,86.65
+ORD-1241,2024-08-23 00:00:00,2024,8,Aug,2024-08,South,Office Supplies,Binders,Customer 040,7,0.4,31-40%,152.57,15.87
+ORD-0958,2024-08-23 00:00:00,2024,8,Aug,2024-08,East,Technology,Laptops,Customer 009,7,0.1,1-10%,5029.53,1243.11
+ORD-1270,2024-08-23 00:00:00,2024,8,Aug,2024-08,South,Furniture,Chairs,Customer 125,2,0,No Discount,359.29,40.84
+ORD-0566,2024-08-24 00:00:00,2024,8,Aug,2024-08,West,Technology,Accessories,Customer 162,6,0,No Discount,594.37,110.48
+ORD-0646,2024-08-24 00:00:00,2024,8,Aug,2024-08,South,Office Supplies,Storage,Customer 172,7,0.2,11-20%,442.51,110.13
+ORD-0506,2024-08-25 00:00:00,2024,8,Aug,2024-08,South,Office Supplies,Art,Customer 112,6,0.1,1-10%,205.48,55.85
+ORD-0234,2024-08-25 00:00:00,2024,8,Aug,2024-08,West,Furniture,Tables,Customer 141,5,0.1,1-10%,1766.01,301.16
+ORD-0257,2024-08-25 00:00:00,2024,8,Aug,2024-08,West,Office Supplies,Paper,Customer 150,7,0.05,1-10%,129.16,29.36
+ORD-1349,2024-08-25 00:00:00,2024,8,Aug,2024-08,West,Technology,Accessories,Customer 230,2,0.15,11-20%,125.53,18.58
+ORD-1318,2024-08-26 00:00:00,2024,8,Aug,2024-08,West,Furniture,Bookcases,Customer 295,5,0,No Discount,1282.59,218.12
+ORD-0550,2024-08-26 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Storage,Customer 130,2,0.15,11-20%,129.04,36.63
+ORD-0877,2024-08-26 00:00:00,2024,8,Aug,2024-08,West,Furniture,Chairs,Customer 012,6,0.1,1-10%,1053.97,104.51
+ORD-1427,2024-08-27 00:00:00,2024,8,Aug,2024-08,West,Furniture,Tables,Customer 077,2,0.4,31-40%,375.53,20.59
+ORD-0627,2024-08-28 00:00:00,2024,8,Aug,2024-08,West,Technology,Accessories,Customer 153,4,0.1,1-10%,327.46,85.31
+ORD-0759,2024-08-28 00:00:00,2024,8,Aug,2024-08,West,Furniture,Chairs,Customer 066,3,0.15,11-20%,572.13,83.75
+ORD-0549,2024-08-28 00:00:00,2024,8,Aug,2024-08,East,Office Supplies,Storage,Customer 262,3,0.1,1-10%,165.09,40.72
+ORD-0440,2024-08-29 00:00:00,2024,8,Aug,2024-08,North,Office Supplies,Art,Customer 069,7,0.2,11-20%,228,43.88
+ORD-1355,2024-08-29 00:00:00,2024,8,Aug,2024-08,North,Office Supplies,Art,Customer 204,4,0.1,1-10%,143.61,35.26
+ORD-0581,2024-08-30 00:00:00,2024,8,Aug,2024-08,West,Technology,Laptops,Customer 188,6,0.4,31-40%,2579.85,359.24
+ORD-0093,2024-08-30 00:00:00,2024,8,Aug,2024-08,East,Technology,Phones,Customer 220,7,0.1,1-10%,5082.67,765.88
+ORD-0114,2024-08-31 00:00:00,2024,8,Aug,2024-08,East,Furniture,Bookcases,Customer 017,1,0.3,21-30%,186.57,9.37
+ORD-1093,2024-08-31 00:00:00,2024,8,Aug,2024-08,West,Technology,Accessories,Customer 092,6,0,No Discount,528.45,130.5
+ORD-1086,2024-09-01 00:00:00,2024,9,Sep,2024-09,South,Furniture,Tables,Customer 121,3,0.3,21-30%,821.22,26.31
+ORD-1354,2024-09-01 00:00:00,2024,9,Sep,2024-09,North,Furniture,Bookcases,Customer 205,7,0.2,11-20%,1412.15,88.9
+ORD-0601,2024-09-02 00:00:00,2024,9,Sep,2024-09,North,Furniture,Bookcases,Customer 117,5,0,No Discount,949.68,160.84
+ORD-0037,2024-09-02 00:00:00,2024,9,Sep,2024-09,East,Office Supplies,Binders,Customer 013,7,0.05,1-10%,345.54,102.25
+ORD-1365,2024-09-02 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Paper,Customer 172,7,0.15,11-20%,170.44,36.49
+ORD-0650,2024-09-03 00:00:00,2024,9,Sep,2024-09,South,Office Supplies,Storage,Customer 189,7,0.05,1-10%,649.59,145.68
+ORD-0045,2024-09-03 00:00:00,2024,9,Sep,2024-09,North,Furniture,Bookcases,Customer 185,3,0.05,1-10%,581.85,103.92
+ORD-0448,2024-09-03 00:00:00,2024,9,Sep,2024-09,East,Furniture,Tables,Customer 152,7,0.1,1-10%,1748.08,149.88
+ORD-0727,2024-09-03 00:00:00,2024,9,Sep,2024-09,West,Technology,Phones,Customer 051,6,0,No Discount,3643.09,1118.66
+ORD-0393,2024-09-03 00:00:00,2024,9,Sep,2024-09,South,Technology,Phones,Customer 241,3,0.4,31-40%,1166.88,118.77
+ORD-1039,2024-09-04 00:00:00,2024,9,Sep,2024-09,South,Furniture,Chairs,Customer 191,5,0.4,31-40%,643.62,51.92
+ORD-0546,2024-09-04 00:00:00,2024,9,Sep,2024-09,North,Furniture,Tables,Customer 094,7,0.2,11-20%,2148.58,68.28
+ORD-0402,2024-09-04 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Storage,Customer 169,4,0.1,1-10%,221.41,40.5
+ORD-0227,2024-09-04 00:00:00,2024,9,Sep,2024-09,West,Technology,Phones,Customer 231,4,0.05,1-10%,2681.87,443.88
+ORD-0300,2024-09-04 00:00:00,2024,9,Sep,2024-09,West,Technology,Laptops,Customer 001,4,0.2,11-20%,2400.67,460.3
+ORD-0431,2024-09-04 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Storage,Customer 212,4,0.15,11-20%,290.73,52.73
+ORD-0968,2024-09-05 00:00:00,2024,9,Sep,2024-09,South,Furniture,Tables,Customer 052,6,0.05,1-10%,1520.73,190.94
+ORD-1383,2024-09-05 00:00:00,2024,9,Sep,2024-09,South,Technology,Accessories,Customer 092,7,0.3,21-30%,447.67,51.26
+ORD-0576,2024-09-07 00:00:00,2024,9,Sep,2024-09,West,Technology,Laptops,Customer 095,4,0.15,11-20%,3082.13,398.85
+ORD-0195,2024-09-07 00:00:00,2024,9,Sep,2024-09,West,Office Supplies,Paper,Customer 293,5,0,No Discount,155.42,33.76
+ORD-1168,2024-09-08 00:00:00,2024,9,Sep,2024-09,West,Furniture,Tables,Customer 142,3,0.2,11-20%,633.55,63.39
+ORD-0051,2024-09-09 00:00:00,2024,9,Sep,2024-09,South,Technology,Laptops,Customer 093,3,0.15,11-20%,2107.45,441.09
+ORD-0003,2024-09-09 00:00:00,2024,9,Sep,2024-09,South,Furniture,Tables,Customer 188,4,0,No Discount,1295.86,189.17
+ORD-1081,2024-09-09 00:00:00,2024,9,Sep,2024-09,North,Furniture,Tables,Customer 260,5,0.15,11-20%,1393.27,95.03
+ORD-0288,2024-09-10 00:00:00,2024,9,Sep,2024-09,North,Furniture,Tables,Customer 262,3,0.3,21-30%,685,37.47
+ORD-0029,2024-09-10 00:00:00,2024,9,Sep,2024-09,West,Technology,Accessories,Customer 194,3,0.1,1-10%,296.48,80.44
+ORD-1456,2024-09-10 00:00:00,2024,9,Sep,2024-09,East,Technology,Phones,Customer 279,3,0,No Discount,1977.91,499.65
+ORD-1260,2024-09-11 00:00:00,2024,9,Sep,2024-09,East,Office Supplies,Storage,Customer 227,1,0.05,1-10%,69.84,17.34
+ORD-1281,2024-09-12 00:00:00,2024,9,Sep,2024-09,South,Furniture,Bookcases,Customer 084,4,0.05,1-10%,677.3,58.45
+ORD-0126,2024-09-12 00:00:00,2024,9,Sep,2024-09,North,Technology,Phones,Customer 280,6,0.1,1-10%,4143.67,686.74
+ORD-0193,2024-09-13 00:00:00,2024,9,Sep,2024-09,North,Furniture,Tables,Customer 064,5,0.05,1-10%,1609.03,275.87
+ORD-0327,2024-09-14 00:00:00,2024,9,Sep,2024-09,West,Technology,Accessories,Customer 213,1,0.2,11-20%,73.17,11.91
+ORD-1061,2024-09-14 00:00:00,2024,9,Sep,2024-09,North,Furniture,Chairs,Customer 059,2,0,No Discount,283.18,57.69
+ORD-0742,2024-09-14 00:00:00,2024,9,Sep,2024-09,East,Office Supplies,Storage,Customer 246,7,0.2,11-20%,503.71,80.51
+ORD-1192,2024-09-15 00:00:00,2024,9,Sep,2024-09,West,Office Supplies,Storage,Customer 251,6,0.1,1-10%,519.96,139.69
+ORD-0097,2024-09-15 00:00:00,2024,9,Sep,2024-09,East,Office Supplies,Binders,Customer 138,1,0.1,1-10%,39.57,9.57
+ORD-1339,2024-09-15 00:00:00,2024,9,Sep,2024-09,North,Technology,Laptops,Customer 280,6,0,No Discount,5232,905.28
+ORD-0271,2024-09-16 00:00:00,2024,9,Sep,2024-09,South,Office Supplies,Binders,Customer 078,4,0.2,11-20%,116.52,21.83
+ORD-1065,2024-09-17 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Binders,Customer 228,5,0.05,1-10%,259.65,53.66
+ORD-1316,2024-09-19 00:00:00,2024,9,Sep,2024-09,West,Furniture,Chairs,Customer 152,3,0,No Discount,505.88,94.31
+ORD-0041,2024-09-20 00:00:00,2024,9,Sep,2024-09,North,Furniture,Chairs,Customer 262,5,0.05,1-10%,1053.9,143.87
+ORD-0123,2024-09-20 00:00:00,2024,9,Sep,2024-09,East,Office Supplies,Art,Customer 165,2,0.2,11-20%,69.68,14.94
+ORD-0296,2024-09-21 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Art,Customer 213,4,0.3,21-30%,78.93,15.89
+ORD-1313,2024-09-22 00:00:00,2024,9,Sep,2024-09,West,Furniture,Chairs,Customer 234,1,0.3,21-30%,113.71,14.06
+ORD-0233,2024-09-22 00:00:00,2024,9,Sep,2024-09,West,Technology,Accessories,Customer 095,1,0.15,11-20%,75.71,12.22
+ORD-0147,2024-09-22 00:00:00,2024,9,Sep,2024-09,North,Furniture,Bookcases,Customer 177,6,0.1,1-10%,1141.29,180.62
+ORD-0396,2024-09-22 00:00:00,2024,9,Sep,2024-09,East,Office Supplies,Art,Customer 278,3,0.05,1-10%,76.75,14.39
+ORD-0898,2024-09-23 00:00:00,2024,9,Sep,2024-09,West,Office Supplies,Storage,Customer 145,6,0.2,11-20%,393.04,86.86
+ORD-0487,2024-09-24 00:00:00,2024,9,Sep,2024-09,East,Furniture,Chairs,Customer 011,1,0.2,11-20%,172.22,10.82
+ORD-0692,2024-09-24 00:00:00,2024,9,Sep,2024-09,East,Office Supplies,Storage,Customer 044,2,0.3,21-30%,107.42,14.86
+ORD-1140,2024-09-24 00:00:00,2024,9,Sep,2024-09,East,Furniture,Tables,Customer 263,5,0.2,11-20%,1517.62,71.27
+ORD-0635,2024-09-24 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Art,Customer 130,5,0.05,1-10%,187.7,54.23
+ORD-0598,2024-09-24 00:00:00,2024,9,Sep,2024-09,West,Technology,Accessories,Customer 253,6,0.1,1-10%,439.09,71.28
+ORD-0815,2024-09-25 00:00:00,2024,9,Sep,2024-09,East,Furniture,Tables,Customer 242,4,0.2,11-20%,997.42,88.08
+ORD-1057,2024-09-25 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Storage,Customer 214,5,0,No Discount,445.9,110.86
+ORD-1205,2024-09-25 00:00:00,2024,9,Sep,2024-09,West,Furniture,Bookcases,Customer 028,5,0.4,31-40%,785.95,4.13
+ORD-0413,2024-09-26 00:00:00,2024,9,Sep,2024-09,South,Office Supplies,Art,Customer 168,2,0.1,1-10%,54.65,14.41
+ORD-0277,2024-09-26 00:00:00,2024,9,Sep,2024-09,West,Technology,Laptops,Customer 205,2,0.05,1-10%,1931.79,416.23
+ORD-0851,2024-09-27 00:00:00,2024,9,Sep,2024-09,West,Technology,Accessories,Customer 090,4,0.1,1-10%,394.18,88.39
+ORD-0970,2024-09-28 00:00:00,2024,9,Sep,2024-09,West,Furniture,Chairs,Customer 150,6,0,No Discount,1321.33,163.45
+ORD-1294,2024-09-28 00:00:00,2024,9,Sep,2024-09,South,Technology,Laptops,Customer 070,2,0.4,31-40%,1059.68,42.82
+ORD-1273,2024-09-29 00:00:00,2024,9,Sep,2024-09,East,Furniture,Tables,Customer 136,5,0.15,11-20%,1391.31,167.16
+ORD-0875,2024-09-29 00:00:00,2024,9,Sep,2024-09,West,Furniture,Bookcases,Customer 009,1,0.15,11-20%,202.96,15.27
+ORD-1052,2024-09-29 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Binders,Customer 123,4,0.2,11-20%,138.06,32.07
+ORD-0997,2024-09-29 00:00:00,2024,9,Sep,2024-09,North,Technology,Accessories,Customer 111,4,0.1,1-10%,369.37,89.75
+ORD-0654,2024-09-29 00:00:00,2024,9,Sep,2024-09,North,Office Supplies,Art,Customer 081,2,0,No Discount,85.08,24.89
+ORD-0685,2024-09-29 00:00:00,2024,9,Sep,2024-09,South,Technology,Phones,Customer 049,4,0.2,11-20%,2404.28,355.49
+ORD-1004,2024-09-30 00:00:00,2024,9,Sep,2024-09,West,Technology,Accessories,Customer 187,3,0,No Discount,262.22,46.27
+ORD-0631,2024-09-30 00:00:00,2024,9,Sep,2024-09,North,Technology,Accessories,Customer 004,4,0,No Discount,334.87,85.28
+ORD-1255,2024-09-30 00:00:00,2024,9,Sep,2024-09,South,Technology,Phones,Customer 026,2,0.1,1-10%,1265.82,257.69
+ORD-0951,2024-10-01 00:00:00,2024,10,Oct,2024-10,North,Technology,Laptops,Customer 153,5,0.15,11-20%,3073.86,579.86
+ORD-0741,2024-10-01 00:00:00,2024,10,Oct,2024-10,South,Office Supplies,Binders,Customer 276,3,0.2,11-20%,111.79,24.08
+ORD-0503,2024-10-02 00:00:00,2024,10,Oct,2024-10,South,Office Supplies,Paper,Customer 273,4,0.2,11-20%,66.08,12.83
+ORD-0384,2024-10-03 00:00:00,2024,10,Oct,2024-10,South,Technology,Phones,Customer 210,6,0,No Discount,3460.67,979.28
+ORD-0092,2024-10-03 00:00:00,2024,10,Oct,2024-10,South,Office Supplies,Binders,Customer 095,6,0.1,1-10%,241.52,68.62
+ORD-0053,2024-10-03 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Art,Customer 192,5,0.05,1-10%,139.44,40.1
+ORD-0479,2024-10-03 00:00:00,2024,10,Oct,2024-10,East,Furniture,Bookcases,Customer 182,4,0.15,11-20%,819.39,110.7
+ORD-0164,2024-10-04 00:00:00,2024,10,Oct,2024-10,North,Technology,Phones,Customer 192,4,0,No Discount,2952.11,893.37
+ORD-0328,2024-10-05 00:00:00,2024,10,Oct,2024-10,East,Office Supplies,Storage,Customer 099,1,0,No Discount,75.5,24.1
+ORD-0745,2024-10-05 00:00:00,2024,10,Oct,2024-10,East,Furniture,Bookcases,Customer 188,1,0.3,21-30%,117.73,2.18
+ORD-0710,2024-10-05 00:00:00,2024,10,Oct,2024-10,South,Furniture,Bookcases,Customer 018,3,0.05,1-10%,569.96,115.1
+ORD-0861,2024-10-06 00:00:00,2024,10,Oct,2024-10,South,Furniture,Tables,Customer 100,2,0.3,21-30%,491.12,9.38
+ORD-1382,2024-10-06 00:00:00,2024,10,Oct,2024-10,West,Office Supplies,Binders,Customer 068,4,0,No Discount,143.22,37.21
+ORD-0774,2024-10-07 00:00:00,2024,10,Oct,2024-10,North,Furniture,Bookcases,Customer 210,3,0.1,1-10%,457.36,48.35
+ORD-0128,2024-10-07 00:00:00,2024,10,Oct,2024-10,North,Technology,Accessories,Customer 154,7,0.05,1-10%,641.91,135.79
+ORD-1164,2024-10-07 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Art,Customer 019,4,0,No Discount,147.42,31.33
+ORD-0937,2024-10-07 00:00:00,2024,10,Oct,2024-10,West,Furniture,Bookcases,Customer 060,3,0.3,21-30%,478.7,59.78
+ORD-0316,2024-10-09 00:00:00,2024,10,Oct,2024-10,South,Furniture,Tables,Customer 241,3,0.05,1-10%,1127.02,133.99
+ORD-0844,2024-10-09 00:00:00,2024,10,Oct,2024-10,South,Technology,Phones,Customer 259,4,0.2,11-20%,1639.69,316.4
+ORD-0018,2024-10-09 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Binders,Customer 198,6,0,No Discount,250.1,60.69
+ORD-0414,2024-10-09 00:00:00,2024,10,Oct,2024-10,North,Technology,Phones,Customer 147,6,0,No Discount,4799.95,1296.07
+ORD-0428,2024-10-10 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Paper,Customer 164,1,0,No Discount,26.04,6.13
+ORD-1351,2024-10-11 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Paper,Customer 252,2,0.2,11-20%,44.72,6.68
+ORD-0350,2024-10-12 00:00:00,2024,10,Oct,2024-10,West,Furniture,Bookcases,Customer 282,1,0.2,11-20%,219.17,10.54
+ORD-1040,2024-10-12 00:00:00,2024,10,Oct,2024-10,East,Furniture,Chairs,Customer 113,4,0.3,21-30%,397.74,-1.92
+ORD-0862,2024-10-12 00:00:00,2024,10,Oct,2024-10,South,Office Supplies,Binders,Customer 007,7,0.15,11-20%,202.86,52.09
+ORD-0237,2024-10-13 00:00:00,2024,10,Oct,2024-10,East,Furniture,Bookcases,Customer 267,3,0.15,11-20%,474.54,31.86
+ORD-1001,2024-10-13 00:00:00,2024,10,Oct,2024-10,East,Technology,Laptops,Customer 048,4,0.2,11-20%,2817.1,349.06
+ORD-0502,2024-10-13 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Storage,Customer 013,6,0.15,11-20%,412.48,94.85
+ORD-0221,2024-10-14 00:00:00,2024,10,Oct,2024-10,South,Furniture,Tables,Customer 164,7,0.2,11-20%,1581.35,174.49
+ORD-0541,2024-10-14 00:00:00,2024,10,Oct,2024-10,South,Furniture,Bookcases,Customer 229,2,0.3,21-30%,305.54,17.41
+ORD-0924,2024-10-16 00:00:00,2024,10,Oct,2024-10,North,Technology,Laptops,Customer 149,1,0.2,11-20%,679.7,143.71
+ORD-1453,2024-10-16 00:00:00,2024,10,Oct,2024-10,East,Furniture,Bookcases,Customer 081,6,0.15,11-20%,1320.04,198.44
+ORD-0354,2024-10-16 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Binders,Customer 145,5,0.4,31-40%,136.52,13.92
+ORD-1334,2024-10-16 00:00:00,2024,10,Oct,2024-10,South,Office Supplies,Binders,Customer 051,7,0.15,11-20%,304.42,79.59
+ORD-1393,2024-10-16 00:00:00,2024,10,Oct,2024-10,West,Office Supplies,Art,Customer 219,3,0,No Discount,126.64,41.16
+ORD-0595,2024-10-17 00:00:00,2024,10,Oct,2024-10,North,Furniture,Chairs,Customer 299,5,0.05,1-10%,767.56,112.6
+ORD-0971,2024-10-18 00:00:00,2024,10,Oct,2024-10,South,Office Supplies,Paper,Customer 111,2,0.1,1-10%,44,11.61
+ORD-1019,2024-10-18 00:00:00,2024,10,Oct,2024-10,West,Office Supplies,Storage,Customer 227,6,0.2,11-20%,381.95,77.06
+ORD-0457,2024-10-18 00:00:00,2024,10,Oct,2024-10,West,Furniture,Chairs,Customer 045,7,0,No Discount,1353.44,135.85
+ORD-0108,2024-10-18 00:00:00,2024,10,Oct,2024-10,East,Office Supplies,Storage,Customer 038,2,0.05,1-10%,140.27,29.17
+ORD-0216,2024-10-19 00:00:00,2024,10,Oct,2024-10,South,Office Supplies,Binders,Customer 202,4,0.05,1-10%,198.58,48.02
+ORD-1184,2024-10-19 00:00:00,2024,10,Oct,2024-10,North,Furniture,Bookcases,Customer 053,1,0,No Discount,184.43,23.97
+ORD-0703,2024-10-20 00:00:00,2024,10,Oct,2024-10,South,Technology,Accessories,Customer 145,6,0.3,21-30%,343.22,63.26
+ORD-0285,2024-10-20 00:00:00,2024,10,Oct,2024-10,West,Office Supplies,Art,Customer 049,4,0.1,1-10%,156.12,43.11
+ORD-0023,2024-10-20 00:00:00,2024,10,Oct,2024-10,East,Furniture,Chairs,Customer 240,5,0.15,11-20%,816.08,91.82
+ORD-1342,2024-10-21 00:00:00,2024,10,Oct,2024-10,West,Furniture,Chairs,Customer 036,2,0.3,21-30%,223.08,9.16
+ORD-0275,2024-10-21 00:00:00,2024,10,Oct,2024-10,East,Office Supplies,Paper,Customer 297,2,0.3,21-30%,39.9,3.83
+ORD-0906,2024-10-23 00:00:00,2024,10,Oct,2024-10,South,Furniture,Chairs,Customer 103,6,0,No Discount,986.1,119.18
+ORD-0954,2024-10-23 00:00:00,2024,10,Oct,2024-10,West,Furniture,Tables,Customer 105,2,0.05,1-10%,603.63,103.27
+ORD-0647,2024-10-24 00:00:00,2024,10,Oct,2024-10,East,Technology,Laptops,Customer 187,5,0.15,11-20%,3637.18,721.6
+ORD-0514,2024-10-25 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Paper,Customer 105,4,0.4,31-40%,45.31,7.26
+ORD-1490,2024-10-26 00:00:00,2024,10,Oct,2024-10,South,Technology,Laptops,Customer 042,4,0.3,21-30%,2458.36,165.08
+ORD-0975,2024-10-26 00:00:00,2024,10,Oct,2024-10,East,Furniture,Chairs,Customer 105,6,0.15,11-20%,689.84,26.78
+ORD-0732,2024-10-26 00:00:00,2024,10,Oct,2024-10,North,Technology,Laptops,Customer 194,7,0,No Discount,4962.2,1104.68
+ORD-0302,2024-10-28 00:00:00,2024,10,Oct,2024-10,North,Technology,Phones,Customer 252,4,0.3,21-30%,2157.8,371.68
+ORD-0919,2024-10-28 00:00:00,2024,10,Oct,2024-10,West,Office Supplies,Binders,Customer 039,4,0.05,1-10%,134.33,31.02
+ORD-0522,2024-10-28 00:00:00,2024,10,Oct,2024-10,West,Office Supplies,Paper,Customer 113,1,0,No Discount,20.21,5.59
+ORD-0492,2024-10-28 00:00:00,2024,10,Oct,2024-10,East,Furniture,Bookcases,Customer 238,6,0,No Discount,1373.26,220.78
+ORD-0192,2024-10-29 00:00:00,2024,10,Oct,2024-10,East,Furniture,Chairs,Customer 093,7,0.05,1-10%,941.74,90.66
+ORD-1268,2024-10-30 00:00:00,2024,10,Oct,2024-10,South,Office Supplies,Storage,Customer 069,5,0.1,1-10%,438.98,105.24
+ORD-0027,2024-10-30 00:00:00,2024,10,Oct,2024-10,South,Furniture,Chairs,Customer 009,6,0.3,21-30%,907.36,66.81
+ORD-0202,2024-10-30 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Paper,Customer 192,5,0.15,11-20%,98.21,16.68
+ORD-0826,2024-10-30 00:00:00,2024,10,Oct,2024-10,North,Office Supplies,Art,Customer 294,1,0,No Discount,37.33,12.16
+ORD-0611,2024-11-01 00:00:00,2024,11,Nov,2024-11,North,Furniture,Chairs,Customer 279,4,0.4,31-40%,496.04,27.75
+ORD-1347,2024-11-01 00:00:00,2024,11,Nov,2024-11,East,Furniture,Chairs,Customer 164,6,0.1,1-10%,997.28,87.09
+ORD-0405,2024-11-01 00:00:00,2024,11,Nov,2024-11,East,Furniture,Chairs,Customer 206,6,0.1,1-10%,1075.33,182.11
+ORD-0721,2024-11-02 00:00:00,2024,11,Nov,2024-11,West,Office Supplies,Binders,Customer 221,2,0,No Discount,78.1,19.01
+ORD-1096,2024-11-02 00:00:00,2024,11,Nov,2024-11,North,Office Supplies,Paper,Customer 243,3,0.05,1-10%,82.05,15.48
+ORD-0744,2024-11-02 00:00:00,2024,11,Nov,2024-11,West,Furniture,Chairs,Customer 210,6,0.05,1-10%,815.96,135.47
+ORD-0966,2024-11-02 00:00:00,2024,11,Nov,2024-11,North,Office Supplies,Storage,Customer 255,6,0.1,1-10%,530,135.09
+ORD-0411,2024-11-03 00:00:00,2024,11,Nov,2024-11,West,Furniture,Tables,Customer 175,5,0.3,21-30%,1232.66,106.98
+ORD-0686,2024-11-03 00:00:00,2024,11,Nov,2024-11,West,Office Supplies,Storage,Customer 189,4,0.4,31-40%,203.83,33.39
+ORD-0002,2024-11-04 00:00:00,2024,11,Nov,2024-11,South,Furniture,Bookcases,Customer 277,2,0.2,11-20%,429.19,8.63
+ORD-0701,2024-11-04 00:00:00,2024,11,Nov,2024-11,West,Furniture,Bookcases,Customer 253,4,0.05,1-10%,963.56,94.92
+ORD-0145,2024-11-06 00:00:00,2024,11,Nov,2024-11,South,Furniture,Tables,Customer 141,3,0.3,21-30%,511.15,54.93
+ORD-0751,2024-11-06 00:00:00,2024,11,Nov,2024-11,South,Technology,Phones,Customer 140,4,0.3,21-30%,1491.46,252.98
+ORD-0809,2024-11-08 00:00:00,2024,11,Nov,2024-11,South,Technology,Laptops,Customer 298,6,0.3,21-30%,3486.61,417.14
+ORD-0461,2024-11-09 00:00:00,2024,11,Nov,2024-11,South,Technology,Phones,Customer 209,5,0.15,11-20%,2555.59,542.67
+ORD-1250,2024-11-10 00:00:00,2024,11,Nov,2024-11,West,Furniture,Chairs,Customer 057,5,0.15,11-20%,683.4,60.74
+ORD-1070,2024-11-11 00:00:00,2024,11,Nov,2024-11,East,Technology,Accessories,Customer 027,6,0.1,1-10%,382.09,102.62
+ORD-1309,2024-11-11 00:00:00,2024,11,Nov,2024-11,North,Furniture,Tables,Customer 210,3,0.15,11-20%,839.95,38.5
+ORD-0944,2024-11-12 00:00:00,2024,11,Nov,2024-11,East,Office Supplies,Art,Customer 008,3,0.2,11-20%,97.36,25.71
+ORD-0535,2024-11-12 00:00:00,2024,11,Nov,2024-11,West,Office Supplies,Art,Customer 288,5,0.1,1-10%,138.23,24.86
+ORD-0942,2024-11-12 00:00:00,2024,11,Nov,2024-11,East,Office Supplies,Paper,Customer 080,2,0.1,1-10%,42.72,8.94
+ORD-0451,2024-11-12 00:00:00,2024,11,Nov,2024-11,North,Technology,Phones,Customer 269,5,0.1,1-10%,3627.64,749.9
+ORD-0753,2024-11-13 00:00:00,2024,11,Nov,2024-11,East,Office Supplies,Art,Customer 119,1,0.2,11-20%,29.5,4.2
+ORD-1248,2024-11-14 00:00:00,2024,11,Nov,2024-11,East,Office Supplies,Art,Customer 180,4,0.4,31-40%,96.21,10.81
+ORD-0175,2024-11-15 00:00:00,2024,11,Nov,2024-11,South,Furniture,Chairs,Customer 217,2,0.1,1-10%,340.2,32.6
+ORD-0158,2024-11-18 00:00:00,2024,11,Nov,2024-11,South,Furniture,Bookcases,Customer 216,2,0.15,11-20%,442.16,62.01
+ORD-0614,2024-11-18 00:00:00,2024,11,Nov,2024-11,North,Furniture,Tables,Customer 094,2,0.15,11-20%,606.19,49.5
+ORD-1118,2024-11-19 00:00:00,2024,11,Nov,2024-11,West,Office Supplies,Paper,Customer 105,4,0.1,1-10%,85.35,25.29
+ORD-1054,2024-11-20 00:00:00,2024,11,Nov,2024-11,South,Technology,Phones,Customer 033,7,0.2,11-20%,3051.56,553.04
+ORD-0794,2024-11-20 00:00:00,2024,11,Nov,2024-11,North,Furniture,Bookcases,Customer 181,3,0,No Discount,707.33,83.19
+ORD-0163,2024-11-21 00:00:00,2024,11,Nov,2024-11,East,Furniture,Chairs,Customer 060,3,0.2,11-20%,440.91,68.26
+ORD-1122,2024-11-21 00:00:00,2024,11,Nov,2024-11,East,Furniture,Bookcases,Customer 254,2,0.05,1-10%,363.6,45.33
+ORD-0282,2024-11-22 00:00:00,2024,11,Nov,2024-11,South,Technology,Laptops,Customer 028,6,0.15,11-20%,4643.68,620.25
+ORD-0306,2024-11-22 00:00:00,2024,11,Nov,2024-11,North,Office Supplies,Art,Customer 275,6,0.2,11-20%,151.6,37.31
+ORD-0386,2024-11-26 00:00:00,2024,11,Nov,2024-11,West,Office Supplies,Binders,Customer 169,5,0.15,11-20%,180.91,43.38
+ORD-1357,2024-11-26 00:00:00,2024,11,Nov,2024-11,South,Office Supplies,Storage,Customer 072,3,0.3,21-30%,129.76,26.05
+ORD-0956,2024-11-26 00:00:00,2024,11,Nov,2024-11,South,Office Supplies,Storage,Customer 270,5,0.15,11-20%,336.1,88.86
+ORD-0547,2024-11-29 00:00:00,2024,11,Nov,2024-11,North,Technology,Phones,Customer 011,3,0.15,11-20%,1378.23,207.06
+ORD-1148,2024-11-29 00:00:00,2024,11,Nov,2024-11,South,Office Supplies,Paper,Customer 176,3,0,No Discount,78.34,21.38
+ORD-0801,2024-11-30 00:00:00,2024,11,Nov,2024-11,North,Technology,Accessories,Customer 231,5,0.05,1-10%,418.47,69.41
+ORD-1189,2024-12-01 00:00:00,2024,12,Dec,2024-12,East,Office Supplies,Storage,Customer 195,1,0.1,1-10%,64.33,13.03
+ORD-1448,2024-12-01 00:00:00,2024,12,Dec,2024-12,North,Technology,Laptops,Customer 026,1,0.2,11-20%,896.39,172.46
+ORD-1023,2024-12-02 00:00:00,2024,12,Dec,2024-12,North,Technology,Accessories,Customer 007,7,0,No Discount,586.77,120.37
+ORD-0573,2024-12-02 00:00:00,2024,12,Dec,2024-12,West,Technology,Accessories,Customer 015,5,0.3,21-30%,256.31,21.19
+ORD-1029,2024-12-03 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Binders,Customer 266,3,0.1,1-10%,102.17,18.09
+ORD-0434,2024-12-03 00:00:00,2024,12,Dec,2024-12,South,Technology,Laptops,Customer 174,6,0.1,1-10%,4844.21,846.1
+ORD-1069,2024-12-04 00:00:00,2024,12,Dec,2024-12,West,Furniture,Bookcases,Customer 009,7,0,No Discount,1524.23,140.56
+ORD-0455,2024-12-04 00:00:00,2024,12,Dec,2024-12,North,Office Supplies,Paper,Customer 181,3,0.3,21-30%,62.54,10.02
+ORD-0560,2024-12-04 00:00:00,2024,12,Dec,2024-12,East,Furniture,Chairs,Customer 130,7,0.1,1-10%,1201.69,135.27
+ORD-0909,2024-12-05 00:00:00,2024,12,Dec,2024-12,North,Office Supplies,Binders,Customer 093,1,0,No Discount,50.87,15.25
+ORD-0229,2024-12-06 00:00:00,2024,12,Dec,2024-12,North,Technology,Accessories,Customer 180,2,0.3,21-30%,129.39,13.94
+ORD-1482,2024-12-07 00:00:00,2024,12,Dec,2024-12,East,Technology,Phones,Customer 113,1,0.1,1-10%,525.87,104.56
+ORD-0656,2024-12-07 00:00:00,2024,12,Dec,2024-12,West,Technology,Laptops,Customer 097,6,0.2,11-20%,3602.48,420.95
+ORD-1245,2024-12-08 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Paper,Customer 020,1,0.2,11-20%,21.08,3.9
+ORD-0338,2024-12-08 00:00:00,2024,12,Dec,2024-12,East,Technology,Phones,Customer 250,3,0.1,1-10%,2041.78,478.31
+ORD-0903,2024-12-09 00:00:00,2024,12,Dec,2024-12,North,Office Supplies,Paper,Customer 128,1,0.3,21-30%,20.12,3.34
+ORD-0578,2024-12-09 00:00:00,2024,12,Dec,2024-12,South,Technology,Laptops,Customer 046,3,0.15,11-20%,2723.73,699.67
+ORD-1373,2024-12-09 00:00:00,2024,12,Dec,2024-12,North,Furniture,Bookcases,Customer 214,2,0.15,11-20%,434.27,50.49
+ORD-1123,2024-12-09 00:00:00,2024,12,Dec,2024-12,East,Furniture,Tables,Customer 235,5,0.3,21-30%,1069.17,95.96
+ORD-1124,2024-12-10 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Art,Customer 228,3,0.2,11-20%,88.38,13.95
+ORD-0524,2024-12-10 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Paper,Customer 005,4,0,No Discount,116.33,36.31
+ORD-0043,2024-12-11 00:00:00,2024,12,Dec,2024-12,East,Technology,Accessories,Customer 129,5,0.05,1-10%,337.91,71.79
+ORD-0109,2024-12-11 00:00:00,2024,12,Dec,2024-12,East,Technology,Laptops,Customer 210,6,0.15,11-20%,5535.2,758.19
+ORD-0034,2024-12-14 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Binders,Customer 116,1,0.15,11-20%,39.63,11.29
+ORD-1288,2024-12-14 00:00:00,2024,12,Dec,2024-12,West,Furniture,Bookcases,Customer 010,4,0.4,31-40%,586.48,-22.09
+ORD-0274,2024-12-14 00:00:00,2024,12,Dec,2024-12,North,Furniture,Bookcases,Customer 070,5,0.15,11-20%,904.7,152.65
+ORD-1133,2024-12-14 00:00:00,2024,12,Dec,2024-12,East,Office Supplies,Paper,Customer 119,3,0.15,11-20%,68.56,12.02
+ORD-0250,2024-12-15 00:00:00,2024,12,Dec,2024-12,North,Furniture,Tables,Customer 220,6,0.2,11-20%,1355.56,31.09
+ORD-1277,2024-12-16 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Binders,Customer 131,7,0.1,1-10%,297.57,68.94
+ORD-0824,2024-12-16 00:00:00,2024,12,Dec,2024-12,East,Technology,Accessories,Customer 160,2,0.3,21-30%,117.57,9.35
+ORD-1099,2024-12-16 00:00:00,2024,12,Dec,2024-12,West,Technology,Laptops,Customer 129,6,0,No Discount,6589.07,1360.6
+ORD-1263,2024-12-16 00:00:00,2024,12,Dec,2024-12,West,Furniture,Tables,Customer 152,3,0,No Discount,810.42,112.75
+ORD-1341,2024-12-18 00:00:00,2024,12,Dec,2024-12,North,Furniture,Chairs,Customer 218,4,0.05,1-10%,589.91,85.67
+ORD-1085,2024-12-18 00:00:00,2024,12,Dec,2024-12,West,Furniture,Bookcases,Customer 226,7,0.3,21-30%,1114.01,38.57
+ORD-0159,2024-12-18 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Art,Customer 181,3,0.3,21-30%,81.16,17.22
+ORD-0450,2024-12-19 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Binders,Customer 239,3,0.15,11-20%,119.08,17.93
+ORD-0882,2024-12-19 00:00:00,2024,12,Dec,2024-12,North,Furniture,Chairs,Customer 145,5,0.1,1-10%,692.17,120.29
+ORD-1279,2024-12-20 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Binders,Customer 168,3,0,No Discount,123.49,33.98
+ORD-1227,2024-12-21 00:00:00,2024,12,Dec,2024-12,South,Technology,Phones,Customer 005,6,0,No Discount,3086.2,579.17
+ORD-0047,2024-12-22 00:00:00,2024,12,Dec,2024-12,South,Furniture,Tables,Customer 180,7,0,No Discount,2743.04,587.38
+ORD-1478,2024-12-22 00:00:00,2024,12,Dec,2024-12,North,Office Supplies,Storage,Customer 026,7,0.3,21-30%,378.69,64.54
+ORD-0600,2024-12-22 00:00:00,2024,12,Dec,2024-12,East,Furniture,Tables,Customer 118,6,0.2,11-20%,1521.62,202.92
+ORD-0068,2024-12-23 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Art,Customer 164,4,0,No Discount,128.5,28.75
+ORD-0779,2024-12-23 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Paper,Customer 199,6,0.3,21-30%,97.23,15.31
+ORD-0752,2024-12-23 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Art,Customer 108,4,0.4,31-40%,80.27,9.81
+ORD-1000,2024-12-24 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Storage,Customer 261,2,0,No Discount,193.21,46.58
+ORD-0907,2024-12-24 00:00:00,2024,12,Dec,2024-12,North,Office Supplies,Storage,Customer 165,2,0.15,11-20%,114.82,29.88
+ORD-0904,2024-12-24 00:00:00,2024,12,Dec,2024-12,South,Office Supplies,Storage,Customer 029,7,0.15,11-20%,532.46,125.3
+ORD-0180,2024-12-24 00:00:00,2024,12,Dec,2024-12,North,Technology,Accessories,Customer 178,7,0.15,11-20%,591.48,141.62
+ORD-0990,2024-12-24 00:00:00,2024,12,Dec,2024-12,South,Furniture,Tables,Customer 265,7,0.15,11-20%,2131.09,338.54
+ORD-1156,2024-12-24 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Art,Customer 170,7,0.2,11-20%,207.71,50.35
+ORD-0251,2024-12-25 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Art,Customer 292,1,0.4,31-40%,22.76,1.4
+ORD-1258,2024-12-25 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Art,Customer 265,7,0.3,21-30%,152.3,34.31
+ORD-0383,2024-12-26 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Art,Customer 226,3,0,No Discount,100.57,24.37
+ORD-0064,2024-12-26 00:00:00,2024,12,Dec,2024-12,East,Technology,Phones,Customer 191,7,0.2,11-20%,3791.73,889.94
+ORD-1113,2024-12-26 00:00:00,2024,12,Dec,2024-12,North,Furniture,Tables,Customer 125,4,0.2,11-20%,877.35,18.86
+ORD-0315,2024-12-26 00:00:00,2024,12,Dec,2024-12,East,Technology,Laptops,Customer 210,1,0.05,1-10%,815.23,226.07
+ORD-1423,2024-12-27 00:00:00,2024,12,Dec,2024-12,West,Technology,Phones,Customer 278,2,0.3,21-30%,687.85,101.32
+ORD-0888,2024-12-27 00:00:00,2024,12,Dec,2024-12,West,Furniture,Bookcases,Customer 020,5,0.2,11-20%,1048.27,50.83
+ORD-0982,2024-12-27 00:00:00,2024,12,Dec,2024-12,North,Office Supplies,Storage,Customer 103,5,0.05,1-10%,394.06,107.08
+ORD-1406,2024-12-28 00:00:00,2024,12,Dec,2024-12,South,Technology,Laptops,Customer 056,7,0.3,21-30%,3628.31,661.17
+ORD-0885,2024-12-28 00:00:00,2024,12,Dec,2024-12,West,Furniture,Chairs,Customer 099,6,0.15,11-20%,931.79,38.57
+ORD-0161,2024-12-28 00:00:00,2024,12,Dec,2024-12,West,Office Supplies,Paper,Customer 206,5,0.2,11-20%,83.04,20.3
+ORD-0976,2024-12-30 00:00:00,2024,12,Dec,2024-12,North,Technology,Accessories,Customer 229,4,0.3,21-30%,304.54,62.29
+ORD-0293,2024-12-31 00:00:00,2024,12,Dec,2024-12,South,Technology,Accessories,Customer 016,6,0.3,21-30%,305.73,51.54
+ORD-0249,2024-12-31 00:00:00,2024,12,Dec,2024-12,West,Technology,Phones,Customer 028,4,0.1,1-10%,2661.34,605.7
+ORD-1138,2024-12-31 00:00:00,2024,12,Dec,2024-12,South,Furniture,Chairs,Customer 266,1,0,No Discount,140.27,18.62
+ORD-0780,2025-01-05 00:00:00,2025,1,Jan,2025-01,West,Technology,Phones,Customer 058,6,0.3,21-30%,3084.95,221.58
+ORD-0858,2025-01-05 00:00:00,2025,1,Jan,2025-01,South,Office Supplies,Paper,Customer 290,6,0.05,1-10%,113.47,22.31
+ORD-0767,2025-01-07 00:00:00,2025,1,Jan,2025-01,South,Technology,Accessories,Customer 170,5,0.1,1-10%,363.01,76.73
+ORD-1062,2025-01-07 00:00:00,2025,1,Jan,2025-01,West,Office Supplies,Art,Customer 216,5,0.2,11-20%,115.95,28.87
+ORD-1158,2025-01-07 00:00:00,2025,1,Jan,2025-01,South,Technology,Laptops,Customer 108,1,0.2,11-20%,832.02,87.03
+ORD-1180,2025-01-07 00:00:00,2025,1,Jan,2025-01,South,Technology,Laptops,Customer 178,4,0.3,21-30%,2252.8,204.95
+ORD-0253,2025-01-08 00:00:00,2025,1,Jan,2025-01,West,Technology,Laptops,Customer 226,5,0.15,11-20%,4299.44,993.81
+ORD-0199,2025-01-09 00:00:00,2025,1,Jan,2025-01,South,Technology,Accessories,Customer 005,2,0.05,1-10%,190.74,33.26
+ORD-1166,2025-01-09 00:00:00,2025,1,Jan,2025-01,South,Furniture,Tables,Customer 134,5,0.3,21-30%,1039.57,105.57
+ORD-0889,2025-01-10 00:00:00,2025,1,Jan,2025-01,East,Office Supplies,Art,Customer 300,6,0.1,1-10%,170.03,45.86
+ORD-0334,2025-01-10 00:00:00,2025,1,Jan,2025-01,South,Office Supplies,Binders,Customer 234,3,0.15,11-20%,93.85,15.15
+ORD-0542,2025-01-10 00:00:00,2025,1,Jan,2025-01,West,Office Supplies,Paper,Customer 096,3,0.15,11-20%,74.22,18.35
+ORD-1084,2025-01-11 00:00:00,2025,1,Jan,2025-01,South,Technology,Laptops,Customer 056,7,0,No Discount,5050.69,1163.74
+ORD-0914,2025-01-11 00:00:00,2025,1,Jan,2025-01,East,Technology,Phones,Customer 094,6,0.1,1-10%,3306.45,841.88
+ORD-1276,2025-01-11 00:00:00,2025,1,Jan,2025-01,West,Furniture,Tables,Customer 176,6,0.05,1-10%,2123.54,313.83
+ORD-0603,2025-01-12 00:00:00,2025,1,Jan,2025-01,East,Furniture,Bookcases,Customer 093,3,0.3,21-30%,482.33,16.61
+ORD-1479,2025-01-12 00:00:00,2025,1,Jan,2025-01,South,Office Supplies,Paper,Customer 027,2,0.2,11-20%,40.25,9.25
+ORD-0289,2025-01-13 00:00:00,2025,1,Jan,2025-01,North,Furniture,Bookcases,Customer 268,2,0,No Discount,427.04,50.13
+ORD-1437,2025-01-13 00:00:00,2025,1,Jan,2025-01,East,Furniture,Chairs,Customer 102,6,0.3,21-30%,731.62,-3.56
+ORD-0121,2025-01-14 00:00:00,2025,1,Jan,2025-01,South,Technology,Accessories,Customer 008,1,0,No Discount,74.53,20.14
+ORD-1003,2025-01-14 00:00:00,2025,1,Jan,2025-01,North,Office Supplies,Paper,Customer 234,5,0.4,31-40%,65.82,11.86
+ORD-0565,2025-01-15 00:00:00,2025,1,Jan,2025-01,West,Technology,Phones,Customer 042,2,0.2,11-20%,901.33,169.04
+ORD-1091,2025-01-15 00:00:00,2025,1,Jan,2025-01,West,Furniture,Bookcases,Customer 146,4,0.1,1-10%,742.36,59.84
+ORD-1327,2025-01-16 00:00:00,2025,1,Jan,2025-01,South,Office Supplies,Storage,Customer 106,2,0.05,1-10%,162.83,35.99
+ORD-0169,2025-01-16 00:00:00,2025,1,Jan,2025-01,North,Technology,Laptops,Customer 084,4,0,No Discount,4016.29,1194.18
+ORD-1155,2025-01-16 00:00:00,2025,1,Jan,2025-01,North,Furniture,Bookcases,Customer 152,1,0.1,1-10%,154.94,26.42
+ORD-0319,2025-01-16 00:00:00,2025,1,Jan,2025-01,South,Furniture,Bookcases,Customer 277,1,0.1,1-10%,157.12,22.22
+ORD-1287,2025-01-17 00:00:00,2025,1,Jan,2025-01,East,Technology,Phones,Customer 048,7,0,No Discount,5256.43,1612.2
+ORD-0604,2025-01-17 00:00:00,2025,1,Jan,2025-01,West,Technology,Accessories,Customer 251,6,0.1,1-10%,472.73,64.78
+ORD-1226,2025-01-17 00:00:00,2025,1,Jan,2025-01,South,Office Supplies,Paper,Customer 245,5,0,No Discount,125.19,35.28
+ORD-0353,2025-01-18 00:00:00,2025,1,Jan,2025-01,South,Furniture,Tables,Customer 259,4,0.1,1-10%,902.02,93.66
+ORD-0466,2025-01-18 00:00:00,2025,1,Jan,2025-01,North,Office Supplies,Art,Customer 222,6,0.2,11-20%,148.18,38.74
+ORD-0057,2025-01-18 00:00:00,2025,1,Jan,2025-01,East,Furniture,Tables,Customer 099,4,0.15,11-20%,1159.72,116.3
+ORD-0929,2025-01-19 00:00:00,2025,1,Jan,2025-01,East,Furniture,Tables,Customer 231,5,0.2,11-20%,1148.61,114.83
+ORD-0214,2025-01-19 00:00:00,2025,1,Jan,2025-01,East,Furniture,Tables,Customer 118,4,0,No Discount,1365.22,304.71
+ORD-1386,2025-01-20 00:00:00,2025,1,Jan,2025-01,East,Technology,Laptops,Customer 035,7,0,No Discount,6121.25,1200.22
+ORD-0607,2025-01-21 00:00:00,2025,1,Jan,2025-01,East,Office Supplies,Storage,Customer 111,3,0.2,11-20%,167.44,35.79
+ORD-0453,2025-01-21 00:00:00,2025,1,Jan,2025-01,North,Office Supplies,Storage,Customer 144,7,0.3,21-30%,337.49,65.83
+ORD-0834,2025-01-21 00:00:00,2025,1,Jan,2025-01,East,Technology,Phones,Customer 246,4,0.4,31-40%,1561.46,146.3
+ORD-0423,2025-01-21 00:00:00,2025,1,Jan,2025-01,East,Furniture,Bookcases,Customer 280,2,0.15,11-20%,418.91,52.7
+ORD-0501,2025-01-21 00:00:00,2025,1,Jan,2025-01,South,Furniture,Bookcases,Customer 190,3,0.1,1-10%,662.15,89.56
+ORD-0170,2025-01-21 00:00:00,2025,1,Jan,2025-01,North,Furniture,Chairs,Customer 163,3,0.1,1-10%,581.77,50.73
+ORD-0946,2025-01-21 00:00:00,2025,1,Jan,2025-01,South,Technology,Accessories,Customer 074,1,0.2,11-20%,82.81,19.09
+ORD-0007,2025-01-22 00:00:00,2025,1,Jan,2025-01,South,Office Supplies,Art,Customer 191,2,0.1,1-10%,53.8,13.15
+ORD-1261,2025-01-23 00:00:00,2025,1,Jan,2025-01,North,Office Supplies,Paper,Customer 021,1,0.1,1-10%,27.9,5.49
+ORD-0648,2025-01-23 00:00:00,2025,1,Jan,2025-01,West,Furniture,Bookcases,Customer 253,3,0.2,11-20%,423.83,58.25
+ORD-0362,2025-01-24 00:00:00,2025,1,Jan,2025-01,West,Office Supplies,Storage,Customer 121,5,0.4,31-40%,189.93,36.15
+ORD-1421,2025-01-25 00:00:00,2025,1,Jan,2025-01,North,Furniture,Chairs,Customer 147,4,0.05,1-10%,686.06,82.05
+ORD-0176,2025-01-26 00:00:00,2025,1,Jan,2025-01,North,Office Supplies,Paper,Customer 046,3,0.15,11-20%,51.16,9.28
+ORD-0700,2025-01-26 00:00:00,2025,1,Jan,2025-01,South,Office Supplies,Paper,Customer 002,5,0.2,11-20%,106.17,22.76
+ORD-0936,2025-01-27 00:00:00,2025,1,Jan,2025-01,North,Office Supplies,Paper,Customer 041,4,0.2,11-20%,99.99,23.15
+ORD-1466,2025-01-27 00:00:00,2025,1,Jan,2025-01,North,Furniture,Chairs,Customer 142,7,0.1,1-10%,1376.97,189.53
+ORD-0988,2025-01-27 00:00:00,2025,1,Jan,2025-01,East,Office Supplies,Art,Customer 168,7,0.2,11-20%,203.05,52.19
+ORD-0897,2025-01-28 00:00:00,2025,1,Jan,2025-01,East,Office Supplies,Binders,Customer 177,3,0.2,11-20%,83.99,17.25
+ORD-0868,2025-01-28 00:00:00,2025,1,Jan,2025-01,West,Office Supplies,Binders,Customer 258,3,0.3,21-30%,78.27,18.12
+ORD-1262,2025-01-28 00:00:00,2025,1,Jan,2025-01,North,Furniture,Tables,Customer 150,7,0,No Discount,2185.22,475.34
+ORD-0853,2025-01-29 00:00:00,2025,1,Jan,2025-01,East,Furniture,Chairs,Customer 075,7,0.2,11-20%,843.39,102.45
+ORD-1007,2025-01-29 00:00:00,2025,1,Jan,2025-01,South,Furniture,Bookcases,Customer 218,2,0.1,1-10%,347.3,66.85
+ORD-1199,2025-01-29 00:00:00,2025,1,Jan,2025-01,East,Office Supplies,Storage,Customer 132,7,0.1,1-10%,473.42,105.83
+ORD-0722,2025-01-30 00:00:00,2025,1,Jan,2025-01,South,Furniture,Bookcases,Customer 281,6,0.4,31-40%,848.54,42.83
+ORD-0881,2025-01-30 00:00:00,2025,1,Jan,2025-01,East,Technology,Laptops,Customer 240,7,0,No Discount,6518.08,1948.3
+ORD-1292,2025-01-30 00:00:00,2025,1,Jan,2025-01,South,Technology,Accessories,Customer 294,6,0,No Discount,499.87,103.51
+ORD-1186,2025-01-30 00:00:00,2025,1,Jan,2025-01,South,Office Supplies,Storage,Customer 049,5,0,No Discount,482.92,102.74
+ORD-0056,2025-01-31 00:00:00,2025,1,Jan,2025-01,South,Furniture,Chairs,Customer 076,3,0,No Discount,419.44,94.04
+ORD-0014,2025-02-01 00:00:00,2025,2,Feb,2025-02,East,Office Supplies,Paper,Customer 179,7,0,No Discount,193.43,41.69
+ORD-0149,2025-02-02 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Storage,Customer 293,1,0.1,1-10%,58.48,17.48
+ORD-0572,2025-02-03 00:00:00,2025,2,Feb,2025-02,East,Technology,Phones,Customer 231,3,0.3,21-30%,1246.12,103.29
+ORD-1094,2025-02-03 00:00:00,2025,2,Feb,2025-02,South,Furniture,Chairs,Customer 241,7,0.1,1-10%,1030.01,114.35
+ORD-0625,2025-02-04 00:00:00,2025,2,Feb,2025-02,West,Technology,Phones,Customer 134,4,0.15,11-20%,1975.94,233.96
+ORD-1193,2025-02-04 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Binders,Customer 282,6,0.1,1-10%,182.41,42.79
+ORD-0077,2025-02-04 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Art,Customer 066,7,0,No Discount,276.25,79.24
+ORD-1443,2025-02-05 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Binders,Customer 169,5,0.15,11-20%,148.33,37.36
+ORD-0102,2025-02-05 00:00:00,2025,2,Feb,2025-02,North,Technology,Accessories,Customer 023,7,0.2,11-20%,604.72,113.31
+ORD-0708,2025-02-05 00:00:00,2025,2,Feb,2025-02,East,Technology,Laptops,Customer 177,6,0.1,1-10%,5144.84,1331.86
+ORD-0254,2025-02-05 00:00:00,2025,2,Feb,2025-02,North,Technology,Laptops,Customer 114,7,0,No Discount,5909.38,1459.69
+ORD-0186,2025-02-07 00:00:00,2025,2,Feb,2025-02,West,Office Supplies,Binders,Customer 152,5,0.1,1-10%,189.44,57.45
+ORD-0787,2025-02-07 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Paper,Customer 251,7,0.4,31-40%,94.5,5.92
+ORD-0925,2025-02-07 00:00:00,2025,2,Feb,2025-02,West,Office Supplies,Storage,Customer 292,2,0.2,11-20%,113.87,25.11
+ORD-0977,2025-02-08 00:00:00,2025,2,Feb,2025-02,West,Office Supplies,Binders,Customer 089,1,0.15,11-20%,29.03,8.07
+ORD-0827,2025-02-08 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Binders,Customer 028,3,0.4,31-40%,77.21,12.98
+ORD-0266,2025-02-08 00:00:00,2025,2,Feb,2025-02,North,Technology,Accessories,Customer 020,2,0.15,11-20%,141.95,32.46
+ORD-0500,2025-02-09 00:00:00,2025,2,Feb,2025-02,West,Technology,Accessories,Customer 006,5,0.15,11-20%,393.74,66.72
+ORD-0857,2025-02-10 00:00:00,2025,2,Feb,2025-02,East,Technology,Accessories,Customer 158,5,0.05,1-10%,345.49,99.61
+ORD-1403,2025-02-10 00:00:00,2025,2,Feb,2025-02,West,Office Supplies,Paper,Customer 023,1,0.05,1-10%,23.54,5.42
+ORD-0610,2025-02-11 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Paper,Customer 110,1,0.15,11-20%,16.42,4.6
+ORD-1332,2025-02-11 00:00:00,2025,2,Feb,2025-02,West,Technology,Accessories,Customer 237,5,0.15,11-20%,311.33,68.79
+ORD-0750,2025-02-12 00:00:00,2025,2,Feb,2025-02,West,Office Supplies,Storage,Customer 279,4,0.1,1-10%,291.76,76.23
+ORD-0718,2025-02-12 00:00:00,2025,2,Feb,2025-02,South,Furniture,Chairs,Customer 220,4,0.1,1-10%,750.6,134.31
+ORD-1375,2025-02-14 00:00:00,2025,2,Feb,2025-02,West,Technology,Accessories,Customer 221,4,0.2,11-20%,330.34,77.85
+ORD-0663,2025-02-14 00:00:00,2025,2,Feb,2025-02,West,Office Supplies,Art,Customer 083,6,0.4,31-40%,154.44,12.23
+ORD-0359,2025-02-15 00:00:00,2025,2,Feb,2025-02,South,Office Supplies,Paper,Customer 191,6,0.3,21-30%,120.96,20.85
+ORD-0605,2025-02-15 00:00:00,2025,2,Feb,2025-02,East,Office Supplies,Paper,Customer 150,4,0,No Discount,98.92,20.07
+ORD-0422,2025-02-15 00:00:00,2025,2,Feb,2025-02,North,Technology,Accessories,Customer 219,6,0.15,11-20%,387.81,77.18
+ORD-1259,2025-02-16 00:00:00,2025,2,Feb,2025-02,East,Office Supplies,Binders,Customer 290,5,0,No Discount,243.01,77.05
+ORD-0813,2025-02-16 00:00:00,2025,2,Feb,2025-02,South,Furniture,Tables,Customer 097,7,0.2,11-20%,1474.38,210.71
+ORD-0260,2025-02-16 00:00:00,2025,2,Feb,2025-02,East,Technology,Laptops,Customer 111,6,0.3,21-30%,4037.59,692.68
+ORD-1127,2025-02-17 00:00:00,2025,2,Feb,2025-02,West,Technology,Phones,Customer 204,5,0.05,1-10%,3610.66,566.96
+ORD-0711,2025-02-17 00:00:00,2025,2,Feb,2025-02,South,Office Supplies,Binders,Customer 186,6,0.05,1-10%,236.4,71.34
+ORD-0531,2025-02-18 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Storage,Customer 058,5,0.05,1-10%,288.18,80
+ORD-0543,2025-02-19 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Art,Customer 150,6,0.3,21-30%,142.63,16.19
+ORD-1137,2025-02-19 00:00:00,2025,2,Feb,2025-02,North,Furniture,Chairs,Customer 165,3,0.2,11-20%,324.61,48.8
+ORD-1198,2025-02-20 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Paper,Customer 195,6,0.1,1-10%,120.77,33.61
+ORD-1076,2025-02-20 00:00:00,2025,2,Feb,2025-02,West,Office Supplies,Storage,Customer 070,2,0.2,11-20%,112.77,28.58
+ORD-0052,2025-02-21 00:00:00,2025,2,Feb,2025-02,South,Office Supplies,Paper,Customer 075,3,0.05,1-10%,57.65,16.14
+ORD-0981,2025-02-21 00:00:00,2025,2,Feb,2025-02,West,Furniture,Bookcases,Customer 023,2,0,No Discount,370.24,52.24
+ORD-1442,2025-02-22 00:00:00,2025,2,Feb,2025-02,East,Office Supplies,Binders,Customer 247,6,0,No Discount,244.29,68.32
+ORD-0534,2025-02-22 00:00:00,2025,2,Feb,2025-02,West,Office Supplies,Storage,Customer 122,1,0.15,11-20%,58.87,14.3
+ORD-0240,2025-02-23 00:00:00,2025,2,Feb,2025-02,West,Furniture,Chairs,Customer 191,4,0.3,21-30%,560.53,53.75
+ORD-0729,2025-02-23 00:00:00,2025,2,Feb,2025-02,West,Furniture,Tables,Customer 124,3,0.2,11-20%,607.96,85.61
+ORD-1048,2025-02-24 00:00:00,2025,2,Feb,2025-02,East,Furniture,Chairs,Customer 128,5,0.2,11-20%,735.33,38.7
+ORD-1295,2025-02-25 00:00:00,2025,2,Feb,2025-02,South,Office Supplies,Paper,Customer 285,7,0.2,11-20%,158.6,30.42
+ORD-0160,2025-02-25 00:00:00,2025,2,Feb,2025-02,East,Office Supplies,Storage,Customer 031,4,0,No Discount,380.94,122.68
+ORD-1438,2025-02-25 00:00:00,2025,2,Feb,2025-02,South,Office Supplies,Art,Customer 291,4,0.2,11-20%,117.57,16.23
+ORD-1209,2025-02-27 00:00:00,2025,2,Feb,2025-02,South,Office Supplies,Paper,Customer 117,5,0.2,11-20%,89.47,19.95
+ORD-1178,2025-02-27 00:00:00,2025,2,Feb,2025-02,West,Technology,Phones,Customer 068,5,0.3,21-30%,1917.63,387.21
+ORD-0724,2025-02-28 00:00:00,2025,2,Feb,2025-02,North,Office Supplies,Paper,Customer 076,7,0.1,1-10%,176.59,34.78
+ORD-0940,2025-03-01 00:00:00,2025,3,Mar,2025-03,West,Technology,Laptops,Customer 257,5,0.1,1-10%,5040.79,719.14
+ORD-0612,2025-03-02 00:00:00,2025,3,Mar,2025-03,North,Office Supplies,Storage,Customer 146,1,0,No Discount,75.29,20.9
+ORD-0679,2025-03-02 00:00:00,2025,3,Mar,2025-03,West,Technology,Phones,Customer 120,5,0.1,1-10%,2311.6,359.69
+ORD-0617,2025-03-03 00:00:00,2025,3,Mar,2025-03,North,Office Supplies,Paper,Customer 275,1,0.15,11-20%,23.8,5.55
+ORD-0496,2025-03-03 00:00:00,2025,3,Mar,2025-03,East,Furniture,Chairs,Customer 018,6,0.3,21-30%,703.61,74.14
+ORD-1468,2025-03-03 00:00:00,2025,3,Mar,2025-03,North,Technology,Laptops,Customer 293,7,0.3,21-30%,3329.24,532.35
+ORD-0530,2025-03-04 00:00:00,2025,3,Mar,2025-03,South,Office Supplies,Art,Customer 143,6,0.15,11-20%,150.18,25.09
+ORD-0537,2025-03-04 00:00:00,2025,3,Mar,2025-03,West,Technology,Accessories,Customer 246,2,0,No Discount,214.14,53.1
+ORD-1450,2025-03-05 00:00:00,2025,3,Mar,2025-03,West,Technology,Phones,Customer 109,1,0,No Discount,487.83,123.92
+ORD-0481,2025-03-05 00:00:00,2025,3,Mar,2025-03,North,Furniture,Chairs,Customer 059,6,0,No Discount,1180.11,110.34
+ORD-1454,2025-03-07 00:00:00,2025,3,Mar,2025-03,East,Furniture,Bookcases,Customer 171,4,0.2,11-20%,791.2,43.77
+ORD-0218,2025-03-07 00:00:00,2025,3,Mar,2025-03,South,Technology,Phones,Customer 138,5,0.15,11-20%,2910.42,564.73
+ORD-0317,2025-03-07 00:00:00,2025,3,Mar,2025-03,East,Office Supplies,Paper,Customer 049,5,0.1,1-10%,117.61,28.25
+ORD-0839,2025-03-08 00:00:00,2025,3,Mar,2025-03,East,Office Supplies,Paper,Customer 186,1,0.2,11-20%,24.36,4.92
+ORD-1102,2025-03-08 00:00:00,2025,3,Mar,2025-03,North,Furniture,Tables,Customer 157,1,0.1,1-10%,236.29,33.67
+ORD-1014,2025-03-09 00:00:00,2025,3,Mar,2025-03,West,Office Supplies,Art,Customer 293,3,0.2,11-20%,83.16,15.5
+ORD-0795,2025-03-09 00:00:00,2025,3,Mar,2025-03,South,Furniture,Chairs,Customer 300,1,0.1,1-10%,140.08,11.99
+ORD-0637,2025-03-09 00:00:00,2025,3,Mar,2025-03,East,Office Supplies,Binders,Customer 013,4,0.1,1-10%,132.09,34.22
+ORD-1247,2025-03-10 00:00:00,2025,3,Mar,2025-03,South,Furniture,Bookcases,Customer 179,4,0.2,11-20%,708.43,59.66
+ORD-0689,2025-03-11 00:00:00,2025,3,Mar,2025-03,East,Technology,Laptops,Customer 286,4,0.2,11-20%,3538.27,565.4
+ORD-0245,2025-03-11 00:00:00,2025,3,Mar,2025-03,North,Office Supplies,Storage,Customer 105,5,0.1,1-10%,411.3,119.23
+ORD-0264,2025-03-12 00:00:00,2025,3,Mar,2025-03,South,Technology,Phones,Customer 070,1,0.2,11-20%,586.63,127.81
+ORD-0579,2025-03-12 00:00:00,2025,3,Mar,2025-03,South,Furniture,Bookcases,Customer 008,7,0.1,1-10%,1378.4,241.69
+ORD-0307,2025-03-12 00:00:00,2025,3,Mar,2025-03,West,Office Supplies,Paper,Customer 161,5,0,No Discount,110.21,22.75
+ORD-0074,2025-03-12 00:00:00,2025,3,Mar,2025-03,East,Office Supplies,Paper,Customer 145,7,0.2,11-20%,171.13,42.6
+ORD-1108,2025-03-13 00:00:00,2025,3,Mar,2025-03,North,Office Supplies,Storage,Customer 267,5,0,No Discount,437.37,143.4
+ORD-0483,2025-03-13 00:00:00,2025,3,Mar,2025-03,North,Office Supplies,Paper,Customer 148,2,0.2,11-20%,31.9,6.8
+ORD-0032,2025-03-13 00:00:00,2025,3,Mar,2025-03,East,Office Supplies,Binders,Customer 147,3,0.1,1-10%,112.39,28.7
+ORD-0217,2025-03-14 00:00:00,2025,3,Mar,2025-03,West,Office Supplies,Storage,Customer 161,2,0,No Discount,138.82,44.66
+ORD-0424,2025-03-14 00:00:00,2025,3,Mar,2025-03,South,Office Supplies,Paper,Customer 041,7,0,No Discount,212.23,44.48
+ORD-0331,2025-03-15 00:00:00,2025,3,Mar,2025-03,South,Furniture,Bookcases,Customer 193,4,0.1,1-10%,650.47,116.83
+ORD-0571,2025-03-15 00:00:00,2025,3,Mar,2025-03,West,Furniture,Chairs,Customer 294,1,0.1,1-10%,189.34,26.7
+ORD-1130,2025-03-15 00:00:00,2025,3,Mar,2025-03,East,Office Supplies,Paper,Customer 132,3,0.1,1-10%,59.14,14.18
+ORD-1237,2025-03-15 00:00:00,2025,3,Mar,2025-03,West,Furniture,Bookcases,Customer 217,6,0.2,11-20%,802.31,109.35
+ORD-0219,2025-03-16 00:00:00,2025,3,Mar,2025-03,North,Technology,Phones,Customer 146,6,0,No Discount,3460.35,877.5
+ORD-0593,2025-03-16 00:00:00,2025,3,Mar,2025-03,South,Technology,Accessories,Customer 161,7,0.15,11-20%,431.4,103.12
+ORD-0361,2025-03-16 00:00:00,2025,3,Mar,2025-03,East,Technology,Phones,Customer 214,7,0.05,1-10%,4934.17,1246.4
+ORD-1426,2025-03-17 00:00:00,2025,3,Mar,2025-03,North,Furniture,Bookcases,Customer 234,5,0.15,11-20%,720.52,85.96
+ORD-0048,2025-03-17 00:00:00,2025,3,Mar,2025-03,East,Furniture,Tables,Customer 247,1,0.15,11-20%,297.02,36.75
+ORD-1005,2025-03-17 00:00:00,2025,3,Mar,2025-03,East,Furniture,Chairs,Customer 199,1,0.1,1-10%,187.87,34.15
+ORD-0122,2025-03-18 00:00:00,2025,3,Mar,2025-03,East,Technology,Laptops,Customer 067,7,0,No Discount,5052.94,1424.87
+ORD-0735,2025-03-20 00:00:00,2025,3,Mar,2025-03,West,Technology,Laptops,Customer 141,6,0.1,1-10%,4350.32,929.54
+ORD-1322,2025-03-21 00:00:00,2025,3,Mar,2025-03,South,Office Supplies,Binders,Customer 091,4,0.1,1-10%,170.94,50.68
+ORD-1143,2025-03-21 00:00:00,2025,3,Mar,2025-03,North,Technology,Accessories,Customer 184,4,0,No Discount,270.96,58.51
+ORD-1218,2025-03-22 00:00:00,2025,3,Mar,2025-03,West,Technology,Accessories,Customer 029,2,0.2,11-20%,131.01,16.1
+ORD-0585,2025-03-23 00:00:00,2025,3,Mar,2025-03,East,Technology,Laptops,Customer 065,6,0.05,1-10%,4636.93,1105.49
+ORD-1179,2025-03-24 00:00:00,2025,3,Mar,2025-03,East,Furniture,Chairs,Customer 246,1,0.3,21-30%,129.41,9.09
+ORD-1012,2025-03-24 00:00:00,2025,3,Mar,2025-03,North,Furniture,Tables,Customer 147,1,0.15,11-20%,283.93,46.25
+ORD-1429,2025-03-25 00:00:00,2025,3,Mar,2025-03,West,Office Supplies,Storage,Customer 102,5,0.4,31-40%,284.89,31.42
+ORD-0389,2025-03-25 00:00:00,2025,3,Mar,2025-03,West,Office Supplies,Binders,Customer 094,2,0.2,11-20%,59.82,11.77
+ORD-0071,2025-03-25 00:00:00,2025,3,Mar,2025-03,East,Furniture,Chairs,Customer 119,2,0.3,21-30%,298.12,-2.58
+ORD-0356,2025-03-26 00:00:00,2025,3,Mar,2025-03,East,Technology,Accessories,Customer 221,7,0.3,21-30%,420.08,80.59
+ORD-0822,2025-03-27 00:00:00,2025,3,Mar,2025-03,South,Office Supplies,Binders,Customer 012,5,0.4,31-40%,101.58,11.96
+ORD-0669,2025-03-27 00:00:00,2025,3,Mar,2025-03,South,Technology,Laptops,Customer 010,6,0.15,11-20%,3809.42,816.26
+ORD-1251,2025-03-29 00:00:00,2025,3,Mar,2025-03,North,Office Supplies,Binders,Customer 138,3,0.15,11-20%,120.41,22.69
+ORD-1169,2025-03-29 00:00:00,2025,3,Mar,2025-03,East,Office Supplies,Paper,Customer 077,3,0.2,11-20%,53.05,12.08
+ORD-0314,2025-03-30 00:00:00,2025,3,Mar,2025-03,West,Office Supplies,Storage,Customer 194,4,0,No Discount,301.52,80.89
+ORD-1077,2025-03-31 00:00:00,2025,3,Mar,2025-03,West,Furniture,Bookcases,Customer 017,5,0.1,1-10%,1095.59,161.4
+ORD-1173,2025-04-01 00:00:00,2025,4,Apr,2025-04,North,Office Supplies,Storage,Customer 008,7,0.15,11-20%,447.91,126.07
+ORD-1412,2025-04-01 00:00:00,2025,4,Apr,2025-04,North,Furniture,Bookcases,Customer 178,5,0.05,1-10%,880.06,71.79
+ORD-0415,2025-04-02 00:00:00,2025,4,Apr,2025-04,East,Furniture,Bookcases,Customer 022,1,0,No Discount,199.08,26
+ORD-0539,2025-04-02 00:00:00,2025,4,Apr,2025-04,West,Office Supplies,Binders,Customer 060,6,0.15,11-20%,249.86,51.84
+ORD-0473,2025-04-03 00:00:00,2025,4,Apr,2025-04,North,Furniture,Chairs,Customer 291,3,0.3,21-30%,360.24,-4.71
+ORD-0714,2025-04-03 00:00:00,2025,4,Apr,2025-04,North,Technology,Phones,Customer 143,2,0.2,11-20%,921.21,132.9
+ORD-0516,2025-04-04 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Binders,Customer 184,2,0.3,21-30%,49.2,5.31
+ORD-0228,2025-04-04 00:00:00,2025,4,Apr,2025-04,West,Office Supplies,Binders,Customer 151,6,0,No Discount,211.02,45.68
+ORD-1022,2025-04-05 00:00:00,2025,4,Apr,2025-04,North,Furniture,Chairs,Customer 072,3,0.05,1-10%,615.83,102.77
+ORD-0926,2025-04-05 00:00:00,2025,4,Apr,2025-04,East,Technology,Laptops,Customer 238,5,0.05,1-10%,4393.19,994.45
+ORD-0803,2025-04-05 00:00:00,2025,4,Apr,2025-04,North,Technology,Phones,Customer 008,4,0.1,1-10%,2549.3,428.67
+ORD-0717,2025-04-05 00:00:00,2025,4,Apr,2025-04,West,Furniture,Bookcases,Customer 104,7,0.4,31-40%,850.94,74.89
+ORD-0070,2025-04-05 00:00:00,2025,4,Apr,2025-04,West,Technology,Phones,Customer 082,4,0.05,1-10%,2016.98,329.11
+ORD-1475,2025-04-07 00:00:00,2025,4,Apr,2025-04,West,Furniture,Bookcases,Customer 249,5,0.1,1-10%,1080.33,187.61
+ORD-1286,2025-04-07 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Storage,Customer 014,1,0,No Discount,71.86,17.19
+ORD-0622,2025-04-07 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Paper,Customer 088,1,0.15,11-20%,18.05,3.46
+ORD-0238,2025-04-07 00:00:00,2025,4,Apr,2025-04,West,Office Supplies,Storage,Customer 156,1,0.1,1-10%,60.14,10.55
+ORD-1254,2025-04-08 00:00:00,2025,4,Apr,2025-04,South,Office Supplies,Art,Customer 224,6,0.3,21-30%,164.33,20.48
+ORD-1290,2025-04-08 00:00:00,2025,4,Apr,2025-04,North,Furniture,Chairs,Customer 067,7,0.2,11-20%,1073.48,24.15
+ORD-0932,2025-04-08 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Storage,Customer 165,5,0.15,11-20%,405.76,110.34
+ORD-1187,2025-04-08 00:00:00,2025,4,Apr,2025-04,South,Furniture,Tables,Customer 105,7,0.1,1-10%,1802.51,163.99
+ORD-1331,2025-04-08 00:00:00,2025,4,Apr,2025-04,North,Technology,Accessories,Customer 060,6,0.1,1-10%,367.95,57.58
+ORD-1207,2025-04-09 00:00:00,2025,4,Apr,2025-04,South,Technology,Accessories,Customer 227,2,0.4,31-40%,112.83,10.83
+ORD-1114,2025-04-10 00:00:00,2025,4,Apr,2025-04,East,Furniture,Tables,Customer 082,3,0.05,1-10%,733.83,134.81
+ORD-0230,2025-04-10 00:00:00,2025,4,Apr,2025-04,West,Technology,Accessories,Customer 101,7,0,No Discount,720.18,180.36
+ORD-1445,2025-04-10 00:00:00,2025,4,Apr,2025-04,East,Technology,Accessories,Customer 193,7,0.3,21-30%,454.87,90.09
+ORD-0258,2025-04-10 00:00:00,2025,4,Apr,2025-04,West,Office Supplies,Paper,Customer 095,2,0,No Discount,55.65,17.5
+ORD-0360,2025-04-10 00:00:00,2025,4,Apr,2025-04,East,Technology,Laptops,Customer 127,4,0.15,11-20%,2729.94,371.92
+ORD-1202,2025-04-11 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Paper,Customer 010,6,0,No Discount,179.91,59.43
+ORD-0639,2025-04-11 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Paper,Customer 015,6,0.05,1-10%,162.69,50.4
+ORD-0135,2025-04-11 00:00:00,2025,4,Apr,2025-04,West,Technology,Laptops,Customer 201,3,0.3,21-30%,2217.36,440.66
+ORD-0291,2025-04-12 00:00:00,2025,4,Apr,2025-04,West,Furniture,Tables,Customer 259,6,0.2,11-20%,1395.27,195.35
+ORD-0994,2025-04-12 00:00:00,2025,4,Apr,2025-04,North,Office Supplies,Binders,Customer 073,2,0,No Discount,106.4,28.72
+ORD-1422,2025-04-12 00:00:00,2025,4,Apr,2025-04,North,Technology,Laptops,Customer 085,2,0.2,11-20%,1788.6,183.84
+ORD-1306,2025-04-14 00:00:00,2025,4,Apr,2025-04,North,Technology,Accessories,Customer 230,6,0.05,1-10%,521.93,94.12
+ORD-1381,2025-04-15 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Art,Customer 240,7,0.2,11-20%,207.75,29.41
+ORD-0865,2025-04-15 00:00:00,2025,4,Apr,2025-04,West,Office Supplies,Storage,Customer 058,7,0.2,11-20%,384.27,61.85
+ORD-1387,2025-04-15 00:00:00,2025,4,Apr,2025-04,East,Furniture,Tables,Customer 147,3,0.1,1-10%,908.64,89.66
+ORD-1282,2025-04-16 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Art,Customer 155,3,0,No Discount,111.57,27.6
+ORD-1163,2025-04-16 00:00:00,2025,4,Apr,2025-04,North,Furniture,Chairs,Customer 022,3,0,No Discount,629.01,106.13
+ORD-0262,2025-04-17 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Paper,Customer 066,2,0.2,11-20%,46.3,10.01
+ORD-1329,2025-04-18 00:00:00,2025,4,Apr,2025-04,South,Furniture,Chairs,Customer 011,4,0.15,11-20%,711.37,66.73
+ORD-1141,2025-04-18 00:00:00,2025,4,Apr,2025-04,North,Technology,Laptops,Customer 251,3,0.15,11-20%,2840.58,636.59
+ORD-0662,2025-04-18 00:00:00,2025,4,Apr,2025-04,North,Office Supplies,Binders,Customer 184,6,0.3,21-30%,172.55,39.44
+ORD-0760,2025-04-18 00:00:00,2025,4,Apr,2025-04,East,Furniture,Bookcases,Customer 216,6,0.1,1-10%,1373.11,132.02
+ORD-0805,2025-04-18 00:00:00,2025,4,Apr,2025-04,East,Technology,Phones,Customer 003,1,0.05,1-10%,491.69,102.48
+ORD-0412,2025-04-18 00:00:00,2025,4,Apr,2025-04,North,Furniture,Chairs,Customer 043,7,0.15,11-20%,1010.62,166.17
+ORD-0086,2025-04-18 00:00:00,2025,4,Apr,2025-04,South,Furniture,Tables,Customer 014,4,0.1,1-10%,1130.42,180.47
+ORD-0400,2025-04-19 00:00:00,2025,4,Apr,2025-04,North,Technology,Accessories,Customer 280,4,0.05,1-10%,406.89,88.26
+ORD-1234,2025-04-19 00:00:00,2025,4,Apr,2025-04,South,Technology,Accessories,Customer 191,7,0.3,21-30%,396.5,59
+ORD-1026,2025-04-20 00:00:00,2025,4,Apr,2025-04,South,Office Supplies,Storage,Customer 134,5,0,No Discount,332.5,108.16
+ORD-0343,2025-04-20 00:00:00,2025,4,Apr,2025-04,East,Technology,Laptops,Customer 012,5,0.2,11-20%,3196.38,712.13
+ORD-0117,2025-04-20 00:00:00,2025,4,Apr,2025-04,South,Furniture,Tables,Customer 141,7,0.4,31-40%,1345.48,44.88
+ORD-0142,2025-04-21 00:00:00,2025,4,Apr,2025-04,East,Technology,Laptops,Customer 103,2,0.2,11-20%,1119.52,183.29
+ORD-0225,2025-04-21 00:00:00,2025,4,Apr,2025-04,North,Technology,Phones,Customer 158,7,0.2,11-20%,3040.27,478.32
+ORD-0788,2025-04-22 00:00:00,2025,4,Apr,2025-04,North,Office Supplies,Art,Customer 024,1,0,No Discount,38.71,8.7
+ORD-1104,2025-04-22 00:00:00,2025,4,Apr,2025-04,East,Office Supplies,Art,Customer 244,3,0,No Discount,124.89,30.48
+ORD-0105,2025-04-22 00:00:00,2025,4,Apr,2025-04,West,Office Supplies,Binders,Customer 289,7,0.15,11-20%,334.38,84.54
+ORD-0886,2025-04-24 00:00:00,2025,4,Apr,2025-04,South,Office Supplies,Storage,Customer 086,3,0.4,31-40%,127.16,22.46
+ORD-1068,2025-04-25 00:00:00,2025,4,Apr,2025-04,West,Office Supplies,Art,Customer 087,4,0.2,11-20%,89.6,12.07
+ORD-0426,2025-04-25 00:00:00,2025,4,Apr,2025-04,North,Technology,Accessories,Customer 065,6,0.1,1-10%,430.38,94.11
+ORD-0509,2025-04-25 00:00:00,2025,4,Apr,2025-04,West,Technology,Laptops,Customer 190,5,0,No Discount,4743.72,993.08
+ORD-1109,2025-04-26 00:00:00,2025,4,Apr,2025-04,South,Technology,Phones,Customer 212,3,0.05,1-10%,1811.12,506.54
+ORD-0628,2025-04-26 00:00:00,2025,4,Apr,2025-04,East,Technology,Accessories,Customer 025,1,0.1,1-10%,86.14,21.38
+ORD-0425,2025-04-27 00:00:00,2025,4,Apr,2025-04,West,Technology,Laptops,Customer 134,7,0.15,11-20%,5734.22,1238.77
+ORD-1467,2025-04-28 00:00:00,2025,4,Apr,2025-04,West,Furniture,Tables,Customer 236,5,0.05,1-10%,1481.44,242.8
+ORD-0058,2025-04-28 00:00:00,2025,4,Apr,2025-04,North,Furniture,Bookcases,Customer 042,5,0.2,11-20%,1007.43,33.01
+ORD-0290,2025-04-29 00:00:00,2025,4,Apr,2025-04,West,Furniture,Chairs,Customer 238,5,0.1,1-10%,867.78,71.52
+ORD-0292,2025-04-30 00:00:00,2025,4,Apr,2025-04,West,Office Supplies,Storage,Customer 176,1,0.15,11-20%,52.14,10.34
+ORD-0757,2025-04-30 00:00:00,2025,4,Apr,2025-04,West,Furniture,Chairs,Customer 168,4,0.3,21-30%,483.42,22.83
+ORD-0378,2025-05-03 00:00:00,2025,5,May,2025-05,North,Furniture,Bookcases,Customer 218,5,0.05,1-10%,1036.68,183.64
+ORD-1058,2025-05-03 00:00:00,2025,5,May,2025-05,North,Office Supplies,Art,Customer 017,2,0.3,21-30%,55.14,9.01
+ORD-0025,2025-05-03 00:00:00,2025,5,May,2025-05,West,Furniture,Bookcases,Customer 267,1,0.1,1-10%,199.76,34.41
+ORD-1371,2025-05-03 00:00:00,2025,5,May,2025-05,East,Office Supplies,Paper,Customer 296,5,0.1,1-10%,95.48,27.93
+ORD-1280,2025-05-04 00:00:00,2025,5,May,2025-05,South,Office Supplies,Art,Customer 147,3,0.1,1-10%,84.64,23.72
+ORD-0463,2025-05-04 00:00:00,2025,5,May,2025-05,West,Furniture,Chairs,Customer 269,5,0.15,11-20%,863.79,69.51
+ORD-1075,2025-05-06 00:00:00,2025,5,May,2025-05,North,Furniture,Tables,Customer 137,5,0.1,1-10%,1556.91,120.13
+ORD-0060,2025-05-06 00:00:00,2025,5,May,2025-05,South,Technology,Accessories,Customer 170,1,0,No Discount,71.28,19.11
+ORD-1194,2025-05-06 00:00:00,2025,5,May,2025-05,West,Office Supplies,Paper,Customer 148,1,0.1,1-10%,24.61,4.92
+ORD-1167,2025-05-06 00:00:00,2025,5,May,2025-05,South,Technology,Phones,Customer 035,6,0.15,11-20%,3056.56,785.84
+ORD-0243,2025-05-07 00:00:00,2025,5,May,2025-05,South,Furniture,Tables,Customer 188,5,0.05,1-10%,1189.11,93.31
+ORD-1324,2025-05-07 00:00:00,2025,5,May,2025-05,West,Technology,Accessories,Customer 078,5,0.3,21-30%,302.15,38.29
+ORD-0211,2025-05-08 00:00:00,2025,5,May,2025-05,West,Technology,Phones,Customer 106,3,0.3,21-30%,1387.02,202.96
+ORD-0574,2025-05-09 00:00:00,2025,5,May,2025-05,South,Technology,Phones,Customer 104,4,0.15,11-20%,1771.79,307.91
+ORD-0198,2025-05-09 00:00:00,2025,5,May,2025-05,West,Office Supplies,Storage,Customer 126,3,0.15,11-20%,221.02,36.92
+ORD-1348,2025-05-09 00:00:00,2025,5,May,2025-05,West,Technology,Phones,Customer 142,1,0.05,1-10%,619.47,152.74
+ORD-0609,2025-05-10 00:00:00,2025,5,May,2025-05,East,Furniture,Chairs,Customer 015,1,0.15,11-20%,188.17,8.34
+ORD-0943,2025-05-10 00:00:00,2025,5,May,2025-05,East,Technology,Laptops,Customer 139,5,0,No Discount,4560.34,811.71
+ORD-0256,2025-05-11 00:00:00,2025,5,May,2025-05,East,Office Supplies,Storage,Customer 149,4,0.3,21-30%,196.25,39.39
+ORD-0144,2025-05-11 00:00:00,2025,5,May,2025-05,East,Furniture,Bookcases,Customer 016,4,0.2,11-20%,640.2,68.9
+ORD-1036,2025-05-11 00:00:00,2025,5,May,2025-05,North,Office Supplies,Binders,Customer 285,4,0.15,11-20%,161.73,31.42
+ORD-0206,2025-05-11 00:00:00,2025,5,May,2025-05,West,Furniture,Chairs,Customer 110,3,0.05,1-10%,403.52,63.35
+ORD-1343,2025-05-11 00:00:00,2025,5,May,2025-05,West,Technology,Phones,Customer 093,6,0,No Discount,3728.39,936.01
+ORD-0209,2025-05-12 00:00:00,2025,5,May,2025-05,South,Office Supplies,Paper,Customer 117,4,0.4,31-40%,45.55,3.98
+ORD-1471,2025-05-12 00:00:00,2025,5,May,2025-05,South,Technology,Phones,Customer 098,1,0.2,11-20%,626.93,98.13
+ORD-0011,2025-05-13 00:00:00,2025,5,May,2025-05,East,Technology,Laptops,Customer 231,1,0.2,11-20%,824.46,152.39
+ORD-1078,2025-05-13 00:00:00,2025,5,May,2025-05,East,Furniture,Tables,Customer 022,1,0.15,11-20%,250.07,25.83
+ORD-1150,2025-05-13 00:00:00,2025,5,May,2025-05,South,Office Supplies,Paper,Customer 255,3,0,No Discount,90.12,26.51
+ORD-0263,2025-05-14 00:00:00,2025,5,May,2025-05,North,Furniture,Chairs,Customer 209,4,0,No Discount,813.96,77.28
+ORD-1087,2025-05-16 00:00:00,2025,5,May,2025-05,East,Furniture,Tables,Customer 086,6,0.15,11-20%,1764.09,117.39
+ORD-0548,2025-05-17 00:00:00,2025,5,May,2025-05,North,Office Supplies,Paper,Customer 298,1,0.05,1-10%,28.12,8.78
+ORD-1367,2025-05-17 00:00:00,2025,5,May,2025-05,West,Technology,Phones,Customer 186,1,0.2,11-20%,600.86,132.35
+ORD-0999,2025-05-17 00:00:00,2025,5,May,2025-05,East,Technology,Laptops,Customer 114,4,0,No Discount,4079.08,1225.94
+ORD-1399,2025-05-17 00:00:00,2025,5,May,2025-05,East,Office Supplies,Storage,Customer 132,3,0.4,31-40%,121.84,8.79
+ORD-0934,2025-05-18 00:00:00,2025,5,May,2025-05,South,Technology,Phones,Customer 253,4,0.2,11-20%,2297.15,286.92
+ORD-0799,2025-05-20 00:00:00,2025,5,May,2025-05,North,Technology,Phones,Customer 137,2,0.1,1-10%,1427.69,383.19
+ORD-0152,2025-05-20 00:00:00,2025,5,May,2025-05,North,Technology,Accessories,Customer 215,3,0.3,21-30%,217.42,33.3
+ORD-1474,2025-05-20 00:00:00,2025,5,May,2025-05,East,Technology,Laptops,Customer 210,1,0.3,21-30%,637.94,60.07
+ORD-0592,2025-05-20 00:00:00,2025,5,May,2025-05,West,Furniture,Tables,Customer 210,6,0.1,1-10%,1654.53,260.21
+ORD-0080,2025-05-22 00:00:00,2025,5,May,2025-05,North,Office Supplies,Paper,Customer 205,4,0.1,1-10%,111.6,26.11
+ORD-0577,2025-05-22 00:00:00,2025,5,May,2025-05,North,Furniture,Chairs,Customer 096,3,0.05,1-10%,409.11,47.7
+ORD-1145,2025-05-22 00:00:00,2025,5,May,2025-05,West,Office Supplies,Art,Customer 154,6,0,No Discount,222.89,57.46
+ORD-1243,2025-05-23 00:00:00,2025,5,May,2025-05,North,Office Supplies,Paper,Customer 252,4,0,No Discount,103.1,23.71
+ORD-1231,2025-05-25 00:00:00,2025,5,May,2025-05,East,Furniture,Chairs,Customer 250,5,0.05,1-10%,683.33,137.25
+ORD-1464,2025-05-25 00:00:00,2025,5,May,2025-05,North,Furniture,Bookcases,Customer 027,6,0.1,1-10%,1232.98,168.52
+ORD-1431,2025-05-25 00:00:00,2025,5,May,2025-05,East,Office Supplies,Art,Customer 213,5,0.1,1-10%,195.02,39.86
+ORD-1430,2025-05-25 00:00:00,2025,5,May,2025-05,East,Office Supplies,Art,Customer 297,3,0.1,1-10%,74.54,19.75
+ORD-0391,2025-05-26 00:00:00,2025,5,May,2025-05,North,Office Supplies,Art,Customer 252,4,0.05,1-10%,141.94,30.32
+ORD-0067,2025-05-27 00:00:00,2025,5,May,2025-05,East,Technology,Laptops,Customer 012,5,0.2,11-20%,3391.56,689.15
+ORD-0725,2025-05-27 00:00:00,2025,5,May,2025-05,South,Technology,Accessories,Customer 174,7,0.2,11-20%,407.8,95.24
+ORD-0100,2025-05-27 00:00:00,2025,5,May,2025-05,East,Technology,Laptops,Customer 229,6,0,No Discount,6160.09,1761.24
+ORD-0544,2025-05-29 00:00:00,2025,5,May,2025-05,North,Office Supplies,Storage,Customer 113,1,0.15,11-20%,73.42,17.9
+ORD-1305,2025-05-30 00:00:00,2025,5,May,2025-05,North,Office Supplies,Paper,Customer 191,7,0,No Discount,191.36,46.15
+ORD-0594,2025-05-30 00:00:00,2025,5,May,2025-05,West,Technology,Phones,Customer 071,1,0.15,11-20%,607.25,89.62
+ORD-0838,2025-05-30 00:00:00,2025,5,May,2025-05,East,Office Supplies,Paper,Customer 029,2,0,No Discount,44.73,11.77
+ORD-1183,2025-05-30 00:00:00,2025,5,May,2025-05,East,Furniture,Chairs,Customer 245,5,0.2,11-20%,768.66,113.25
+ORD-0418,2025-05-31 00:00:00,2025,5,May,2025-05,North,Furniture,Tables,Customer 033,1,0.3,21-30%,235.82,4.62
+ORD-1053,2025-05-31 00:00:00,2025,5,May,2025-05,North,Furniture,Tables,Customer 136,3,0.3,21-30%,839.19,91.62
+ORD-0416,2025-06-02 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Binders,Customer 083,6,0.15,11-20%,237.73,62.78
+ORD-1408,2025-06-02 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Storage,Customer 276,2,0.05,1-10%,183.54,55.79
+ORD-1320,2025-06-02 00:00:00,2025,6,Jun,2025-06,South,Furniture,Tables,Customer 287,6,0.15,11-20%,1459.18,87.47
+ORD-0376,2025-06-02 00:00:00,2025,6,Jun,2025-06,East,Technology,Phones,Customer 135,4,0.15,11-20%,2288.07,450.82
+ORD-0241,2025-06-02 00:00:00,2025,6,Jun,2025-06,East,Furniture,Chairs,Customer 086,3,0.1,1-10%,565.59,89.2
+ORD-0189,2025-06-03 00:00:00,2025,6,Jun,2025-06,South,Office Supplies,Storage,Customer 002,4,0.3,21-30%,188.12,24.13
+ORD-0939,2025-06-03 00:00:00,2025,6,Jun,2025-06,East,Furniture,Chairs,Customer 208,2,0.05,1-10%,343.94,63.78
+ORD-0855,2025-06-04 00:00:00,2025,6,Jun,2025-06,West,Furniture,Tables,Customer 243,1,0.4,31-40%,149.37,-4.5
+ORD-0215,2025-06-04 00:00:00,2025,6,Jun,2025-06,South,Furniture,Chairs,Customer 072,7,0.15,11-20%,1023.36,158.7
+ORD-1046,2025-06-04 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Art,Customer 233,1,0.05,1-10%,25.96,6.88
+ORD-0106,2025-06-05 00:00:00,2025,6,Jun,2025-06,South,Technology,Accessories,Customer 159,5,0.3,21-30%,290.13,52.22
+ORD-0810,2025-06-06 00:00:00,2025,6,Jun,2025-06,South,Office Supplies,Art,Customer 046,7,0.3,21-30%,141.87,25.93
+ORD-0772,2025-06-06 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Binders,Customer 039,1,0.4,31-40%,21.26,1.94
+ORD-1025,2025-06-06 00:00:00,2025,6,Jun,2025-06,West,Technology,Accessories,Customer 176,1,0.1,1-10%,89.98,13.16
+ORD-0171,2025-06-07 00:00:00,2025,6,Jun,2025-06,West,Technology,Phones,Customer 145,2,0.3,21-30%,897.81,180.05
+ORD-0055,2025-06-08 00:00:00,2025,6,Jun,2025-06,East,Office Supplies,Binders,Customer 062,7,0.2,11-20%,201.99,51.78
+ORD-0372,2025-06-08 00:00:00,2025,6,Jun,2025-06,South,Technology,Accessories,Customer 138,5,0.3,21-30%,368.28,60.51
+ORD-0016,2025-06-08 00:00:00,2025,6,Jun,2025-06,West,Furniture,Chairs,Customer 045,7,0.05,1-10%,994.24,201.49
+ORD-0495,2025-06-08 00:00:00,2025,6,Jun,2025-06,East,Technology,Laptops,Customer 082,1,0.2,11-20%,878.55,89.8
+ORD-1177,2025-06-08 00:00:00,2025,6,Jun,2025-06,West,Technology,Laptops,Customer 076,3,0.2,11-20%,1718.8,295.54
+ORD-0697,2025-06-09 00:00:00,2025,6,Jun,2025-06,East,Office Supplies,Storage,Customer 238,7,0.2,11-20%,544.36,110.97
+ORD-1125,2025-06-09 00:00:00,2025,6,Jun,2025-06,South,Office Supplies,Binders,Customer 278,2,0.1,1-10%,100.19,25.84
+ORD-0533,2025-06-09 00:00:00,2025,6,Jun,2025-06,North,Office Supplies,Binders,Customer 019,6,0,No Discount,258.89,55.99
+ORD-0677,2025-06-10 00:00:00,2025,6,Jun,2025-06,West,Furniture,Chairs,Customer 130,6,0.3,21-30%,644.15,32.64
+ORD-0850,2025-06-10 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Storage,Customer 107,7,0.2,11-20%,380.96,96.47
+ORD-0948,2025-06-10 00:00:00,2025,6,Jun,2025-06,North,Technology,Accessories,Customer 147,5,0.1,1-10%,493.12,91.65
+ORD-0569,2025-06-10 00:00:00,2025,6,Jun,2025-06,North,Office Supplies,Paper,Customer 110,4,0.15,11-20%,70.8,10.69
+ORD-0837,2025-06-10 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Storage,Customer 280,4,0,No Discount,283.87,69.49
+ORD-1119,2025-06-11 00:00:00,2025,6,Jun,2025-06,North,Technology,Laptops,Customer 282,1,0.05,1-10%,744.23,127.03
+ORD-1356,2025-06-12 00:00:00,2025,6,Jun,2025-06,North,Technology,Accessories,Customer 140,1,0.15,11-20%,92.77,12.81
+ORD-1121,2025-06-12 00:00:00,2025,6,Jun,2025-06,East,Furniture,Bookcases,Customer 048,4,0.05,1-10%,671.1,112.83
+ORD-1489,2025-06-12 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Storage,Customer 264,5,0.1,1-10%,380.04,65.07
+ORD-0738,2025-06-13 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Binders,Customer 193,7,0.05,1-10%,266.18,63.67
+ORD-0063,2025-06-14 00:00:00,2025,6,Jun,2025-06,South,Office Supplies,Paper,Customer 126,7,0.1,1-10%,138.1,30.62
+ORD-0286,2025-06-15 00:00:00,2025,6,Jun,2025-06,North,Technology,Laptops,Customer 232,2,0.1,1-10%,1827.97,379.69
+ORD-0236,2025-06-15 00:00:00,2025,6,Jun,2025-06,South,Furniture,Bookcases,Customer 043,2,0.05,1-10%,491.45,35.65
+ORD-0764,2025-06-15 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Storage,Customer 039,1,0,No Discount,77.85,21.61
+ORD-0339,2025-06-16 00:00:00,2025,6,Jun,2025-06,East,Technology,Accessories,Customer 280,4,0.3,21-30%,257.65,22.71
+ORD-0294,2025-06-16 00:00:00,2025,6,Jun,2025-06,East,Office Supplies,Binders,Customer 223,6,0.15,11-20%,191.17,51.8
+ORD-0624,2025-06-16 00:00:00,2025,6,Jun,2025-06,East,Office Supplies,Binders,Customer 148,2,0.15,11-20%,62.37,13.05
+ORD-0083,2025-06-17 00:00:00,2025,6,Jun,2025-06,North,Technology,Accessories,Customer 046,5,0.15,11-20%,389.08,65.11
+ORD-0930,2025-06-17 00:00:00,2025,6,Jun,2025-06,North,Technology,Laptops,Customer 168,2,0.3,21-30%,1448.05,148.28
+ORD-0441,2025-06-18 00:00:00,2025,6,Jun,2025-06,West,Technology,Laptops,Customer 153,1,0.1,1-10%,750.78,188.45
+ORD-1213,2025-06-18 00:00:00,2025,6,Jun,2025-06,East,Technology,Phones,Customer 067,6,0.1,1-10%,2727.15,565.38
+ORD-1300,2025-06-19 00:00:00,2025,6,Jun,2025-06,West,Furniture,Chairs,Customer 053,4,0,No Discount,828.96,168.5
+ORD-1224,2025-06-19 00:00:00,2025,6,Jun,2025-06,East,Furniture,Bookcases,Customer 294,6,0.1,1-10%,1466,224.9
+ORD-0832,2025-06-20 00:00:00,2025,6,Jun,2025-06,West,Furniture,Tables,Customer 225,2,0.2,11-20%,437.81,28.58
+ORD-0089,2025-06-20 00:00:00,2025,6,Jun,2025-06,South,Technology,Accessories,Customer 233,1,0.1,1-10%,79.95,14.77
+ORD-0295,2025-06-20 00:00:00,2025,6,Jun,2025-06,East,Office Supplies,Art,Customer 133,3,0.15,11-20%,99.04,26.95
+ORD-0235,2025-06-20 00:00:00,2025,6,Jun,2025-06,South,Furniture,Chairs,Customer 096,7,0.4,31-40%,774.72,66.02
+ORD-0687,2025-06-20 00:00:00,2025,6,Jun,2025-06,North,Office Supplies,Binders,Customer 134,2,0,No Discount,84.94,23.92
+ORD-0517,2025-06-20 00:00:00,2025,6,Jun,2025-06,South,Furniture,Bookcases,Customer 073,7,0.15,11-20%,1143.19,118.25
+ORD-0814,2025-06-21 00:00:00,2025,6,Jun,2025-06,East,Technology,Laptops,Customer 177,4,0.1,1-10%,3143.09,454.82
+ORD-1409,2025-06-22 00:00:00,2025,6,Jun,2025-06,South,Office Supplies,Art,Customer 053,1,0.3,21-30%,24.26,2.91
+ORD-1446,2025-06-23 00:00:00,2025,6,Jun,2025-06,South,Technology,Phones,Customer 038,2,0,No Discount,1392.79,341.35
+ORD-0367,2025-06-23 00:00:00,2025,6,Jun,2025-06,West,Technology,Accessories,Customer 227,1,0.1,1-10%,65.24,14.6
+ORD-0789,2025-06-23 00:00:00,2025,6,Jun,2025-06,West,Technology,Laptops,Customer 207,4,0.3,21-30%,2074.73,322.48
+ORD-1385,2025-06-23 00:00:00,2025,6,Jun,2025-06,South,Office Supplies,Art,Customer 114,4,0.2,11-20%,117.58,18.21
+ORD-0155,2025-06-24 00:00:00,2025,6,Jun,2025-06,East,Furniture,Bookcases,Customer 040,1,0,No Discount,258.74,24.57
+ORD-0079,2025-06-25 00:00:00,2025,6,Jun,2025-06,West,Furniture,Bookcases,Customer 138,7,0.15,11-20%,1438.36,214.32
+ORD-1063,2025-06-25 00:00:00,2025,6,Jun,2025-06,North,Office Supplies,Binders,Customer 266,1,0.2,11-20%,27.57,6.39
+ORD-1285,2025-06-25 00:00:00,2025,6,Jun,2025-06,East,Technology,Phones,Customer 215,3,0.2,11-20%,1448.41,345.49
+ORD-1066,2025-06-25 00:00:00,2025,6,Jun,2025-06,North,Furniture,Bookcases,Customer 296,7,0.05,1-10%,1221.16,194.67
+ORD-1112,2025-06-26 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Storage,Customer 131,6,0.1,1-10%,517.12,121.37
+ORD-0706,2025-06-27 00:00:00,2025,6,Jun,2025-06,West,Technology,Phones,Customer 180,2,0.15,11-20%,894.61,109.68
+ORD-0935,2025-06-28 00:00:00,2025,6,Jun,2025-06,West,Technology,Accessories,Customer 125,2,0,No Discount,186.32,54.15
+ORD-1210,2025-06-28 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Storage,Customer 287,4,0.2,11-20%,305.07,60.83
+ORD-0642,2025-06-29 00:00:00,2025,6,Jun,2025-06,South,Office Supplies,Storage,Customer 285,4,0,No Discount,350.45,116.46
+ORD-1197,2025-06-29 00:00:00,2025,6,Jun,2025-06,West,Office Supplies,Art,Customer 246,5,0.1,1-10%,138.57,31.22
+ORD-1410,2025-06-30 00:00:00,2025,6,Jun,2025-06,West,Technology,Phones,Customer 140,1,0,No Discount,635.49,180.14
+ORD-1291,2025-07-01 00:00:00,2025,7,Jul,2025-07,North,Office Supplies,Art,Customer 101,1,0.15,11-20%,34.9,7.62
+ORD-0672,2025-07-01 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Binders,Customer 130,5,0.3,21-30%,127.25,24.66
+ORD-0743,2025-07-01 00:00:00,2025,7,Jul,2025-07,East,Furniture,Chairs,Customer 196,5,0,No Discount,733.15,71.91
+ORD-0054,2025-07-01 00:00:00,2025,7,Jul,2025-07,West,Furniture,Bookcases,Customer 224,2,0.05,1-10%,434.83,84.31
+ORD-0525,2025-07-02 00:00:00,2025,7,Jul,2025-07,East,Technology,Phones,Customer 240,3,0.4,31-40%,1003.1,39.53
+ORD-1284,2025-07-02 00:00:00,2025,7,Jul,2025-07,South,Furniture,Chairs,Customer 279,5,0.15,11-20%,892.22,83.65
+ORD-0782,2025-07-02 00:00:00,2025,7,Jul,2025-07,South,Office Supplies,Binders,Customer 102,6,0.4,31-40%,153.62,11.9
+ORD-1056,2025-07-03 00:00:00,2025,7,Jul,2025-07,West,Technology,Phones,Customer 145,6,0.05,1-10%,3609.43,712.41
+ORD-1072,2025-07-03 00:00:00,2025,7,Jul,2025-07,West,Furniture,Tables,Customer 264,7,0.1,1-10%,2453.15,321.2
+ORD-0557,2025-07-03 00:00:00,2025,7,Jul,2025-07,West,Furniture,Bookcases,Customer 288,6,0.3,21-30%,1058.22,5.03
+ORD-1469,2025-07-03 00:00:00,2025,7,Jul,2025-07,North,Furniture,Chairs,Customer 179,3,0.2,11-20%,354.14,45.59
+ORD-0597,2025-07-04 00:00:00,2025,7,Jul,2025-07,North,Furniture,Chairs,Customer 158,6,0.2,11-20%,901.42,122.58
+ORD-0406,2025-07-04 00:00:00,2025,7,Jul,2025-07,East,Technology,Laptops,Customer 059,6,0.1,1-10%,5080.25,1155.97
+ORD-0076,2025-07-04 00:00:00,2025,7,Jul,2025-07,West,Technology,Laptops,Customer 268,2,0.15,11-20%,1511.8,353.6
+ORD-0326,2025-07-04 00:00:00,2025,7,Jul,2025-07,North,Technology,Phones,Customer 093,4,0,No Discount,2779.24,760.78
+ORD-1432,2025-07-05 00:00:00,2025,7,Jul,2025-07,West,Technology,Phones,Customer 033,3,0.1,1-10%,1802.99,263.68
+ORD-1174,2025-07-05 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Binders,Customer 231,1,0.15,11-20%,40.9,11.49
+ORD-1120,2025-07-06 00:00:00,2025,7,Jul,2025-07,East,Technology,Laptops,Customer 042,6,0.15,11-20%,5118.81,983.34
+ORD-1477,2025-07-06 00:00:00,2025,7,Jul,2025-07,West,Technology,Accessories,Customer 167,4,0.3,21-30%,314.07,50.29
+ORD-0190,2025-07-06 00:00:00,2025,7,Jul,2025-07,South,Technology,Phones,Customer 231,6,0,No Discount,3714.79,939.87
+ORD-1060,2025-07-06 00:00:00,2025,7,Jul,2025-07,West,Office Supplies,Binders,Customer 209,2,0.1,1-10%,69.37,18.79
+ORD-0606,2025-07-07 00:00:00,2025,7,Jul,2025-07,North,Technology,Laptops,Customer 271,5,0.15,11-20%,3302.45,696.2
+ORD-0318,2025-07-08 00:00:00,2025,7,Jul,2025-07,West,Technology,Accessories,Customer 192,4,0,No Discount,330.99,93.46
+ORD-1020,2025-07-08 00:00:00,2025,7,Jul,2025-07,North,Furniture,Tables,Customer 228,3,0.15,11-20%,875.47,34.49
+ORD-0552,2025-07-08 00:00:00,2025,7,Jul,2025-07,South,Technology,Phones,Customer 008,1,0.05,1-10%,561.17,105.96
+ORD-1363,2025-07-08 00:00:00,2025,7,Jul,2025-07,South,Office Supplies,Art,Customer 027,1,0,No Discount,40.74,9.59
+ORD-1233,2025-07-09 00:00:00,2025,7,Jul,2025-07,West,Office Supplies,Storage,Customer 260,2,0,No Discount,124.87,32.47
+ORD-0519,2025-07-09 00:00:00,2025,7,Jul,2025-07,North,Technology,Phones,Customer 140,2,0.2,11-20%,1225.19,183.71
+ORD-0682,2025-07-10 00:00:00,2025,7,Jul,2025-07,North,Office Supplies,Art,Customer 132,2,0.05,1-10%,79.48,15.78
+ORD-0173,2025-07-11 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Paper,Customer 236,7,0.15,11-20%,120.29,19.85
+ORD-1404,2025-07-11 00:00:00,2025,7,Jul,2025-07,South,Furniture,Bookcases,Customer 121,1,0.15,11-20%,166.88,6.82
+ORD-1472,2025-07-12 00:00:00,2025,7,Jul,2025-07,South,Furniture,Bookcases,Customer 101,6,0.3,21-30%,940.89,84.93
+ORD-0096,2025-07-12 00:00:00,2025,7,Jul,2025-07,West,Furniture,Chairs,Customer 139,1,0.15,11-20%,136.83,16.27
+ORD-0683,2025-07-12 00:00:00,2025,7,Jul,2025-07,West,Office Supplies,Art,Customer 247,3,0,No Discount,95.24,25.7
+ORD-0387,2025-07-13 00:00:00,2025,7,Jul,2025-07,West,Technology,Laptops,Customer 089,3,0.4,31-40%,1676.33,111.2
+ORD-0694,2025-07-13 00:00:00,2025,7,Jul,2025-07,West,Furniture,Bookcases,Customer 135,3,0.1,1-10%,703.79,47.39
+ORD-1236,2025-07-13 00:00:00,2025,7,Jul,2025-07,East,Technology,Accessories,Customer 282,3,0.3,21-30%,206.71,16.67
+ORD-0408,2025-07-13 00:00:00,2025,7,Jul,2025-07,West,Furniture,Chairs,Customer 241,4,0.15,11-20%,498.76,57.81
+ORD-0833,2025-07-13 00:00:00,2025,7,Jul,2025-07,North,Furniture,Chairs,Customer 278,1,0,No Discount,192.88,37.95
+ORD-1098,2025-07-14 00:00:00,2025,7,Jul,2025-07,North,Furniture,Bookcases,Customer 244,1,0.2,11-20%,142.67,5.13
+ORD-1417,2025-07-14 00:00:00,2025,7,Jul,2025-07,West,Technology,Phones,Customer 062,6,0.2,11-20%,3739.7,840.37
+ORD-0874,2025-07-14 00:00:00,2025,7,Jul,2025-07,East,Furniture,Bookcases,Customer 296,6,0.1,1-10%,1154.22,124.27
+ORD-0726,2025-07-14 00:00:00,2025,7,Jul,2025-07,South,Office Supplies,Storage,Customer 199,6,0.2,11-20%,368.51,84.08
+ORD-1191,2025-07-14 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Art,Customer 015,1,0.1,1-10%,37.38,10.16
+ORD-0587,2025-07-16 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Art,Customer 269,5,0.15,11-20%,166.03,45.97
+ORD-0704,2025-07-16 00:00:00,2025,7,Jul,2025-07,West,Office Supplies,Paper,Customer 057,2,0.2,11-20%,36.75,5.7
+ORD-0015,2025-07-17 00:00:00,2025,7,Jul,2025-07,North,Technology,Laptops,Customer 237,5,0.15,11-20%,4604.47,701.73
+ORD-1042,2025-07-19 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Art,Customer 173,2,0.15,11-20%,50.16,8.97
+ORD-1144,2025-07-19 00:00:00,2025,7,Jul,2025-07,South,Technology,Phones,Customer 291,7,0.2,11-20%,3123.37,570.71
+ORD-0349,2025-07-19 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Storage,Customer 194,2,0,No Discount,143.95,36.02
+ORD-1217,2025-07-19 00:00:00,2025,7,Jul,2025-07,East,Technology,Laptops,Customer 261,6,0.1,1-10%,5947.99,908.21
+ORD-0403,2025-07-19 00:00:00,2025,7,Jul,2025-07,West,Technology,Phones,Customer 085,6,0,No Discount,4822.5,972.49
+ORD-0442,2025-07-20 00:00:00,2025,7,Jul,2025-07,West,Office Supplies,Paper,Customer 295,5,0.1,1-10%,104.31,24.6
+ORD-0845,2025-07-20 00:00:00,2025,7,Jul,2025-07,North,Furniture,Bookcases,Customer 237,1,0.4,31-40%,159.53,5.05
+ORD-0666,2025-07-21 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Paper,Customer 198,7,0,No Discount,137.42,44.98
+ORD-1392,2025-07-21 00:00:00,2025,7,Jul,2025-07,South,Office Supplies,Art,Customer 136,6,0.1,1-10%,233.04,58.16
+ORD-0511,2025-07-21 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Art,Customer 200,6,0.1,1-10%,171.81,46.37
+ORD-1486,2025-07-21 00:00:00,2025,7,Jul,2025-07,South,Technology,Phones,Customer 288,6,0.1,1-10%,4300.07,928.76
+ORD-0490,2025-07-21 00:00:00,2025,7,Jul,2025-07,South,Office Supplies,Binders,Customer 013,4,0.3,21-30%,117.53,16.99
+ORD-1457,2025-07-22 00:00:00,2025,7,Jul,2025-07,West,Technology,Phones,Customer 233,1,0.1,1-10%,671.67,131.27
+ORD-1377,2025-07-22 00:00:00,2025,7,Jul,2025-07,South,Office Supplies,Art,Customer 279,6,0.15,11-20%,185.62,37
+ORD-0488,2025-07-23 00:00:00,2025,7,Jul,2025-07,West,Office Supplies,Storage,Customer 052,2,0.1,1-10%,111.98,33.25
+ORD-0167,2025-07-23 00:00:00,2025,7,Jul,2025-07,East,Furniture,Bookcases,Customer 099,7,0.1,1-10%,1229.12,239.18
+ORD-0140,2025-07-24 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Art,Customer 016,2,0,No Discount,75.95,15.66
+ORD-0153,2025-07-26 00:00:00,2025,7,Jul,2025-07,West,Office Supplies,Storage,Customer 216,3,0.1,1-10%,243.89,64.01
+ORD-1257,2025-07-27 00:00:00,2025,7,Jul,2025-07,East,Furniture,Tables,Customer 192,6,0.05,1-10%,2209.32,423.91
+ORD-0242,2025-07-27 00:00:00,2025,7,Jul,2025-07,South,Office Supplies,Storage,Customer 065,3,0.1,1-10%,247.36,60.97
+ORD-0933,2025-07-27 00:00:00,2025,7,Jul,2025-07,South,Technology,Accessories,Customer 188,5,0.15,11-20%,450.92,82.91
+ORD-0459,2025-07-27 00:00:00,2025,7,Jul,2025-07,East,Furniture,Bookcases,Customer 107,4,0.1,1-10%,880.2,129.34
+ORD-1368,2025-07-28 00:00:00,2025,7,Jul,2025-07,North,Furniture,Tables,Customer 183,4,0.2,11-20%,1185.39,37.77
+ORD-1240,2025-07-28 00:00:00,2025,7,Jul,2025-07,South,Technology,Accessories,Customer 189,6,0.15,11-20%,491.95,63.86
+ORD-0469,2025-07-28 00:00:00,2025,7,Jul,2025-07,North,Technology,Phones,Customer 005,6,0,No Discount,4639.41,946.79
+ORD-0333,2025-07-29 00:00:00,2025,7,Jul,2025-07,South,Furniture,Chairs,Customer 031,5,0.15,11-20%,895.71,106.35
+ORD-0707,2025-07-29 00:00:00,2025,7,Jul,2025-07,North,Furniture,Bookcases,Customer 229,7,0.1,1-10%,1624.39,149.02
+ORD-0771,2025-07-29 00:00:00,2025,7,Jul,2025-07,East,Office Supplies,Storage,Customer 003,5,0.3,21-30%,233.88,36.52
+ORD-0568,2025-07-31 00:00:00,2025,7,Jul,2025-07,West,Office Supplies,Storage,Customer 159,1,0.2,11-20%,71.18,14.16
+ORD-1278,2025-08-01 00:00:00,2025,8,Aug,2025-08,South,Furniture,Tables,Customer 010,6,0.3,21-30%,1260.25,23.72
+ORD-1325,2025-08-01 00:00:00,2025,8,Aug,2025-08,West,Office Supplies,Storage,Customer 172,5,0.05,1-10%,350.73,81.09
+ORD-0397,2025-08-02 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Binders,Customer 076,5,0.2,11-20%,185.7,35.26
+ORD-0804,2025-08-03 00:00:00,2025,8,Aug,2025-08,South,Furniture,Chairs,Customer 067,7,0.1,1-10%,885.52,139.74
+ORD-1459,2025-08-03 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Binders,Customer 296,1,0.15,11-20%,42.84,10.55
+ORD-0099,2025-08-03 00:00:00,2025,8,Aug,2025-08,East,Furniture,Tables,Customer 137,6,0.2,11-20%,1465.74,220.76
+ORD-0775,2025-08-03 00:00:00,2025,8,Aug,2025-08,West,Technology,Phones,Customer 010,1,0.1,1-10%,575.94,152.62
+ORD-1275,2025-08-03 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Storage,Customer 228,1,0.4,31-40%,55.54,10.36
+ORD-1264,2025-08-03 00:00:00,2025,8,Aug,2025-08,South,Technology,Phones,Customer 103,1,0.2,11-20%,635.26,110.46
+ORD-0893,2025-08-04 00:00:00,2025,8,Aug,2025-08,West,Furniture,Chairs,Customer 221,3,0.2,11-20%,405.79,62.34
+ORD-0638,2025-08-04 00:00:00,2025,8,Aug,2025-08,East,Furniture,Tables,Customer 192,3,0.1,1-10%,832.67,121.01
+ORD-1488,2025-08-05 00:00:00,2025,8,Aug,2025-08,West,Furniture,Chairs,Customer 269,1,0,No Discount,189.35,20.89
+ORD-1161,2025-08-05 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Binders,Customer 185,6,0,No Discount,266.77,79.1
+ORD-0213,2025-08-05 00:00:00,2025,8,Aug,2025-08,East,Technology,Phones,Customer 036,7,0,No Discount,4703.14,968.46
+ORD-0261,2025-08-06 00:00:00,2025,8,Aug,2025-08,West,Technology,Accessories,Customer 224,1,0.2,11-20%,85.73,11.91
+ORD-0766,2025-08-06 00:00:00,2025,8,Aug,2025-08,North,Furniture,Chairs,Customer 133,5,0.2,11-20%,635.6,84.5
+ORD-1157,2025-08-06 00:00:00,2025,8,Aug,2025-08,West,Office Supplies,Storage,Customer 173,3,0.1,1-10%,227.66,55.92
+ORD-1274,2025-08-07 00:00:00,2025,8,Aug,2025-08,North,Technology,Laptops,Customer 137,7,0,No Discount,5295.76,1398.46
+ORD-1126,2025-08-07 00:00:00,2025,8,Aug,2025-08,East,Furniture,Tables,Customer 085,4,0.3,21-30%,938.54,90.24
+ORD-0984,2025-08-07 00:00:00,2025,8,Aug,2025-08,East,Technology,Phones,Customer 138,4,0.2,11-20%,2030.41,215.31
+ORD-1451,2025-08-08 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Paper,Customer 137,2,0.05,1-10%,39.07,10.31
+ORD-0668,2025-08-08 00:00:00,2025,8,Aug,2025-08,West,Technology,Phones,Customer 181,3,0,No Discount,2245.41,690.04
+ORD-1212,2025-08-08 00:00:00,2025,8,Aug,2025-08,West,Furniture,Bookcases,Customer 043,4,0.1,1-10%,982.9,107.88
+ORD-1159,2025-08-08 00:00:00,2025,8,Aug,2025-08,West,Furniture,Bookcases,Customer 181,1,0.05,1-10%,189.9,21.26
+ORD-1391,2025-08-09 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Art,Customer 267,6,0.2,11-20%,203.94,36.01
+ORD-0201,2025-08-10 00:00:00,2025,8,Aug,2025-08,West,Office Supplies,Storage,Customer 147,3,0.3,21-30%,183.92,34.89
+ORD-0297,2025-08-10 00:00:00,2025,8,Aug,2025-08,East,Technology,Accessories,Customer 218,4,0.15,11-20%,266.88,35.58
+ORD-1323,2025-08-11 00:00:00,2025,8,Aug,2025-08,West,Technology,Accessories,Customer 290,4,0.4,31-40%,180.62,14.46
+ORD-0178,2025-08-11 00:00:00,2025,8,Aug,2025-08,North,Furniture,Chairs,Customer 090,4,0.1,1-10%,590.36,113.26
+ORD-0905,2025-08-11 00:00:00,2025,8,Aug,2025-08,East,Office Supplies,Art,Customer 102,5,0.4,31-40%,80.05,14.16
+ORD-0212,2025-08-11 00:00:00,2025,8,Aug,2025-08,South,Furniture,Tables,Customer 108,4,0.3,21-30%,906.07,2.04
+ORD-0119,2025-08-12 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Storage,Customer 114,3,0.1,1-10%,218.63,49.57
+ORD-0720,2025-08-12 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Art,Customer 056,3,0.3,21-30%,65.25,9.23
+ORD-0690,2025-08-12 00:00:00,2025,8,Aug,2025-08,West,Technology,Accessories,Customer 066,6,0.1,1-10%,394.5,64.63
+ORD-1249,2025-08-13 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Binders,Customer 017,4,0.2,11-20%,139.4,30.42
+ORD-0551,2025-08-13 00:00:00,2025,8,Aug,2025-08,East,Technology,Laptops,Customer 063,7,0.2,11-20%,4112.55,706.72
+ORD-1328,2025-08-13 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Binders,Customer 091,4,0,No Discount,197.16,54.17
+ORD-0420,2025-08-13 00:00:00,2025,8,Aug,2025-08,East,Office Supplies,Paper,Customer 248,7,0.05,1-10%,159.46,45.87
+ORD-0792,2025-08-13 00:00:00,2025,8,Aug,2025-08,West,Office Supplies,Binders,Customer 117,2,0.3,21-30%,52.57,12.12
+ORD-1374,2025-08-14 00:00:00,2025,8,Aug,2025-08,East,Office Supplies,Art,Customer 087,5,0.3,21-30%,141.11,17.04
+ORD-1424,2025-08-15 00:00:00,2025,8,Aug,2025-08,East,Technology,Laptops,Customer 139,4,0.1,1-10%,3263.46,766.53
+ORD-0184,2025-08-16 00:00:00,2025,8,Aug,2025-08,West,Furniture,Bookcases,Customer 059,6,0.2,11-20%,912.62,145.55
+ORD-1344,2025-08-17 00:00:00,2025,8,Aug,2025-08,North,Furniture,Tables,Customer 130,5,0.15,11-20%,1308.49,126.92
+ORD-0276,2025-08-18 00:00:00,2025,8,Aug,2025-08,East,Technology,Phones,Customer 220,1,0.4,31-40%,305.95,11.62
+ORD-1208,2025-08-20 00:00:00,2025,8,Aug,2025-08,South,Furniture,Chairs,Customer 091,6,0.05,1-10%,904.23,129.41
+ORD-0283,2025-08-20 00:00:00,2025,8,Aug,2025-08,East,Office Supplies,Binders,Customer 065,1,0.15,11-20%,30.25,6.4
+ORD-0599,2025-08-21 00:00:00,2025,8,Aug,2025-08,South,Technology,Accessories,Customer 086,2,0,No Discount,199.99,35.13
+ORD-0673,2025-08-21 00:00:00,2025,8,Aug,2025-08,West,Office Supplies,Binders,Customer 079,6,0.1,1-10%,276.44,58.87
+ORD-1235,2025-08-21 00:00:00,2025,8,Aug,2025-08,North,Furniture,Tables,Customer 251,5,0.4,31-40%,895.24,69.62
+ORD-0205,2025-08-23 00:00:00,2025,8,Aug,2025-08,East,Technology,Accessories,Customer 093,5,0.1,1-10%,377.96,71.99
+ORD-0644,2025-08-24 00:00:00,2025,8,Aug,2025-08,East,Office Supplies,Paper,Customer 179,5,0.2,11-20%,86.78,22.75
+ORD-0796,2025-08-24 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Storage,Customer 049,5,0.1,1-10%,361.89,66.84
+ORD-0272,2025-08-24 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Storage,Customer 107,5,0.05,1-10%,353.82,81.14
+ORD-0322,2025-08-24 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Binders,Customer 174,7,0.4,31-40%,209.92,37.95
+ORD-0887,2025-08-25 00:00:00,2025,8,Aug,2025-08,West,Technology,Phones,Customer 155,1,0.2,11-20%,647.57,89.95
+ORD-0435,2025-08-25 00:00:00,2025,8,Aug,2025-08,North,Furniture,Tables,Customer 107,6,0.05,1-10%,2070.92,274.08
+ORD-0392,2025-08-25 00:00:00,2025,8,Aug,2025-08,West,Technology,Laptops,Customer 141,6,0.1,1-10%,3715.88,751.81
+ORD-0773,2025-08-25 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Paper,Customer 099,4,0.3,21-30%,75.12,13.94
+ORD-0287,2025-08-26 00:00:00,2025,8,Aug,2025-08,West,Office Supplies,Paper,Customer 026,6,0.05,1-10%,139.03,44.54
+ORD-0111,2025-08-26 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Paper,Customer 296,7,0.15,11-20%,143.11,35.86
+ORD-0781,2025-08-27 00:00:00,2025,8,Aug,2025-08,North,Furniture,Tables,Customer 080,1,0,No Discount,361.06,61.94
+ORD-0394,2025-08-28 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Art,Customer 017,3,0,No Discount,102.08,24.35
+ORD-0366,2025-08-28 00:00:00,2025,8,Aug,2025-08,North,Office Supplies,Storage,Customer 298,1,0,No Discount,91.27,26.49
+ORD-0967,2025-08-28 00:00:00,2025,8,Aug,2025-08,South,Furniture,Bookcases,Customer 234,1,0.3,21-30%,147.4,0.11
+ORD-0559,2025-08-29 00:00:00,2025,8,Aug,2025-08,South,Technology,Phones,Customer 163,7,0,No Discount,3797.12,832.53
+ORD-1027,2025-08-29 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Binders,Customer 059,4,0.15,11-20%,145.7,28.91
+ORD-0562,2025-08-29 00:00:00,2025,8,Aug,2025-08,South,Furniture,Bookcases,Customer 181,1,0.3,21-30%,191.88,5.02
+ORD-1500,2025-08-30 00:00:00,2025,8,Aug,2025-08,East,Technology,Laptops,Customer 106,3,0,No Discount,3000.04,813.26
+ORD-0674,2025-08-31 00:00:00,2025,8,Aug,2025-08,South,Office Supplies,Binders,Customer 287,1,0.15,11-20%,42.95,11.3
+ORD-0872,2025-09-01 00:00:00,2025,9,Sep,2025-09,South,Technology,Phones,Customer 084,1,0,No Discount,614.07,186.21
+ORD-0664,2025-09-02 00:00:00,2025,9,Sep,2025-09,East,Furniture,Chairs,Customer 042,6,0.1,1-10%,1154.69,209.86
+ORD-0528,2025-09-04 00:00:00,2025,9,Sep,2025-09,West,Furniture,Tables,Customer 209,7,0.15,11-20%,1559.27,208.83
+ORD-0050,2025-09-04 00:00:00,2025,9,Sep,2025-09,East,Furniture,Bookcases,Customer 044,4,0.1,1-10%,974.63,177.14
+ORD-0112,2025-09-04 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Storage,Customer 001,5,0,No Discount,337.26,107
+ORD-1304,2025-09-04 00:00:00,2025,9,Sep,2025-09,North,Furniture,Chairs,Customer 249,7,0.05,1-10%,1332.85,167.17
+ORD-0305,2025-09-05 00:00:00,2025,9,Sep,2025-09,South,Furniture,Tables,Customer 275,7,0,No Discount,2472.61,559.28
+ORD-0373,2025-09-05 00:00:00,2025,9,Sep,2025-09,East,Technology,Laptops,Customer 228,1,0.3,21-30%,556.5,92.65
+ORD-0204,2025-09-05 00:00:00,2025,9,Sep,2025-09,West,Furniture,Tables,Customer 129,3,0.2,11-20%,868.72,114.4
+ORD-0636,2025-09-06 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Art,Customer 197,7,0,No Discount,231.03,58.3
+ORD-0464,2025-09-07 00:00:00,2025,9,Sep,2025-09,West,Office Supplies,Art,Customer 222,3,0.05,1-10%,104.73,31.74
+ORD-1024,2025-09-07 00:00:00,2025,9,Sep,2025-09,South,Technology,Phones,Customer 203,6,0.4,31-40%,2411.55,304.44
+ORD-0923,2025-09-08 00:00:00,2025,9,Sep,2025-09,West,Technology,Accessories,Customer 094,2,0.05,1-10%,163.99,30.77
+ORD-0187,2025-09-08 00:00:00,2025,9,Sep,2025-09,West,Furniture,Bookcases,Customer 262,4,0,No Discount,834.03,145.84
+ORD-1152,2025-09-09 00:00:00,2025,9,Sep,2025-09,North,Office Supplies,Paper,Customer 257,1,0.15,11-20%,18.49,3.05
+ORD-0661,2025-09-09 00:00:00,2025,9,Sep,2025-09,South,Office Supplies,Art,Customer 052,7,0.2,11-20%,171.36,35.19
+ORD-1219,2025-09-09 00:00:00,2025,9,Sep,2025-09,North,Furniture,Bookcases,Customer 016,3,0.05,1-10%,505.86,60.86
+ORD-1487,2025-09-09 00:00:00,2025,9,Sep,2025-09,North,Office Supplies,Paper,Customer 040,5,0.4,31-40%,66.29,11.88
+ORD-1244,2025-09-10 00:00:00,2025,9,Sep,2025-09,North,Technology,Laptops,Customer 137,2,0.4,31-40%,1228.59,175.08
+ORD-1147,2025-09-11 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Art,Customer 233,3,0,No Discount,113.25,28.44
+ORD-1190,2025-09-11 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Paper,Customer 131,5,0.05,1-10%,101.88,20.85
+ORD-1201,2025-09-11 00:00:00,2025,9,Sep,2025-09,South,Technology,Laptops,Customer 144,4,0.15,11-20%,2863.34,516.4
+ORD-0143,2025-09-11 00:00:00,2025,9,Sep,2025-09,West,Technology,Laptops,Customer 183,4,0.15,11-20%,3649.05,699.66
+ORD-0321,2025-09-11 00:00:00,2025,9,Sep,2025-09,West,Technology,Phones,Customer 268,3,0.1,1-10%,2112.68,496.4
+ORD-0299,2025-09-11 00:00:00,2025,9,Sep,2025-09,North,Office Supplies,Paper,Customer 272,3,0.3,21-30%,46.04,4.57
+ORD-1394,2025-09-12 00:00:00,2025,9,Sep,2025-09,North,Technology,Phones,Customer 212,1,0.4,31-40%,333.08,24.5
+ORD-0633,2025-09-14 00:00:00,2025,9,Sep,2025-09,South,Furniture,Bookcases,Customer 189,2,0.2,11-20%,267.33,32.89
+ORD-1074,2025-09-15 00:00:00,2025,9,Sep,2025-09,West,Technology,Accessories,Customer 288,4,0,No Discount,402.47,85.39
+ORD-0972,2025-09-16 00:00:00,2025,9,Sep,2025-09,East,Technology,Phones,Customer 111,5,0.2,11-20%,2405.84,367.5
+ORD-1463,2025-09-16 00:00:00,2025,9,Sep,2025-09,West,Office Supplies,Art,Customer 023,4,0.1,1-10%,114.7,29.51
+ORD-0802,2025-09-17 00:00:00,2025,9,Sep,2025-09,East,Technology,Accessories,Customer 255,6,0,No Discount,417.47,104.85
+ORD-1092,2025-09-17 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Binders,Customer 110,3,0.2,11-20%,98.75,21.28
+ORD-0883,2025-09-17 00:00:00,2025,9,Sep,2025-09,North,Furniture,Bookcases,Customer 033,4,0.2,11-20%,750.51,67.91
+ORD-0811,2025-09-17 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Binders,Customer 115,3,0.2,11-20%,98.28,19.74
+ORD-0036,2025-09-17 00:00:00,2025,9,Sep,2025-09,West,Office Supplies,Paper,Customer 273,7,0.4,31-40%,86.1,11.41
+ORD-0270,2025-09-19 00:00:00,2025,9,Sep,2025-09,South,Office Supplies,Binders,Customer 118,1,0.15,11-20%,42.76,12.28
+ORD-0922,2025-09-19 00:00:00,2025,9,Sep,2025-09,North,Technology,Laptops,Customer 071,4,0.3,21-30%,2754,510.2
+ORD-0399,2025-09-19 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Art,Customer 103,5,0.15,11-20%,125.41,24.32
+ORD-0901,2025-09-19 00:00:00,2025,9,Sep,2025-09,North,Furniture,Chairs,Customer 094,7,0,No Discount,1084.72,216.15
+ORD-1358,2025-09-20 00:00:00,2025,9,Sep,2025-09,South,Office Supplies,Storage,Customer 103,3,0.2,11-20%,195.21,39.43
+ORD-0949,2025-09-20 00:00:00,2025,9,Sep,2025-09,East,Furniture,Bookcases,Customer 154,3,0.4,31-40%,478.12,-12.73
+ORD-0553,2025-09-21 00:00:00,2025,9,Sep,2025-09,West,Office Supplies,Art,Customer 270,5,0.15,11-20%,132.93,24.81
+ORD-0979,2025-09-21 00:00:00,2025,9,Sep,2025-09,North,Office Supplies,Storage,Customer 257,6,0,No Discount,552.64,129.64
+ORD-1215,2025-09-23 00:00:00,2025,9,Sep,2025-09,South,Office Supplies,Art,Customer 021,7,0.05,1-10%,231.8,42.94
+ORD-0059,2025-09-25 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Paper,Customer 239,5,0.2,11-20%,102.3,23.41
+ORD-0329,2025-09-25 00:00:00,2025,9,Sep,2025-09,North,Technology,Phones,Customer 156,6,0.1,1-10%,4033.66,1008.98
+ORD-0447,2025-09-25 00:00:00,2025,9,Sep,2025-09,East,Furniture,Tables,Customer 234,2,0.15,11-20%,566.34,30.63
+ORD-1449,2025-09-25 00:00:00,2025,9,Sep,2025-09,North,Furniture,Bookcases,Customer 283,6,0.15,11-20%,1034.29,61.09
+ORD-0891,2025-09-25 00:00:00,2025,9,Sep,2025-09,South,Office Supplies,Art,Customer 182,4,0.1,1-10%,98.17,19.8
+ORD-0895,2025-09-26 00:00:00,2025,9,Sep,2025-09,North,Office Supplies,Art,Customer 023,6,0.15,11-20%,138.3,22.23
+ORD-0913,2025-09-27 00:00:00,2025,9,Sep,2025-09,South,Office Supplies,Storage,Customer 289,2,0.2,11-20%,122.26,23.95
+ORD-0965,2025-09-28 00:00:00,2025,9,Sep,2025-09,East,Office Supplies,Art,Customer 177,4,0.3,21-30%,104.92,16.04
+ORD-0309,2025-09-28 00:00:00,2025,9,Sep,2025-09,North,Technology,Accessories,Customer 016,6,0.1,1-10%,604.83,134.68
+ORD-0786,2025-09-28 00:00:00,2025,9,Sep,2025-09,South,Technology,Laptops,Customer 087,2,0.15,11-20%,1745.32,376.92
+ORD-1051,2025-09-28 00:00:00,2025,9,Sep,2025-09,West,Furniture,Bookcases,Customer 149,3,0.3,21-30%,509.47,40.27
+ORD-0558,2025-09-29 00:00:00,2025,9,Sep,2025-09,North,Office Supplies,Paper,Customer 290,3,0.1,1-10%,73.28,14.87
+ORD-0489,2025-09-29 00:00:00,2025,9,Sep,2025-09,North,Furniture,Bookcases,Customer 110,1,0.4,31-40%,128.02,-1.41
+ORD-1009,2025-10-01 00:00:00,2025,10,Oct,2025-10,East,Office Supplies,Binders,Customer 064,7,0.3,21-30%,179.28,20.13
+ORD-0629,2025-10-02 00:00:00,2025,10,Oct,2025-10,North,Office Supplies,Storage,Customer 034,2,0.05,1-10%,134.43,28.27
+ORD-1195,2025-10-02 00:00:00,2025,10,Oct,2025-10,North,Furniture,Bookcases,Customer 140,2,0,No Discount,381.27,85.04
+ORD-1111,2025-10-03 00:00:00,2025,10,Oct,2025-10,East,Technology,Laptops,Customer 236,1,0.2,11-20%,843.49,131.45
+ORD-0098,2025-10-03 00:00:00,2025,10,Oct,2025-10,West,Office Supplies,Binders,Customer 038,4,0.05,1-10%,186.52,53.89
+ORD-0973,2025-10-04 00:00:00,2025,10,Oct,2025-10,West,Technology,Accessories,Customer 279,1,0.2,11-20%,64.07,8.12
+ORD-0120,2025-10-05 00:00:00,2025,10,Oct,2025-10,East,Furniture,Bookcases,Customer 266,1,0.1,1-10%,155.97,25.03
+ORD-0379,2025-10-06 00:00:00,2025,10,Oct,2025-10,East,Furniture,Chairs,Customer 233,4,0.15,11-20%,753.61,36.24
+ORD-0303,2025-10-07 00:00:00,2025,10,Oct,2025-10,East,Office Supplies,Paper,Customer 046,3,0,No Discount,62.59,15.93
+ORD-0104,2025-10-07 00:00:00,2025,10,Oct,2025-10,South,Office Supplies,Storage,Customer 015,3,0.15,11-20%,187.16,31.26
+ORD-0446,2025-10-07 00:00:00,2025,10,Oct,2025-10,North,Technology,Accessories,Customer 209,4,0.15,11-20%,254.19,32.84
+ORD-1308,2025-10-07 00:00:00,2025,10,Oct,2025-10,South,Furniture,Tables,Customer 032,5,0,No Discount,1370.45,241.55
+ORD-1146,2025-10-08 00:00:00,2025,10,Oct,2025-10,West,Technology,Phones,Customer 059,1,0.1,1-10%,500.23,102.38
+ORD-0351,2025-10-08 00:00:00,2025,10,Oct,2025-10,South,Office Supplies,Storage,Customer 037,3,0.2,11-20%,224.08,52.36
+ORD-1246,2025-10-08 00:00:00,2025,10,Oct,2025-10,North,Technology,Accessories,Customer 074,4,0.05,1-10%,386.41,100.78
+ORD-0226,2025-10-09 00:00:00,2025,10,Oct,2025-10,West,Furniture,Chairs,Customer 115,4,0.1,1-10%,609.94,43.78
+ORD-0852,2025-10-09 00:00:00,2025,10,Oct,2025-10,East,Furniture,Tables,Customer 118,5,0,No Discount,1805.23,186.54
+ORD-1149,2025-10-10 00:00:00,2025,10,Oct,2025-10,North,Technology,Laptops,Customer 144,5,0,No Discount,4130,1266.44
+ORD-0508,2025-10-10 00:00:00,2025,10,Oct,2025-10,West,Technology,Phones,Customer 208,6,0.4,31-40%,2686.33,364.06
+ORD-1110,2025-10-12 00:00:00,2025,10,Oct,2025-10,South,Office Supplies,Paper,Customer 276,5,0.4,31-40%,60.07,7.01
+ORD-0472,2025-10-13 00:00:00,2025,10,Oct,2025-10,West,Office Supplies,Storage,Customer 163,3,0.3,21-30%,193.31,36.61
+ORD-0670,2025-10-13 00:00:00,2025,10,Oct,2025-10,North,Technology,Phones,Customer 239,6,0.15,11-20%,3167.82,666.42
+ORD-0964,2025-10-14 00:00:00,2025,10,Oct,2025-10,South,Office Supplies,Paper,Customer 224,6,0.3,21-30%,79.81,15.99
+ORD-0355,2025-10-17 00:00:00,2025,10,Oct,2025-10,West,Furniture,Tables,Customer 111,6,0,No Discount,1509.99,221.07
+ORD-0042,2025-10-17 00:00:00,2025,10,Oct,2025-10,East,Technology,Accessories,Customer 120,5,0.4,31-40%,298.97,10.69
+ORD-0892,2025-10-17 00:00:00,2025,10,Oct,2025-10,South,Technology,Phones,Customer 184,1,0.05,1-10%,645.54,163.65
+ORD-0698,2025-10-18 00:00:00,2025,10,Oct,2025-10,South,Furniture,Tables,Customer 004,3,0.1,1-10%,878.03,117.67
+ORD-0910,2025-10-18 00:00:00,2025,10,Oct,2025-10,North,Technology,Accessories,Customer 260,6,0.15,11-20%,436.82,92.7
+ORD-0456,2025-10-19 00:00:00,2025,10,Oct,2025-10,West,Furniture,Chairs,Customer 006,3,0.05,1-10%,438.09,34.34
+ORD-0800,2025-10-19 00:00:00,2025,10,Oct,2025-10,West,Office Supplies,Art,Customer 143,1,0.05,1-10%,25,5.13
+ORD-0596,2025-10-19 00:00:00,2025,10,Oct,2025-10,North,Furniture,Tables,Customer 187,4,0.05,1-10%,999.23,93.63
+ORD-1485,2025-10-20 00:00:00,2025,10,Oct,2025-10,North,Technology,Accessories,Customer 230,7,0.1,1-10%,631.59,93.57
+ORD-0324,2025-10-20 00:00:00,2025,10,Oct,2025-10,North,Furniture,Tables,Customer 243,7,0.1,1-10%,2269.19,147.36
+ORD-0655,2025-10-21 00:00:00,2025,10,Oct,2025-10,North,Office Supplies,Binders,Customer 185,3,0,No Discount,115.04,29.75
+ORD-0151,2025-10-21 00:00:00,2025,10,Oct,2025-10,West,Technology,Laptops,Customer 107,5,0.15,11-20%,4031.05,762.98
+ORD-0139,2025-10-22 00:00:00,2025,10,Oct,2025-10,East,Office Supplies,Art,Customer 025,1,0.15,11-20%,32.61,8.69
+ORD-1333,2025-10-22 00:00:00,2025,10,Oct,2025-10,South,Technology,Accessories,Customer 196,6,0,No Discount,455.58,135.46
+ORD-1434,2025-10-22 00:00:00,2025,10,Oct,2025-10,East,Furniture,Chairs,Customer 111,2,0.2,11-20%,299.51,9.72
+ORD-0113,2025-10-22 00:00:00,2025,10,Oct,2025-10,East,Office Supplies,Storage,Customer 117,7,0,No Discount,513.86,160.53
+ORD-0702,2025-10-22 00:00:00,2025,10,Oct,2025-10,South,Office Supplies,Paper,Customer 135,4,0.1,1-10%,109.48,32.21
+ORD-0116,2025-10-23 00:00:00,2025,10,Oct,2025-10,East,Furniture,Bookcases,Customer 084,2,0,No Discount,475.98,54.7
+ORD-0540,2025-10-24 00:00:00,2025,10,Oct,2025-10,North,Furniture,Tables,Customer 108,5,0,No Discount,1954.54,240.8
+ORD-0280,2025-10-27 00:00:00,2025,10,Oct,2025-10,South,Office Supplies,Binders,Customer 021,4,0.2,11-20%,152.96,30.47
+ORD-0344,2025-10-27 00:00:00,2025,10,Oct,2025-10,East,Office Supplies,Storage,Customer 250,4,0.15,11-20%,321.44,73.91
+ORD-1021,2025-10-27 00:00:00,2025,10,Oct,2025-10,North,Office Supplies,Binders,Customer 168,6,0.2,11-20%,187.29,31.42
+ORD-0952,2025-10-27 00:00:00,2025,10,Oct,2025-10,East,Office Supplies,Art,Customer 023,6,0.3,21-30%,170.12,21.73
+ORD-1103,2025-10-27 00:00:00,2025,10,Oct,2025-10,East,Furniture,Bookcases,Customer 208,7,0.2,11-20%,1407.39,190.99
+ORD-1441,2025-10-27 00:00:00,2025,10,Oct,2025-10,West,Technology,Phones,Customer 214,3,0.2,11-20%,1785.09,355.45
+ORD-0864,2025-10-29 00:00:00,2025,10,Oct,2025-10,East,Technology,Phones,Customer 083,5,0.15,11-20%,2312.9,394.39
+ORD-1491,2025-10-30 00:00:00,2025,10,Oct,2025-10,West,Furniture,Tables,Customer 019,1,0.2,11-20%,195.92,11.69
+ORD-0148,2025-10-31 00:00:00,2025,10,Oct,2025-10,West,Technology,Accessories,Customer 193,2,0.05,1-10%,148.22,23.48
+ORD-0310,2025-10-31 00:00:00,2025,10,Oct,2025-10,West,Technology,Phones,Customer 255,4,0.15,11-20%,2757.46,654.34
+ORD-1106,2025-10-31 00:00:00,2025,10,Oct,2025-10,East,Technology,Accessories,Customer 297,3,0.3,21-30%,190.54,16.49
+ORD-1378,2025-10-31 00:00:00,2025,10,Oct,2025-10,West,Office Supplies,Paper,Customer 252,1,0,No Discount,22.05,7.34
+ORD-0950,2025-11-01 00:00:00,2025,11,Nov,2025-11,East,Furniture,Tables,Customer 196,2,0.1,1-10%,578.16,64.28
+ORD-0445,2025-11-02 00:00:00,2025,11,Nov,2025-11,North,Furniture,Bookcases,Customer 247,6,0.1,1-10%,1181.69,136.07
+ORD-1379,2025-11-02 00:00:00,2025,11,Nov,2025-11,West,Technology,Accessories,Customer 186,5,0.3,21-30%,331.53,50.05
+ORD-0860,2025-11-04 00:00:00,2025,11,Nov,2025-11,East,Furniture,Bookcases,Customer 284,3,0.15,11-20%,446.11,75.93
+ORD-0363,2025-11-04 00:00:00,2025,11,Nov,2025-11,North,Furniture,Bookcases,Customer 083,4,0.15,11-20%,900.29,152.62
+ORD-0570,2025-11-04 00:00:00,2025,11,Nov,2025-11,West,Technology,Accessories,Customer 022,2,0.1,1-10%,133.11,31.29
+ORD-1400,2025-11-04 00:00:00,2025,11,Nov,2025-11,East,Office Supplies,Storage,Customer 024,3,0.15,11-20%,179.44,49.3
+ORD-1079,2025-11-05 00:00:00,2025,11,Nov,2025-11,South,Technology,Phones,Customer 173,7,0.2,11-20%,3877.62,794.69
+ORD-1090,2025-11-07 00:00:00,2025,11,Nov,2025-11,East,Technology,Laptops,Customer 107,2,0.15,11-20%,1459.53,306.65
+ORD-0019,2025-11-07 00:00:00,2025,11,Nov,2025-11,South,Furniture,Chairs,Customer 160,1,0,No Discount,165.39,36.72
+ORD-0959,2025-11-07 00:00:00,2025,11,Nov,2025-11,West,Furniture,Chairs,Customer 136,3,0.3,21-30%,406.06,15.49
+ORD-1266,2025-11-09 00:00:00,2025,11,Nov,2025-11,North,Furniture,Tables,Customer 248,5,0.4,31-40%,1148.64,58.22
+ORD-1413,2025-11-10 00:00:00,2025,11,Nov,2025-11,West,Office Supplies,Storage,Customer 135,2,0.2,11-20%,126.11,23.24
+ORD-0828,2025-11-10 00:00:00,2025,11,Nov,2025-11,East,Office Supplies,Storage,Customer 248,2,0.3,21-30%,130.23,26.8
+ORD-1100,2025-11-10 00:00:00,2025,11,Nov,2025-11,East,Technology,Phones,Customer 079,1,0,No Discount,724.16,155.97
+ORD-0437,2025-11-10 00:00:00,2025,11,Nov,2025-11,South,Technology,Accessories,Customer 018,4,0.15,11-20%,251.59,57.18
+ORD-1002,2025-11-11 00:00:00,2025,11,Nov,2025-11,South,Technology,Accessories,Customer 047,4,0,No Discount,289.33,53.28
+ORD-0203,2025-11-11 00:00:00,2025,11,Nov,2025-11,North,Technology,Phones,Customer 098,1,0.3,21-30%,519.24,74.97
+ORD-0030,2025-11-11 00:00:00,2025,11,Nov,2025-11,North,Office Supplies,Art,Customer 135,4,0.2,11-20%,97.29,17.08
+ORD-0623,2025-11-12 00:00:00,2025,11,Nov,2025-11,East,Office Supplies,Art,Customer 137,7,0.2,11-20%,202.26,33.69
+ORD-0110,2025-11-13 00:00:00,2025,11,Nov,2025-11,West,Furniture,Bookcases,Customer 293,4,0,No Discount,1064.25,213.5
+ORD-0900,2025-11-13 00:00:00,2025,11,Nov,2025-11,West,Technology,Accessories,Customer 129,7,0,No Discount,559.74,100.31
+ORD-0808,2025-11-13 00:00:00,2025,11,Nov,2025-11,West,Office Supplies,Art,Customer 055,7,0.1,1-10%,235.64,41.21
+ORD-1340,2025-11-14 00:00:00,2025,11,Nov,2025-11,South,Technology,Accessories,Customer 029,7,0.1,1-10%,615.84,150.59
+ORD-1211,2025-11-14 00:00:00,2025,11,Nov,2025-11,West,Office Supplies,Paper,Customer 188,4,0.15,11-20%,92.04,16.33
+ORD-1330,2025-11-14 00:00:00,2025,11,Nov,2025-11,East,Technology,Phones,Customer 010,6,0.1,1-10%,3892.48,930.28
+ORD-0311,2025-11-14 00:00:00,2025,11,Nov,2025-11,West,Office Supplies,Art,Customer 035,1,0.2,11-20%,28.35,3.82
+ORD-0620,2025-11-15 00:00:00,2025,11,Nov,2025-11,West,Technology,Laptops,Customer 282,6,0,No Discount,6021.47,1505.67
+ORD-0172,2025-11-16 00:00:00,2025,11,Nov,2025-11,East,Technology,Laptops,Customer 181,2,0.2,11-20%,1530.88,181.22
+ORD-1196,2025-11-16 00:00:00,2025,11,Nov,2025-11,East,Office Supplies,Binders,Customer 259,5,0,No Discount,263.76,74.26
+ORD-0643,2025-11-16 00:00:00,2025,11,Nov,2025-11,North,Furniture,Bookcases,Customer 075,3,0.15,11-20%,454.4,36.89
+ORD-1031,2025-11-17 00:00:00,2025,11,Nov,2025-11,South,Technology,Laptops,Customer 186,2,0.2,11-20%,1286.08,211.45
+ORD-1388,2025-11-17 00:00:00,2025,11,Nov,2025-11,West,Furniture,Bookcases,Customer 145,6,0.2,11-20%,962.88,29.99
+ORD-0004,2025-11-17 00:00:00,2025,11,Nov,2025-11,South,Furniture,Tables,Customer 131,6,0.05,1-10%,1836.98,285.54
+ORD-0194,2025-11-17 00:00:00,2025,11,Nov,2025-11,East,Furniture,Chairs,Customer 156,5,0.15,11-20%,872.78,118.92
+ORD-1301,2025-11-18 00:00:00,2025,11,Nov,2025-11,West,Office Supplies,Art,Customer 008,7,0.05,1-10%,180.39,54.98
+ORD-0031,2025-11-18 00:00:00,2025,11,Nov,2025-11,North,Office Supplies,Art,Customer 158,4,0.15,11-20%,127.11,23.21
+ORD-0470,2025-11-18 00:00:00,2025,11,Nov,2025-11,South,Office Supplies,Paper,Customer 255,6,0.1,1-10%,114.82,27.21
+ORD-1494,2025-11-18 00:00:00,2025,11,Nov,2025-11,South,Technology,Laptops,Customer 300,6,0.2,11-20%,4981.73,612.66
+ORD-0157,2025-11-18 00:00:00,2025,11,Nov,2025-11,West,Furniture,Chairs,Customer 224,5,0.3,21-30%,784.81,-5.01
+ORD-0728,2025-11-19 00:00:00,2025,11,Nov,2025-11,West,Furniture,Bookcases,Customer 027,4,0.1,1-10%,806.32,125.33
+ORD-0404,2025-11-21 00:00:00,2025,11,Nov,2025-11,West,Technology,Laptops,Customer 239,6,0.2,11-20%,5328.39,700.16
+ORD-0364,2025-11-21 00:00:00,2025,11,Nov,2025-11,West,Office Supplies,Art,Customer 217,5,0,No Discount,134.95,37.66
+ORD-0091,2025-11-22 00:00:00,2025,11,Nov,2025-11,South,Furniture,Chairs,Customer 229,2,0.15,11-20%,266.89,28.62
+ORD-0298,2025-11-22 00:00:00,2025,11,Nov,2025-11,East,Technology,Phones,Customer 279,2,0.1,1-10%,1140.96,273.64
+ORD-0395,2025-11-23 00:00:00,2025,11,Nov,2025-11,North,Office Supplies,Art,Customer 154,3,0.1,1-10%,110.91,32.31
+ORD-0197,2025-11-23 00:00:00,2025,11,Nov,2025-11,West,Technology,Accessories,Customer 285,2,0.4,31-40%,81.27,13.27
+ORD-0840,2025-11-23 00:00:00,2025,11,Nov,2025-11,East,Furniture,Tables,Customer 289,7,0.1,1-10%,2323.91,237.98
+ORD-0719,2025-11-24 00:00:00,2025,11,Nov,2025-11,South,Furniture,Chairs,Customer 103,4,0.3,21-30%,411.69,47.74
+ORD-0436,2025-11-24 00:00:00,2025,11,Nov,2025-11,West,Furniture,Chairs,Customer 058,5,0.2,11-20%,823.46,68.85
+ORD-1256,2025-11-25 00:00:00,2025,11,Nov,2025-11,West,Furniture,Tables,Customer 081,3,0,No Discount,871.2,148.61
+ORD-0107,2025-11-26 00:00:00,2025,11,Nov,2025-11,West,Furniture,Chairs,Customer 173,7,0.2,11-20%,831.56,43.32
+ORD-1310,2025-11-27 00:00:00,2025,11,Nov,2025-11,North,Office Supplies,Storage,Customer 252,3,0.4,31-40%,126.94,17.85
+ORD-0916,2025-11-27 00:00:00,2025,11,Nov,2025-11,East,Office Supplies,Art,Customer 216,1,0.1,1-10%,27.69,7.74
+ORD-0527,2025-11-28 00:00:00,2025,11,Nov,2025-11,East,Office Supplies,Binders,Customer 076,5,0.05,1-10%,175.74,34.92
+ORD-0991,2025-11-28 00:00:00,2025,11,Nov,2025-11,North,Office Supplies,Binders,Customer 290,3,0.15,11-20%,113.12,25.74
+ORD-1299,2025-11-29 00:00:00,2025,11,Nov,2025-11,West,Office Supplies,Binders,Customer 211,4,0,No Discount,201.15,45.54
+ORD-0618,2025-11-29 00:00:00,2025,11,Nov,2025-11,West,Furniture,Bookcases,Customer 177,1,0.3,21-30%,177.42,18.86
+ORD-1038,2025-11-29 00:00:00,2025,11,Nov,2025-11,East,Furniture,Chairs,Customer 109,2,0,No Discount,400.59,40.6
+ORD-0995,2025-11-29 00:00:00,2025,11,Nov,2025-11,West,Furniture,Chairs,Customer 299,6,0.2,11-20%,767.2,112.54
+ORD-0182,2025-11-30 00:00:00,2025,11,Nov,2025-11,East,Furniture,Bookcases,Customer 012,2,0.1,1-10%,440.52,60.82
+ORD-0921,2025-11-30 00:00:00,2025,11,Nov,2025-11,South,Furniture,Chairs,Customer 056,2,0.2,11-20%,330.36,29.48
+ORD-0398,2025-11-30 00:00:00,2025,11,Nov,2025-11,North,Office Supplies,Storage,Customer 132,7,0.3,21-30%,479.51,105.47
+ORD-0382,2025-11-30 00:00:00,2025,11,Nov,2025-11,South,Office Supplies,Art,Customer 241,1,0.3,21-30%,27.04,2.8
+ORD-0938,2025-11-30 00:00:00,2025,11,Nov,2025-11,East,Technology,Phones,Customer 014,6,0,No Discount,4821.42,1186.86
+ORD-1071,2025-12-01 00:00:00,2025,12,Dec,2025-12,North,Office Supplies,Paper,Customer 022,5,0,No Discount,119.21,26.8
+ORD-0896,2025-12-01 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Storage,Customer 128,3,0.05,1-10%,249.11,79.71
+ORD-0841,2025-12-01 00:00:00,2025,12,Dec,2025-12,North,Office Supplies,Paper,Customer 101,6,0.15,11-20%,110.82,28.66
+ORD-0873,2025-12-02 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Storage,Customer 176,7,0.2,11-20%,419.27,55.54
+ORD-0304,2025-12-02 00:00:00,2025,12,Dec,2025-12,West,Furniture,Chairs,Customer 281,3,0.1,1-10%,559.47,68.29
+ORD-0132,2025-12-02 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Binders,Customer 193,2,0.1,1-10%,75.08,22.47
+ORD-1311,2025-12-03 00:00:00,2025,12,Dec,2025-12,South,Technology,Accessories,Customer 044,6,0,No Discount,667.48,114.81
+ORD-1425,2025-12-03 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Storage,Customer 220,5,0.1,1-10%,325.83,74.35
+ORD-1160,2025-12-04 00:00:00,2025,12,Dec,2025-12,North,Furniture,Bookcases,Customer 166,1,0.1,1-10%,149.52,21.33
+ORD-0821,2025-12-04 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Storage,Customer 133,1,0.2,11-20%,61.76,10.68
+ORD-0078,2025-12-04 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Storage,Customer 249,4,0.4,31-40%,202.38,30.18
+ORD-0652,2025-12-04 00:00:00,2025,12,Dec,2025-12,North,Technology,Laptops,Customer 209,5,0.1,1-10%,3165.34,603.14
+ORD-0790,2025-12-05 00:00:00,2025,12,Dec,2025-12,South,Technology,Phones,Customer 075,7,0.15,11-20%,4663.5,1153.85
+ORD-0165,2025-12-05 00:00:00,2025,12,Dec,2025-12,North,Office Supplies,Paper,Customer 192,6,0.15,11-20%,98.54,26.56
+ORD-0953,2025-12-06 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Binders,Customer 085,1,0.4,31-40%,27.04,1.94
+ORD-1483,2025-12-06 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Art,Customer 268,3,0.05,1-10%,118.84,35.16
+ORD-0730,2025-12-08 00:00:00,2025,12,Dec,2025-12,North,Technology,Laptops,Customer 084,7,0.3,21-30%,3794.17,330.79
+ORD-0880,2025-12-08 00:00:00,2025,12,Dec,2025-12,East,Office Supplies,Storage,Customer 225,4,0,No Discount,283.79,95.69
+ORD-0125,2025-12-09 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Paper,Customer 119,4,0.1,1-10%,104.63,22.58
+ORD-1185,2025-12-09 00:00:00,2025,12,Dec,2025-12,West,Furniture,Chairs,Customer 038,6,0.2,11-20%,932.76,70.64
+ORD-1128,2025-12-09 00:00:00,2025,12,Dec,2025-12,South,Furniture,Chairs,Customer 265,4,0.2,11-20%,450.3,33.99
+ORD-0475,2025-12-09 00:00:00,2025,12,Dec,2025-12,West,Technology,Laptops,Customer 029,5,0.1,1-10%,3828.45,554
+ORD-0945,2025-12-09 00:00:00,2025,12,Dec,2025-12,South,Furniture,Bookcases,Customer 130,6,0,No Discount,998.46,201.07
+ORD-0477,2025-12-09 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Storage,Customer 246,7,0.05,1-10%,663.84,212.33
+ORD-0150,2025-12-10 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Storage,Customer 226,7,0.3,21-30%,479.17,76.88
+ORD-0273,2025-12-10 00:00:00,2025,12,Dec,2025-12,South,Technology,Accessories,Customer 035,1,0.3,21-30%,71.9,5.24
+ORD-0998,2025-12-10 00:00:00,2025,12,Dec,2025-12,North,Technology,Phones,Customer 257,2,0.3,21-30%,733.94,125.53
+ORD-1303,2025-12-11 00:00:00,2025,12,Dec,2025-12,North,Office Supplies,Storage,Customer 138,2,0,No Discount,190.33,59.72
+ORD-1045,2025-12-11 00:00:00,2025,12,Dec,2025-12,North,Furniture,Chairs,Customer 085,7,0.1,1-10%,1324.48,100.41
+ORD-0870,2025-12-12 00:00:00,2025,12,Dec,2025-12,East,Office Supplies,Art,Customer 127,5,0.15,11-20%,156.69,41.75
+ORD-0749,2025-12-13 00:00:00,2025,12,Dec,2025-12,East,Technology,Phones,Customer 220,6,0,No Discount,4094.21,1011.47
+ORD-0136,2025-12-13 00:00:00,2025,12,Dec,2025-12,North,Office Supplies,Binders,Customer 025,1,0.1,1-10%,44.65,11.11
+ORD-0884,2025-12-13 00:00:00,2025,12,Dec,2025-12,North,Office Supplies,Art,Customer 085,7,0.3,21-30%,206.85,25.71
+ORD-0963,2025-12-13 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Binders,Customer 033,1,0.15,11-20%,28.78,4.54
+ORD-0421,2025-12-14 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Art,Customer 017,1,0.4,31-40%,16.46,2.18
+ORD-0545,2025-12-14 00:00:00,2025,12,Dec,2025-12,East,Technology,Phones,Customer 215,3,0.3,21-30%,1310.3,176.32
+ORD-0681,2025-12-15 00:00:00,2025,12,Dec,2025-12,West,Technology,Accessories,Customer 274,5,0.15,11-20%,456.03,88.95
+ORD-0210,2025-12-15 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Binders,Customer 290,3,0,No Discount,164.32,40.95
+ORD-0816,2025-12-17 00:00:00,2025,12,Dec,2025-12,West,Technology,Accessories,Customer 134,7,0.15,11-20%,519.84,70.59
+ORD-1401,2025-12-18 00:00:00,2025,12,Dec,2025-12,South,Furniture,Tables,Customer 208,6,0.2,11-20%,1472.06,185.51
+ORD-1088,2025-12-18 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Binders,Customer 111,1,0.15,11-20%,37.09,5.82
+ORD-0812,2025-12-19 00:00:00,2025,12,Dec,2025-12,East,Office Supplies,Binders,Customer 190,3,0,No Discount,102.6,28.95
+ORD-1153,2025-12-20 00:00:00,2025,12,Dec,2025-12,East,Technology,Accessories,Customer 154,7,0.2,11-20%,533.35,126.95
+ORD-0484,2025-12-21 00:00:00,2025,12,Dec,2025-12,South,Technology,Accessories,Customer 007,4,0.3,21-30%,300.25,47.22
+ORD-0641,2025-12-22 00:00:00,2025,12,Dec,2025-12,West,Furniture,Bookcases,Customer 173,4,0.15,11-20%,742.63,84.61
+ORD-0118,2025-12-23 00:00:00,2025,12,Dec,2025-12,East,Furniture,Bookcases,Customer 286,6,0.05,1-10%,1060.06,82.28
+ORD-1221,2025-12-23 00:00:00,2025,12,Dec,2025-12,North,Technology,Phones,Customer 110,4,0.05,1-10%,2446.27,712.8
+ORD-0962,2025-12-23 00:00:00,2025,12,Dec,2025-12,West,Furniture,Bookcases,Customer 266,1,0.1,1-10%,179.91,29.2
+ORD-1171,2025-12-24 00:00:00,2025,12,Dec,2025-12,East,Technology,Laptops,Customer 281,7,0,No Discount,7079.04,1256.01
+ORD-0009,2025-12-25 00:00:00,2025,12,Dec,2025-12,West,Furniture,Tables,Customer 252,5,0.05,1-10%,1769.84,216.71
+ORD-0255,2025-12-25 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Paper,Customer 122,4,0.05,1-10%,113.38,30.94
+ORD-0101,2025-12-25 00:00:00,2025,12,Dec,2025-12,East,Technology,Accessories,Customer 132,5,0.2,11-20%,389.74,67.51
+ORD-1461,2025-12-25 00:00:00,2025,12,Dec,2025-12,South,Technology,Phones,Customer 180,6,0.2,11-20%,3523.72,822.56
+ORD-0521,2025-12-26 00:00:00,2025,12,Dec,2025-12,West,Furniture,Chairs,Customer 143,5,0.2,11-20%,731.32,44.11
+ORD-0247,2025-12-26 00:00:00,2025,12,Dec,2025-12,East,Furniture,Bookcases,Customer 069,1,0.15,11-20%,146.48,16.12
+ORD-0174,2025-12-26 00:00:00,2025,12,Dec,2025-12,South,Technology,Phones,Customer 064,6,0.1,1-10%,3668.41,717.74
+ORD-0013,2025-12-26 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Art,Customer 131,3,0.15,11-20%,84.03,23.82
+ORD-0419,2025-12-26 00:00:00,2025,12,Dec,2025-12,East,Technology,Phones,Customer 289,5,0,No Discount,2771.28,619.11
+ORD-1097,2025-12-27 00:00:00,2025,12,Dec,2025-12,East,Technology,Phones,Customer 195,4,0.15,11-20%,2630.62,461.17
+ORD-0129,2025-12-27 00:00:00,2025,12,Dec,2025-12,South,Furniture,Chairs,Customer 041,5,0,No Discount,1086.43,115.69
+ORD-0323,2025-12-27 00:00:00,2025,12,Dec,2025-12,East,Technology,Phones,Customer 161,1,0.15,11-20%,604.05,80.66
+ORD-0836,2025-12-28 00:00:00,2025,12,Dec,2025-12,West,Office Supplies,Art,Customer 178,7,0.1,1-10%,176.61,29.53
+ORD-0684,2025-12-29 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Art,Customer 181,2,0.1,1-10%,77.54,17.62
+ORD-0281,2025-12-30 00:00:00,2025,12,Dec,2025-12,East,Technology,Laptops,Customer 161,5,0.15,11-20%,3756.02,952.45
+ORD-1176,2025-12-30 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Binders,Customer 077,6,0.15,11-20%,247.13,69.54
+ORD-0996,2025-12-31 00:00:00,2025,12,Dec,2025-12,North,Office Supplies,Storage,Customer 082,2,0,No Discount,158.08,53.56
+ORD-0346,2025-12-31 00:00:00,2025,12,Dec,2025-12,South,Office Supplies,Binders,Customer 163,2,0.1,1-10%,85.14,21.1
