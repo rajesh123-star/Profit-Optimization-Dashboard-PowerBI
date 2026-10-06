@@ -14,3 +14,12 @@ The dashboard helps identify profitable products, categories, and business segme
 - Compare sales and profit across different categories
 - Identify opportunities for profit optimization
 - Provide interactive insights through Power BI
+
+🛠️ Tools & Technologies
+- Power BI
+- SQL
+- Microsoft Excel
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- DAX
