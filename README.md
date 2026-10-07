@@ -55,7 +55,10 @@ The dashboard can be used to identify:
 📁 Project Files
 
 Profit_Optimization_Dashboard.png – visual snapshot of the report
+
 Profit_Optimization_Dashboard_Data.csv – raw dataset
+
+
 
 
 👨‍💻 Author
